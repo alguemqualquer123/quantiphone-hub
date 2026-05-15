@@ -1,0 +1,5536 @@
+{
+  "generatedAt": "2026-05-15T20:01:55.356Z",
+  "totalAssets": 553,
+  "items": [
+    {
+      "name": "001",
+      "path": "assets/images/backgrounds/001.webp",
+      "sourcePath": "images/backgrounds/001.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 14334,
+      "hash": "88191292"
+    },
+    {
+      "name": "14promax",
+      "path": "assets/images/cases/iphone14/14promax.webp",
+      "sourcePath": "images/cases/iphone14/14promax.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26726,
+      "hash": "314b8cab"
+    },
+    {
+      "name": "14promax_black",
+      "path": "assets/images/cases/iphone14/14promax_black.webp",
+      "sourcePath": "images/cases/iphone14/14promax_black.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26106,
+      "hash": "c900a3b3"
+    },
+    {
+      "name": "14promax_blue",
+      "path": "assets/images/cases/iphone14/14promax_blue.webp",
+      "sourcePath": "images/cases/iphone14/14promax_blue.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29750,
+      "hash": "dc12975a"
+    },
+    {
+      "name": "14promax_bluein",
+      "path": "assets/images/cases/iphone14/14promax_bluein.webp",
+      "sourcePath": "images/cases/iphone14/14promax_bluein.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30568,
+      "hash": "02169bb3"
+    },
+    {
+      "name": "14promax_green",
+      "path": "assets/images/cases/iphone14/14promax_green.webp",
+      "sourcePath": "images/cases/iphone14/14promax_green.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30858,
+      "hash": "f0dc462c"
+    },
+    {
+      "name": "14promax_pink",
+      "path": "assets/images/cases/iphone14/14promax_pink.webp",
+      "sourcePath": "images/cases/iphone14/14promax_pink.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30278,
+      "hash": "a6149001"
+    },
+    {
+      "name": "14promax_purple",
+      "path": "assets/images/cases/iphone14/14promax_purple.webp",
+      "sourcePath": "images/cases/iphone14/14promax_purple.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30298,
+      "hash": "0557d78f"
+    },
+    {
+      "name": "14promax_red",
+      "path": "assets/images/cases/iphone14/14promax_red.webp",
+      "sourcePath": "images/cases/iphone14/14promax_red.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30700,
+      "hash": "f2bed01e"
+    },
+    {
+      "name": "14promax_yellow",
+      "path": "assets/images/cases/iphone14/14promax_yellow.webp",
+      "sourcePath": "images/cases/iphone14/14promax_yellow.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30182,
+      "hash": "1a05af09"
+    },
+    {
+      "name": "achamar",
+      "path": "assets/images/sounds/misc/achamar.mp3",
+      "sourcePath": "images/sounds/misc/achamar.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 150572,
+      "hash": "66fad492"
+    },
+    {
+      "name": "adicionarimagem",
+      "path": "assets/images/img/olx/adicionarimagem.webp",
+      "sourcePath": "images/img/olx/adicionarimagem.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 262256,
+      "hash": "5d4a1a22"
+    },
+    {
+      "name": "airdrop",
+      "path": "assets/images/img/apps/airdrop.webp",
+      "sourcePath": "images/img/apps/airdrop.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2396,
+      "hash": "3a1adcf6"
+    },
+    {
+      "name": "airdrop-logo",
+      "path": "assets/images/img/definicoes/airdrop-logo.webp",
+      "sourcePath": "images/img/definicoes/airdrop-logo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23636,
+      "hash": "b21b2ba5"
+    },
+    {
+      "name": "airdrop-png",
+      "path": "assets/images/img/apps/airdrop-png.webp",
+      "sourcePath": "images/img/apps/airdrop-png.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3758,
+      "hash": "b291902a"
+    },
+    {
+      "name": "alarm",
+      "path": "assets/images/sounds/alarm.ogg",
+      "sourcePath": "images/sounds/alarm.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 147835,
+      "hash": "41eeef34"
+    },
+    {
+      "name": "alarm",
+      "path": "assets/images/sounds/other/alarm.mp3",
+      "sourcePath": "images/sounds/other/alarm.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 85945,
+      "hash": "a41db6f7"
+    },
+    {
+      "name": "alarm-fill",
+      "path": "assets/images/icons/alarm-fill.svg",
+      "sourcePath": "images/icons/alarm-fill.svg",
+      "category": "audio",
+      "group": "images",
+      "kind": "image",
+      "size": 1131,
+      "hash": "6ab7e0c5"
+    },
+    {
+      "name": "album",
+      "path": "assets/images/icons/album.svg",
+      "sourcePath": "images/icons/album.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1013,
+      "hash": "92d86cfc"
+    },
+    {
+      "name": "anon",
+      "path": "assets/images/img/definicoes/anon.webp",
+      "sourcePath": "images/img/definicoes/anon.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 546,
+      "hash": "ef2d6cc3"
+    },
+    {
+      "name": "apex",
+      "path": "assets/images/sounds/ringtones/apex.mp3",
+      "sourcePath": "images/sounds/ringtones/apex.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 71537,
+      "hash": "a93b84b5"
+    },
+    {
+      "name": "app",
+      "path": "assets/images/icons/app.svg",
+      "sourcePath": "images/icons/app.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1074,
+      "hash": "46b8002f"
+    },
+    {
+      "name": "appstore",
+      "path": "assets/images/icons/appstore.webp",
+      "sourcePath": "images/icons/appstore.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1814,
+      "hash": "33bfdf79"
+    },
+    {
+      "name": "appstore",
+      "path": "assets/images/img/apps/appstore.webp",
+      "sourcePath": "images/img/apps/appstore.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1574,
+      "hash": "0aa10439"
+    },
+    {
+      "name": "atm",
+      "path": "assets/images/icons/atm.webp",
+      "sourcePath": "images/icons/atm.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 412,
+      "hash": "5f455863"
+    },
+    {
+      "name": "aviao",
+      "path": "assets/images/img/definicoes/aviao.webp",
+      "sourcePath": "images/img/definicoes/aviao.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1498,
+      "hash": "fd0bd667"
+    },
+    {
+      "name": "b1",
+      "path": "assets/images/backgrounds/b1.webp",
+      "sourcePath": "images/backgrounds/b1.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15298,
+      "hash": "1c1cd2ac"
+    },
+    {
+      "name": "b10",
+      "path": "assets/images/backgrounds/b10.webp",
+      "sourcePath": "images/backgrounds/b10.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 23884,
+      "hash": "e7799e2f"
+    },
+    {
+      "name": "b11",
+      "path": "assets/images/backgrounds/b11.webp",
+      "sourcePath": "images/backgrounds/b11.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 19562,
+      "hash": "a7d857dd"
+    },
+    {
+      "name": "b12",
+      "path": "assets/images/backgrounds/b12.webp",
+      "sourcePath": "images/backgrounds/b12.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 22036,
+      "hash": "791a594c"
+    },
+    {
+      "name": "b13",
+      "path": "assets/images/backgrounds/b13.webp",
+      "sourcePath": "images/backgrounds/b13.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 12336,
+      "hash": "763f8972"
+    },
+    {
+      "name": "b14",
+      "path": "assets/images/backgrounds/b14.webp",
+      "sourcePath": "images/backgrounds/b14.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11336,
+      "hash": "57c0b7f0"
+    },
+    {
+      "name": "b15",
+      "path": "assets/images/backgrounds/b15.webp",
+      "sourcePath": "images/backgrounds/b15.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 12968,
+      "hash": "bfc79047"
+    },
+    {
+      "name": "b16",
+      "path": "assets/images/backgrounds/b16.webp",
+      "sourcePath": "images/backgrounds/b16.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13570,
+      "hash": "78c65409"
+    },
+    {
+      "name": "b17",
+      "path": "assets/images/backgrounds/b17.webp",
+      "sourcePath": "images/backgrounds/b17.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 9116,
+      "hash": "943d8f5c"
+    },
+    {
+      "name": "b18",
+      "path": "assets/images/backgrounds/b18.webp",
+      "sourcePath": "images/backgrounds/b18.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 14360,
+      "hash": "418a5729"
+    },
+    {
+      "name": "b19",
+      "path": "assets/images/backgrounds/b19.webp",
+      "sourcePath": "images/backgrounds/b19.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11250,
+      "hash": "74abbfe9"
+    },
+    {
+      "name": "b2",
+      "path": "assets/images/backgrounds/b2.webp",
+      "sourcePath": "images/backgrounds/b2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13112,
+      "hash": "8ca85653"
+    },
+    {
+      "name": "b20",
+      "path": "assets/images/backgrounds/b20.webp",
+      "sourcePath": "images/backgrounds/b20.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11174,
+      "hash": "8a1eb94f"
+    },
+    {
+      "name": "b21",
+      "path": "assets/images/backgrounds/b21.webp",
+      "sourcePath": "images/backgrounds/b21.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 43812,
+      "hash": "66ddcf6f"
+    },
+    {
+      "name": "b22",
+      "path": "assets/images/backgrounds/b22.webp",
+      "sourcePath": "images/backgrounds/b22.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15490,
+      "hash": "e77b1d16"
+    },
+    {
+      "name": "b23",
+      "path": "assets/images/backgrounds/b23.webp",
+      "sourcePath": "images/backgrounds/b23.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 64062,
+      "hash": "d1ee8903"
+    },
+    {
+      "name": "b24",
+      "path": "assets/images/backgrounds/b24.webp",
+      "sourcePath": "images/backgrounds/b24.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 130662,
+      "hash": "87856ca5"
+    },
+    {
+      "name": "b25",
+      "path": "assets/images/backgrounds/b25.webp",
+      "sourcePath": "images/backgrounds/b25.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 26676,
+      "hash": "dfb83539"
+    },
+    {
+      "name": "b26",
+      "path": "assets/images/backgrounds/b26.webp",
+      "sourcePath": "images/backgrounds/b26.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 36696,
+      "hash": "2507c23d"
+    },
+    {
+      "name": "b27",
+      "path": "assets/images/backgrounds/b27.webp",
+      "sourcePath": "images/backgrounds/b27.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 115642,
+      "hash": "163eded3"
+    },
+    {
+      "name": "b28",
+      "path": "assets/images/backgrounds/b28.webp",
+      "sourcePath": "images/backgrounds/b28.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 47806,
+      "hash": "ff30128b"
+    },
+    {
+      "name": "b29",
+      "path": "assets/images/backgrounds/b29.webp",
+      "sourcePath": "images/backgrounds/b29.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21534,
+      "hash": "7258473a"
+    },
+    {
+      "name": "b3",
+      "path": "assets/images/backgrounds/b3.webp",
+      "sourcePath": "images/backgrounds/b3.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 12684,
+      "hash": "72b0bb64"
+    },
+    {
+      "name": "b30",
+      "path": "assets/images/backgrounds/b30.webp",
+      "sourcePath": "images/backgrounds/b30.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 26016,
+      "hash": "28929b23"
+    },
+    {
+      "name": "b31",
+      "path": "assets/images/backgrounds/b31.webp",
+      "sourcePath": "images/backgrounds/b31.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 28768,
+      "hash": "fd0af4b9"
+    },
+    {
+      "name": "b4",
+      "path": "assets/images/backgrounds/b4.webp",
+      "sourcePath": "images/backgrounds/b4.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13580,
+      "hash": "00b942b4"
+    },
+    {
+      "name": "b5",
+      "path": "assets/images/backgrounds/b5.webp",
+      "sourcePath": "images/backgrounds/b5.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 12828,
+      "hash": "81f980dc"
+    },
+    {
+      "name": "b6",
+      "path": "assets/images/backgrounds/b6.webp",
+      "sourcePath": "images/backgrounds/b6.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 5802,
+      "hash": "55031724"
+    },
+    {
+      "name": "b7",
+      "path": "assets/images/backgrounds/b7.webp",
+      "sourcePath": "images/backgrounds/b7.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24484,
+      "hash": "f254b14b"
+    },
+    {
+      "name": "b8",
+      "path": "assets/images/backgrounds/b8.webp",
+      "sourcePath": "images/backgrounds/b8.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24532,
+      "hash": "19fecef7"
+    },
+    {
+      "name": "b9",
+      "path": "assets/images/backgrounds/b9.webp",
+      "sourcePath": "images/backgrounds/b9.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24566,
+      "hash": "e0dc3257"
+    },
+    {
+      "name": "back",
+      "path": "assets/images/icons/back.svg",
+      "sourcePath": "images/icons/back.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 964,
+      "hash": "16cce353"
+    },
+    {
+      "name": "back_right",
+      "path": "assets/images/icons/back_right.svg",
+      "sourcePath": "images/icons/back_right.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 965,
+      "hash": "9b228841"
+    },
+    {
+      "name": "background",
+      "path": "assets/images/img/ubereats/background.webp",
+      "sourcePath": "images/img/ubereats/background.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37818,
+      "hash": "a99cbcc6"
+    },
+    {
+      "name": "background-1",
+      "path": "assets/images/backgrounds/background-1.webp",
+      "sourcePath": "images/backgrounds/background-1.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 9824,
+      "hash": "b994b319"
+    },
+    {
+      "name": "background-bebidas",
+      "path": "assets/images/img/ubereats/background-bebidas.webp",
+      "sourcePath": "images/img/ubereats/background-bebidas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12442,
+      "hash": "8f65b838"
+    },
+    {
+      "name": "background-comidas",
+      "path": "assets/images/img/ubereats/background-comidas.webp",
+      "sourcePath": "images/img/ubereats/background-comidas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23336,
+      "hash": "e79266c3"
+    },
+    {
+      "name": "backgroundjpBlack",
+      "path": "assets/images/backgrounds/backgroundjpBlack.webp",
+      "sourcePath": "images/backgrounds/backgroundjpBlack.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 427266,
+      "hash": "8a170fc8"
+    },
+    {
+      "name": "backgroundjpBlack",
+      "path": "assets/images/img/backgrounds/backgroundjpBlack.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpBlack.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 427266,
+      "hash": "8a170fc8"
+    },
+    {
+      "name": "backgroundjpBlue",
+      "path": "assets/images/backgrounds/backgroundjpBlue.webp",
+      "sourcePath": "images/backgrounds/backgroundjpBlue.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 149252,
+      "hash": "4a5972c7"
+    },
+    {
+      "name": "backgroundjpBlue",
+      "path": "assets/images/img/backgrounds/backgroundjpBlue.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpBlue.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 149252,
+      "hash": "4a5972c7"
+    },
+    {
+      "name": "backgroundjpCat",
+      "path": "assets/images/backgrounds/backgroundjpCat.webp",
+      "sourcePath": "images/backgrounds/backgroundjpCat.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 10334,
+      "hash": "babad7c4"
+    },
+    {
+      "name": "backgroundjpCat",
+      "path": "assets/images/img/backgrounds/backgroundjpCat.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpCat.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 10334,
+      "hash": "babad7c4"
+    },
+    {
+      "name": "backgroundjpCat2",
+      "path": "assets/images/backgrounds/backgroundjpCat2.webp",
+      "sourcePath": "images/backgrounds/backgroundjpCat2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 25456,
+      "hash": "a6e837a9"
+    },
+    {
+      "name": "backgroundjpCat2",
+      "path": "assets/images/img/backgrounds/backgroundjpCat2.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpCat2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 25456,
+      "hash": "a6e837a9"
+    },
+    {
+      "name": "backgroundjpGreen",
+      "path": "assets/images/backgrounds/backgroundjpGreen.webp",
+      "sourcePath": "images/backgrounds/backgroundjpGreen.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 135026,
+      "hash": "cf337e05"
+    },
+    {
+      "name": "backgroundjpGreen",
+      "path": "assets/images/img/backgrounds/backgroundjpGreen.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpGreen.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 135026,
+      "hash": "cf337e05"
+    },
+    {
+      "name": "backgroundjpRed",
+      "path": "assets/images/backgrounds/backgroundjpRed.webp",
+      "sourcePath": "images/backgrounds/backgroundjpRed.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 141414,
+      "hash": "cb3a7dd4"
+    },
+    {
+      "name": "backgroundjpRed",
+      "path": "assets/images/img/backgrounds/backgroundjpRed.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpRed.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 141414,
+      "hash": "cb3a7dd4"
+    },
+    {
+      "name": "backgroundjpWhite",
+      "path": "assets/images/backgrounds/backgroundjpWhite.webp",
+      "sourcePath": "images/backgrounds/backgroundjpWhite.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 502062,
+      "hash": "c5f2058b"
+    },
+    {
+      "name": "backgroundjpWhite",
+      "path": "assets/images/img/backgrounds/backgroundjpWhite.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpWhite.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 502062,
+      "hash": "c5f2058b"
+    },
+    {
+      "name": "backgroundjpWhite2",
+      "path": "assets/images/backgrounds/backgroundjpWhite2.webp",
+      "sourcePath": "images/backgrounds/backgroundjpWhite2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 150702,
+      "hash": "cdb18d01"
+    },
+    {
+      "name": "backgroundjpWhite2",
+      "path": "assets/images/img/backgrounds/backgroundjpWhite2.webp",
+      "sourcePath": "images/img/backgrounds/backgroundjpWhite2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 150702,
+      "hash": "cdb18d01"
+    },
+    {
+      "name": "bannerdicas",
+      "path": "assets/images/img/sistema/bannerdicas.webp",
+      "sourcePath": "images/img/sistema/bannerdicas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 77106,
+      "hash": "a36b6f99"
+    },
+    {
+      "name": "bateria",
+      "path": "assets/images/img/definicoes/bateria.webp",
+      "sourcePath": "images/img/definicoes/bateria.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1302,
+      "hash": "f17273d7"
+    },
+    {
+      "name": "batery",
+      "path": "assets/images/icons/batery.svg",
+      "sourcePath": "images/icons/batery.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1123,
+      "hash": "fe722a94"
+    },
+    {
+      "name": "battery",
+      "path": "assets/images/icons/battery.svg",
+      "sourcePath": "images/icons/battery.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1087,
+      "hash": "d1a087d9"
+    },
+    {
+      "name": "bg-dark",
+      "path": "assets/images/whatsapp/bg-dark.webp",
+      "sourcePath": "images/whatsapp/bg-dark.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6700,
+      "hash": "99f6ba05"
+    },
+    {
+      "name": "bg-light",
+      "path": "assets/images/whatsapp/bg-light.webp",
+      "sourcePath": "images/whatsapp/bg-light.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6870,
+      "hash": "c4d1e5b7"
+    },
+    {
+      "name": "bgdefault",
+      "path": "assets/images/backgrounds/newbg/bgdefault.webp",
+      "sourcePath": "images/backgrounds/newbg/bgdefault.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 12574,
+      "hash": "9a4a0292"
+    },
+    {
+      "name": "binglogo",
+      "path": "assets/images/img/safari/binglogo.webp",
+      "sourcePath": "images/img/safari/binglogo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5276,
+      "hash": "ca671eda"
+    },
+    {
+      "name": "black_frame",
+      "path": "assets/images/cases/black_frame.webp",
+      "sourcePath": "images/cases/black_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 36704,
+      "hash": "02fef134"
+    },
+    {
+      "name": "blue",
+      "path": "assets/images/img/definicoes/blue.webp",
+      "sourcePath": "images/img/definicoes/blue.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1696,
+      "hash": "ba37b8a3"
+    },
+    {
+      "name": "blue_frame",
+      "path": "assets/images/cases/blue_frame.webp",
+      "sourcePath": "images/cases/blue_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 45552,
+      "hash": "8d81c509"
+    },
+    {
+      "name": "Boat",
+      "path": "assets/images/backgrounds/newbg/Boat.webp",
+      "sourcePath": "images/backgrounds/newbg/Boat.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24348,
+      "hash": "cbfabb87"
+    },
+    {
+      "name": "bolsa",
+      "path": "assets/images/img/apps/bolsa.webp",
+      "sourcePath": "images/img/apps/bolsa.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1592,
+      "hash": "fc7b56c5"
+    },
+    {
+      "name": "bolsa",
+      "path": "assets/images/img/appstore/bolsa.webp",
+      "sourcePath": "images/img/appstore/bolsa.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25236,
+      "hash": "0a9bc12d"
+    },
+    {
+      "name": "bread",
+      "path": "assets/images/img/ubereats/bread.webp",
+      "sourcePath": "images/img/ubereats/bread.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4736,
+      "hash": "6b1974b0"
+    },
+    {
+      "name": "cactus",
+      "path": "assets/images/backgrounds/newbg/cactus.webp",
+      "sourcePath": "images/backgrounds/newbg/cactus.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 60292,
+      "hash": "ef67edf2"
+    },
+    {
+      "name": "calculadora",
+      "path": "assets/images/img/apps/calculadora.webp",
+      "sourcePath": "images/img/apps/calculadora.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5414,
+      "hash": "926f9d04"
+    },
+    {
+      "name": "calculadora",
+      "path": "assets/images/img/appstore/calculadora.webp",
+      "sourcePath": "images/img/appstore/calculadora.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 17136,
+      "hash": "2cb5f36d"
+    },
+    {
+      "name": "calculator",
+      "path": "assets/images/icons/calculator.webp",
+      "sourcePath": "images/icons/calculator.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 634,
+      "hash": "5cb6433f"
+    },
+    {
+      "name": "call",
+      "path": "assets/images/icons/call.webp",
+      "sourcePath": "images/icons/call.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 728,
+      "hash": "96c0a704"
+    },
+    {
+      "name": "callBusy",
+      "path": "assets/images/sounds/other/callBusy.mp3",
+      "sourcePath": "images/sounds/other/callBusy.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 95137,
+      "hash": "a5d3bd4b"
+    },
+    {
+      "name": "calling",
+      "path": "assets/images/sounds/other/calling.mp3",
+      "sourcePath": "images/sounds/other/calling.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 189673,
+      "hash": "834ee7e2"
+    },
+    {
+      "name": "camara",
+      "path": "assets/images/img/apps/camara.webp",
+      "sourcePath": "images/img/apps/camara.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1176,
+      "hash": "771edfec"
+    },
+    {
+      "name": "camara_tirar",
+      "path": "assets/images/sounds/misc/camara_tirar.mp3",
+      "sourcePath": "images/sounds/misc/camara_tirar.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 72948,
+      "hash": "42f49fb9"
+    },
+    {
+      "name": "camaranotch",
+      "path": "assets/images/img/camaranotch.webp",
+      "sourcePath": "images/img/camaranotch.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 360,
+      "hash": "01984b6b"
+    },
+    {
+      "name": "camera",
+      "path": "assets/images/icons/camera.svg",
+      "sourcePath": "images/icons/camera.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1189,
+      "hash": "f02f35c1"
+    },
+    {
+      "name": "camera",
+      "path": "assets/images/icons/camera.webp",
+      "sourcePath": "images/icons/camera.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 578,
+      "hash": "c7763144"
+    },
+    {
+      "name": "camera",
+      "path": "assets/images/img/appsimessage/camera.webp",
+      "sourcePath": "images/img/appsimessage/camera.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 908,
+      "hash": "cbd45efd"
+    },
+    {
+      "name": "camera_roll",
+      "path": "assets/images/icons/camera_roll.webp",
+      "sourcePath": "images/icons/camera_roll.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1112,
+      "hash": "798de860"
+    },
+    {
+      "name": "camera_roll",
+      "path": "assets/images/img/camera/camera_roll.webp",
+      "sourcePath": "images/img/camera/camera_roll.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1112,
+      "hash": "798de860"
+    },
+    {
+      "name": "cameraShutter",
+      "path": "assets/images/sounds/other/cameraShutter.mp3",
+      "sourcePath": "images/sounds/other/cameraShutter.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 59472,
+      "hash": "104e41f3"
+    },
+    {
+      "name": "card",
+      "path": "assets/images/icons/card.webp",
+      "sourcePath": "images/icons/card.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 534,
+      "hash": "d8c8313a"
+    },
+    {
+      "name": "carteira",
+      "path": "assets/images/img/apps/carteira.webp",
+      "sourcePath": "images/img/apps/carteira.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1148,
+      "hash": "4090bbe6"
+    },
+    {
+      "name": "carteira",
+      "path": "assets/images/img/appstore/carteira.webp",
+      "sourcePath": "images/img/appstore/carteira.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37196,
+      "hash": "ca5b8af3"
+    },
+    {
+      "name": "casa",
+      "path": "assets/images/img/appstore/casa.webp",
+      "sourcePath": "images/img/appstore/casa.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 52048,
+      "hash": "2c8e3d17"
+    },
+    {
+      "name": "charging_sound",
+      "path": "assets/images/sounds/misc/charging_sound.mp3",
+      "sourcePath": "images/sounds/misc/charging_sound.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 18890,
+      "hash": "8249fd5b"
+    },
+    {
+      "name": "charging_sound.mp3",
+      "path": "assets/images/sounds/misc/charging_sound.mp3.sfk",
+      "sourcePath": "images/sounds/misc/charging_sound.mp3.sfk",
+      "category": "audio",
+      "group": "images",
+      "kind": "file",
+      "size": 1648,
+      "hash": "e923d657"
+    },
+    {
+      "name": "chat",
+      "path": "assets/images/tinder/chat.webp",
+      "sourcePath": "images/tinder/chat.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6406,
+      "hash": "5f263f03"
+    },
+    {
+      "name": "cinema",
+      "path": "assets/images/img/apps/cinema.webp",
+      "sourcePath": "images/img/apps/cinema.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6838,
+      "hash": "48ca2a0a"
+    },
+    {
+      "name": "cinema",
+      "path": "assets/images/img/appstore/cinema.webp",
+      "sourcePath": "images/img/appstore/cinema.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6054,
+      "hash": "4c8d3ac2"
+    },
+    {
+      "name": "circle-checked",
+      "path": "assets/images/icons/circle-checked.svg",
+      "sourcePath": "images/icons/circle-checked.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 582,
+      "hash": "a466282b"
+    },
+    {
+      "name": "circle-empty",
+      "path": "assets/images/icons/circle-empty.svg",
+      "sourcePath": "images/icons/circle-empty.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 409,
+      "hash": "d39030ff"
+    },
+    {
+      "name": "circle-grid",
+      "path": "assets/images/icons/circle-grid.svg",
+      "sourcePath": "images/icons/circle-grid.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1423,
+      "hash": "d58868ac"
+    },
+    {
+      "name": "CircularStd-Bold",
+      "path": "assets/images/fonts/CircularStd-Bold.otf",
+      "sourcePath": "images/fonts/CircularStd-Bold.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 74368,
+      "hash": "abdc0c9c"
+    },
+    {
+      "name": "CircularStd-Medium",
+      "path": "assets/images/fonts/CircularStd-Medium.otf",
+      "sourcePath": "images/fonts/CircularStd-Medium.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 74116,
+      "hash": "1159174e"
+    },
+    {
+      "name": "classic_frame",
+      "path": "assets/images/cases/classic_frame.webp",
+      "sourcePath": "images/cases/classic_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 39012,
+      "hash": "e0900565"
+    },
+    {
+      "name": "clock",
+      "path": "assets/images/icons/clock.webp",
+      "sourcePath": "images/icons/clock.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1556,
+      "hash": "9a018bc2"
+    },
+    {
+      "name": "clock",
+      "path": "assets/images/img/appstore/clock.webp",
+      "sourcePath": "images/img/appstore/clock.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 114866,
+      "hash": "70ee0e71"
+    },
+    {
+      "name": "clock-fill",
+      "path": "assets/images/icons/clock-fill.svg",
+      "sourcePath": "images/icons/clock-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 440,
+      "hash": "2d731d11"
+    },
+    {
+      "name": "cloud",
+      "path": "assets/images/backgrounds/newbg/cloud.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 62610,
+      "hash": "363774ad"
+    },
+    {
+      "name": "cloud10",
+      "path": "assets/images/backgrounds/newbg/cloud10.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud10.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 14618,
+      "hash": "90e92cd4"
+    },
+    {
+      "name": "cloud11",
+      "path": "assets/images/backgrounds/newbg/cloud11.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud11.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24800,
+      "hash": "95d2aa87"
+    },
+    {
+      "name": "cloud12",
+      "path": "assets/images/backgrounds/newbg/cloud12.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud12.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11512,
+      "hash": "7fcf9fbc"
+    },
+    {
+      "name": "cloud2",
+      "path": "assets/images/backgrounds/newbg/cloud2.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15876,
+      "hash": "80665bda"
+    },
+    {
+      "name": "cloud3",
+      "path": "assets/images/backgrounds/newbg/cloud3.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud3.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 18618,
+      "hash": "f84cc58f"
+    },
+    {
+      "name": "cloud4",
+      "path": "assets/images/backgrounds/newbg/cloud4.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud4.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 41144,
+      "hash": "0c93b2b2"
+    },
+    {
+      "name": "cloud5",
+      "path": "assets/images/backgrounds/newbg/cloud5.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud5.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11772,
+      "hash": "7e0883ec"
+    },
+    {
+      "name": "cloud6",
+      "path": "assets/images/backgrounds/newbg/cloud6.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud6.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21074,
+      "hash": "a6aada61"
+    },
+    {
+      "name": "cloud7",
+      "path": "assets/images/backgrounds/newbg/cloud7.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud7.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11738,
+      "hash": "c04ac28f"
+    },
+    {
+      "name": "cloud8",
+      "path": "assets/images/backgrounds/newbg/cloud8.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud8.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11190,
+      "hash": "33908f41"
+    },
+    {
+      "name": "cloud9",
+      "path": "assets/images/backgrounds/newbg/cloud9.webp",
+      "sourcePath": "images/backgrounds/newbg/cloud9.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 29050,
+      "hash": "ef4b1bba"
+    },
+    {
+      "name": "contactos",
+      "path": "assets/images/img/apps/contactos.webp",
+      "sourcePath": "images/img/apps/contactos.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2364,
+      "hash": "7935c339"
+    },
+    {
+      "name": "contacts",
+      "path": "assets/images/icons/contacts.webp",
+      "sourcePath": "images/icons/contacts.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2704,
+      "hash": "732207ee"
+    },
+    {
+      "name": "coque",
+      "path": "assets/images/cases/coque.webp",
+      "sourcePath": "images/cases/coque.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12674,
+      "hash": "0c87bc7f"
+    },
+    {
+      "name": "corrida",
+      "path": "assets/images/img/apps/corrida.webp",
+      "sourcePath": "images/img/apps/corrida.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1524,
+      "hash": "1a3a3ac9"
+    },
+    {
+      "name": "cursor_icon",
+      "path": "assets/images/icons/cursor_icon.webp",
+      "sourcePath": "images/icons/cursor_icon.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 4028,
+      "hash": "f0d71a19"
+    },
+    {
+      "name": "dados",
+      "path": "assets/images/img/definicoes/dados.webp",
+      "sourcePath": "images/img/definicoes/dados.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1598,
+      "hash": "a3f76192"
+    },
+    {
+      "name": "dark",
+      "path": "assets/images/dark.webp",
+      "sourcePath": "images/dark.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7182,
+      "hash": "b8098261"
+    },
+    {
+      "name": "darknet",
+      "path": "assets/images/img/apps/darknet.webp",
+      "sourcePath": "images/img/apps/darknet.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2082,
+      "hash": "a2473747"
+    },
+    {
+      "name": "darknet",
+      "path": "assets/images/img/appstore/darknet.webp",
+      "sourcePath": "images/img/appstore/darknet.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5978,
+      "hash": "1dedc6eb"
+    },
+    {
+      "name": "darkweb",
+      "path": "assets/images/icons/darkweb.webp",
+      "sourcePath": "images/icons/darkweb.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1360,
+      "hash": "26e20207"
+    },
+    {
+      "name": "dating",
+      "path": "assets/images/icons/dating.webp",
+      "sourcePath": "images/icons/dating.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 24360,
+      "hash": "ed09a7a2"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/backgrounds/default.webp",
+      "sourcePath": "images/backgrounds/default.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 119104,
+      "hash": "47dc0569"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/img/definicoes/default.webp",
+      "sourcePath": "images/img/definicoes/default.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 654,
+      "hash": "ec4fffc7"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/img/twitter/default.webp",
+      "sourcePath": "images/img/twitter/default.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1636,
+      "hash": "47d8eb52"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/sounds/notifications/default.mp3",
+      "sourcePath": "images/sounds/notifications/default.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 5895,
+      "hash": "4691b173"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/sounds/ringtones/default.mp3",
+      "sourcePath": "images/sounds/ringtones/default.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 212994,
+      "hash": "a1619e60"
+    },
+    {
+      "name": "default_image",
+      "path": "assets/images/img/tinder/default_image.webp",
+      "sourcePath": "images/img/tinder/default_image.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7050,
+      "hash": "52f8d7f8"
+    },
+    {
+      "name": "definicoes",
+      "path": "assets/images/img/apps/definicoes.webp",
+      "sourcePath": "images/img/apps/definicoes.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3702,
+      "hash": "2a254042"
+    },
+    {
+      "name": "delete-left",
+      "path": "assets/images/icons/delete-left.svg",
+      "sourcePath": "images/icons/delete-left.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 955,
+      "hash": "7398bcee"
+    },
+    {
+      "name": "desert_01",
+      "path": "assets/images/backgrounds/newbg/desert_01.webp",
+      "sourcePath": "images/backgrounds/newbg/desert_01.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 20108,
+      "hash": "78b788be"
+    },
+    {
+      "name": "desert_02",
+      "path": "assets/images/backgrounds/newbg/desert_02.webp",
+      "sourcePath": "images/backgrounds/newbg/desert_02.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 17092,
+      "hash": "6d34284d"
+    },
+    {
+      "name": "desert_03",
+      "path": "assets/images/backgrounds/newbg/desert_03.webp",
+      "sourcePath": "images/backgrounds/newbg/desert_03.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 14238,
+      "hash": "69086301"
+    },
+    {
+      "name": "desert_04",
+      "path": "assets/images/backgrounds/newbg/desert_04.webp",
+      "sourcePath": "images/backgrounds/newbg/desert_04.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15512,
+      "hash": "04dba81c"
+    },
+    {
+      "name": "desert_05",
+      "path": "assets/images/backgrounds/newbg/desert_05.webp",
+      "sourcePath": "images/backgrounds/newbg/desert_05.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21270,
+      "hash": "ffbe6b50"
+    },
+    {
+      "name": "dial",
+      "path": "assets/images/sounds/dial.mp3",
+      "sourcePath": "images/sounds/dial.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 480753,
+      "hash": "5d4ca92e"
+    },
+    {
+      "name": "dicas",
+      "path": "assets/images/img/apps/dicas.webp",
+      "sourcePath": "images/img/apps/dicas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 11338,
+      "hash": "3c301eb5"
+    },
+    {
+      "name": "dislike",
+      "path": "assets/images/tinder/dislike.svg",
+      "sourcePath": "images/tinder/dislike.svg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1910,
+      "hash": "8d4c4781"
+    },
+    {
+      "name": "dollar",
+      "path": "assets/images/icons/dollar.svg",
+      "sourcePath": "images/icons/dollar.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1100,
+      "hash": "f9a3eaca"
+    },
+    {
+      "name": "dot",
+      "path": "assets/images/icons/dot.svg",
+      "sourcePath": "images/icons/dot.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 784,
+      "hash": "a9cef833"
+    },
+    {
+      "name": "duckshooter",
+      "path": "assets/images/img/apps/duckshooter.webp",
+      "sourcePath": "images/img/apps/duckshooter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29094,
+      "hash": "103355f9"
+    },
+    {
+      "name": "duckshooter",
+      "path": "assets/images/img/appstore/duckshooter.webp",
+      "sourcePath": "images/img/appstore/duckshooter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 21232,
+      "hash": "be7481ae"
+    },
+    {
+      "name": "ecra",
+      "path": "assets/images/img/definicoes/ecra.webp",
+      "sourcePath": "images/img/definicoes/ecra.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1438,
+      "hash": "72ee5834"
+    },
+    {
+      "name": "emoji",
+      "path": "assets/images/img/apps/emoji.webp",
+      "sourcePath": "images/img/apps/emoji.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 13570,
+      "hash": "e5df322a"
+    },
+    {
+      "name": "emprego",
+      "path": "assets/images/img/apps/emprego.webp",
+      "sourcePath": "images/img/apps/emprego.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1528,
+      "hash": "5ffb7bfd"
+    },
+    {
+      "name": "emprego",
+      "path": "assets/images/img/appstore/emprego.webp",
+      "sourcePath": "images/img/appstore/emprego.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25566,
+      "hash": "9e069299"
+    },
+    {
+      "name": "emprego",
+      "path": "assets/images/img/olx/emprego.webp",
+      "sourcePath": "images/img/olx/emprego.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1116,
+      "hash": "effbd597"
+    },
+    {
+      "name": "ems",
+      "path": "assets/images/contacts-photo/ems.webp",
+      "sourcePath": "images/contacts-photo/ems.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12166,
+      "hash": "955448ad"
+    },
+    {
+      "name": "endCall",
+      "path": "assets/images/sounds/other/endCall.mp3",
+      "sourcePath": "images/sounds/other/endCall.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 14647,
+      "hash": "c23e046d"
+    },
+    {
+      "name": "endCallFacetime",
+      "path": "assets/images/sounds/other/endCallFacetime.mp3",
+      "sourcePath": "images/sounds/other/endCallFacetime.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 14628,
+      "hash": "07b3439e"
+    },
+    {
+      "name": "facebook",
+      "path": "assets/images/icons/facebook.webp",
+      "sourcePath": "images/icons/facebook.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1070,
+      "hash": "671e38ca"
+    },
+    {
+      "name": "faceid",
+      "path": "assets/images/img/definicoes/faceid.webp",
+      "sourcePath": "images/img/definicoes/faceid.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1508,
+      "hash": "dd4ed6bc"
+    },
+    {
+      "name": "faceid-png",
+      "path": "assets/images/img/definicoes/faceid-png.webp",
+      "sourcePath": "images/img/definicoes/faceid-png.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6544,
+      "hash": "b06b1399"
+    },
+    {
+      "name": "facetime",
+      "path": "assets/images/icons/facetime.svg",
+      "sourcePath": "images/icons/facetime.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1249,
+      "hash": "4d9b3b44"
+    },
+    {
+      "name": "facetimeCalling",
+      "path": "assets/images/sounds/other/facetimeCalling.mp3",
+      "sourcePath": "images/sounds/other/facetimeCalling.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 487686,
+      "hash": "992cb20a"
+    },
+    {
+      "name": "fallback",
+      "path": "assets/images/img/maps/fallback/fallback.webp",
+      "sourcePath": "images/img/maps/fallback/fallback.webp",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 67980,
+      "hash": "b6678a3f"
+    },
+    {
+      "name": "female",
+      "path": "assets/images/img/mdt/female.webp",
+      "sourcePath": "images/img/mdt/female.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4688,
+      "hash": "2708bc78"
+    },
+    {
+      "name": "FenixDefaultBg",
+      "path": "assets/images/backgrounds/newbg/FenixDefaultBg.webp",
+      "sourcePath": "images/backgrounds/newbg/FenixDefaultBg.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 10263984,
+      "hash": "3f0498dd"
+    },
+    {
+      "name": "firewatch",
+      "path": "assets/images/backgrounds/firewatch.webp",
+      "sourcePath": "images/backgrounds/firewatch.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 92856,
+      "hash": "3fd5aa04"
+    },
+    {
+      "name": "flame",
+      "path": "assets/images/tinder/flame.webp",
+      "sourcePath": "images/tinder/flame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10804,
+      "hash": "1f189d64"
+    },
+    {
+      "name": "flapybird",
+      "path": "assets/images/img/apps/flapybird.webp",
+      "sourcePath": "images/img/apps/flapybird.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 114768,
+      "hash": "ad33aba3"
+    },
+    {
+      "name": "flapybird",
+      "path": "assets/images/img/appstore/flapybird.webp",
+      "sourcePath": "images/img/appstore/flapybird.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8852,
+      "hash": "9cc3138f"
+    },
+    {
+      "name": "fleeca",
+      "path": "assets/images/icons/fleeca.webp",
+      "sourcePath": "images/icons/fleeca.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 6076,
+      "hash": "dac93fd5"
+    },
+    {
+      "name": "fundos",
+      "path": "assets/images/img/definicoes/fundos.webp",
+      "sourcePath": "images/img/definicoes/fundos.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2434,
+      "hash": "a05ad3bf"
+    },
+    {
+      "name": "galeria",
+      "path": "assets/images/img/apps/galeria.webp",
+      "sourcePath": "images/img/apps/galeria.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2128,
+      "hash": "fa2a0478"
+    },
+    {
+      "name": "garage",
+      "path": "assets/images/contacts-photo/garage.webp",
+      "sourcePath": "images/contacts-photo/garage.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 21912,
+      "hash": "603e2c90"
+    },
+    {
+      "name": "garagem",
+      "path": "assets/images/img/apps/garagem.webp",
+      "sourcePath": "images/img/apps/garagem.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6510,
+      "hash": "709f0bb6"
+    },
+    {
+      "name": "geral",
+      "path": "assets/images/iconsSettings/geral.svg",
+      "sourcePath": "images/iconsSettings/geral.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 9866,
+      "hash": "6953a108"
+    },
+    {
+      "name": "Globe",
+      "path": "assets/images/backgrounds/newbg/Globe.webp",
+      "sourcePath": "images/backgrounds/newbg/Globe.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 120234,
+      "hash": "3827f960"
+    },
+    {
+      "name": "GlobeNight",
+      "path": "assets/images/backgrounds/newbg/GlobeNight.webp",
+      "sourcePath": "images/backgrounds/newbg/GlobeNight.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 31312,
+      "hash": "a8bca03b"
+    },
+    {
+      "name": "gold_frame",
+      "path": "assets/images/cases/gold_frame.webp",
+      "sourcePath": "images/cases/gold_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 44188,
+      "hash": "246daf9f"
+    },
+    {
+      "name": "googlelogo",
+      "path": "assets/images/img/safari/googlelogo.webp",
+      "sourcePath": "images/img/safari/googlelogo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7384,
+      "hash": "4b02dd46"
+    },
+    {
+      "name": "goRigth",
+      "path": "assets/images/icons/goRigth.svg",
+      "sourcePath": "images/icons/goRigth.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 875,
+      "hash": "62aa35ba"
+    },
+    {
+      "name": "green_frame",
+      "path": "assets/images/cases/green_frame.webp",
+      "sourcePath": "images/cases/green_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 42958,
+      "hash": "30d5fd8c"
+    },
+    {
+      "name": "greenlight_frame",
+      "path": "assets/images/cases/greenlight_frame.webp",
+      "sourcePath": "images/cases/greenlight_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 44628,
+      "hash": "d0ec45db"
+    },
+    {
+      "name": "grid",
+      "path": "assets/images/icons/grid.svg",
+      "sourcePath": "images/icons/grid.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1269,
+      "hash": "402043e2"
+    },
+    {
+      "name": "harp",
+      "path": "assets/images/sounds/ringtones/harp.mp3",
+      "sourcePath": "images/sounds/ringtones/harp.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 480873,
+      "hash": "e7d24f25"
+    },
+    {
+      "name": "header",
+      "path": "assets/images/img/tinder/header.webp",
+      "sourcePath": "images/img/tinder/header.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 20280,
+      "hash": "e0b27b84"
+    },
+    {
+      "name": "health",
+      "path": "assets/images/icons/health.webp",
+      "sourcePath": "images/icons/health.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1228,
+      "hash": "c5fc1d81"
+    },
+    {
+      "name": "heart",
+      "path": "assets/images/tinder/heart.webp",
+      "sourcePath": "images/tinder/heart.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4686,
+      "hash": "ab4e9465"
+    },
+    {
+      "name": "heartbreak",
+      "path": "assets/images/tinder/heartbreak.svg",
+      "sourcePath": "images/tinder/heartbreak.svg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 799,
+      "hash": "d7519bd7"
+    },
+    {
+      "name": "home",
+      "path": "assets/images/icons/home.webp",
+      "sourcePath": "images/icons/home.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 704,
+      "hash": "a5427133"
+    },
+    {
+      "name": "home",
+      "path": "assets/images/img/apps/home.webp",
+      "sourcePath": "images/img/apps/home.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1362,
+      "hash": "4c5edb84"
+    },
+    {
+      "name": "house",
+      "path": "assets/images/img/mdt/house.webp",
+      "sourcePath": "images/img/mdt/house.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2168,
+      "hash": "952bc725"
+    },
+    {
+      "name": "ibooks",
+      "path": "assets/images/icons/ibooks.webp",
+      "sourcePath": "images/icons/ibooks.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1602,
+      "hash": "a07a017a"
+    },
+    {
+      "name": "image",
+      "path": "assets/images/img/whatsapp/image.webp",
+      "sourcePath": "images/img/whatsapp/image.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1252,
+      "hash": "7c0130d4"
+    },
+    {
+      "name": "imagemtelemovel",
+      "path": "assets/images/img/definicoes/imagemtelemovel.webp",
+      "sourcePath": "images/img/definicoes/imagemtelemovel.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26628,
+      "hash": "024cf115"
+    },
+    {
+      "name": "imessage",
+      "path": "assets/images/img/apps/imessage.webp",
+      "sourcePath": "images/img/apps/imessage.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1368,
+      "hash": "32c06c30"
+    },
+    {
+      "name": "imessage_receive",
+      "path": "assets/images/sounds/notif/imessage_receive.mp3",
+      "sourcePath": "images/sounds/notif/imessage_receive.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 33088,
+      "hash": "2154eedf"
+    },
+    {
+      "name": "imessage_sent",
+      "path": "assets/images/sounds/notif/imessage_sent.mp3",
+      "sourcePath": "images/sounds/notif/imessage_sent.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 12572,
+      "hash": "7482c2b5"
+    },
+    {
+      "name": "info-circle",
+      "path": "assets/images/icons/info-circle.svg",
+      "sourcePath": "images/icons/info-circle.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 825,
+      "hash": "8af948b0"
+    },
+    {
+      "name": "inicio",
+      "path": "assets/images/img/twitter/inicio.webp",
+      "sourcePath": "images/img/twitter/inicio.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12408,
+      "hash": "8b08dd02"
+    },
+    {
+      "name": "instagram",
+      "path": "assets/images/icons/instagram.webp",
+      "sourcePath": "images/icons/instagram.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2220,
+      "hash": "f731abed"
+    },
+    {
+      "name": "instagram",
+      "path": "assets/images/img/apps/instagram.webp",
+      "sourcePath": "images/img/apps/instagram.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2686,
+      "hash": "ffd99168"
+    },
+    {
+      "name": "instagram",
+      "path": "assets/images/img/appstore/instagram.webp",
+      "sourcePath": "images/img/appstore/instagram.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10842,
+      "hash": "4e4ea35e"
+    },
+    {
+      "name": "intense",
+      "path": "assets/images/cases/intense.webp",
+      "sourcePath": "images/cases/intense.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 16622,
+      "hash": "45072e2d"
+    },
+    {
+      "name": "ios",
+      "path": "assets/images/fonts/ios.ttf",
+      "sourcePath": "images/fonts/ios.ttf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 413924,
+      "hash": "d9dd27e6"
+    },
+    {
+      "name": "ios-right-arrow",
+      "path": "assets/images/icons/ios-right-arrow.webp",
+      "sourcePath": "images/icons/ios-right-arrow.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 88,
+      "hash": "0b906f89"
+    },
+    {
+      "name": "iphone_13_call",
+      "path": "assets/images/sounds/toques/iphone_13_call.mp3",
+      "sourcePath": "images/sounds/toques/iphone_13_call.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 203646,
+      "hash": "8cdfdca5"
+    },
+    {
+      "name": "iphone_alarm",
+      "path": "assets/images/sounds/alarm/iphone_alarm.mp3",
+      "sourcePath": "images/sounds/alarm/iphone_alarm.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 57259,
+      "hash": "f96380ff"
+    },
+    {
+      "name": "iphone_notification",
+      "path": "assets/images/sounds/notif/iphone_notification.mp3",
+      "sourcePath": "images/sounds/notif/iphone_notification.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 47097,
+      "hash": "fa2d0a2b"
+    },
+    {
+      "name": "iphone_notification2",
+      "path": "assets/images/sounds/notif/iphone_notification2.mp3",
+      "sourcePath": "images/sounds/notif/iphone_notification2.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 12537,
+      "hash": "8af277ff"
+    },
+    {
+      "name": "iphone14",
+      "path": "assets/images/backgrounds/iphone14.webp",
+      "sourcePath": "images/backgrounds/iphone14.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21974,
+      "hash": "e87ca2f4"
+    },
+    {
+      "name": "iphone1444",
+      "path": "assets/images/backgrounds/iphone1444.webp",
+      "sourcePath": "images/backgrounds/iphone1444.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 334484,
+      "hash": "16f31e02"
+    },
+    {
+      "name": "iphone14pro",
+      "path": "assets/images/cases/iphone14pro.webp",
+      "sourcePath": "images/cases/iphone14pro.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10074,
+      "hash": "c04016cf"
+    },
+    {
+      "name": "iphone14semCam",
+      "path": "assets/images/cases/iphone14semCam.webp",
+      "sourcePath": "images/cases/iphone14semCam.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9520,
+      "hash": "2b064b0f"
+    },
+    {
+      "name": "iphone15",
+      "path": "assets/images/cases/iphone15.webp",
+      "sourcePath": "images/cases/iphone15.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10196,
+      "hash": "b00d0042"
+    },
+    {
+      "name": "iphonex",
+      "path": "assets/images/backgrounds/iphonex.webp",
+      "sourcePath": "images/backgrounds/iphonex.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 206090,
+      "hash": "b9efea21"
+    },
+    {
+      "name": "iphonex",
+      "path": "assets/images/cases/iphonex.webp",
+      "sourcePath": "images/cases/iphonex.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5160,
+      "hash": "deef9701"
+    },
+    {
+      "name": "iphonexs",
+      "path": "assets/images/cases/iphonexs.webp",
+      "sourcePath": "images/cases/iphonexs.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2672,
+      "hash": "f8d85693"
+    },
+    {
+      "name": "jprlogo",
+      "path": "assets/images/img/safari/jprlogo.webp",
+      "sourcePath": "images/img/safari/jprlogo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4990,
+      "hash": "4ac50a39"
+    },
+    {
+      "name": "keypress",
+      "path": "assets/images/sounds/keypress.mp3",
+      "sourcePath": "images/sounds/keypress.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 48384,
+      "hash": "f7483e31"
+    },
+    {
+      "name": "lanterna",
+      "path": "assets/images/img/sistema/lanterna.webp",
+      "sourcePath": "images/img/sistema/lanterna.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 808,
+      "hash": "09f651ad"
+    },
+    {
+      "name": "Lift",
+      "path": "assets/images/backgrounds/newbg/Lift.webp",
+      "sourcePath": "images/backgrounds/newbg/Lift.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 43284,
+      "hash": "2b788838"
+    },
+    {
+      "name": "light",
+      "path": "assets/images/light.webp",
+      "sourcePath": "images/light.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8700,
+      "hash": "bc882ab3"
+    },
+    {
+      "name": "like",
+      "path": "assets/images/tinder/like.webp",
+      "sourcePath": "images/tinder/like.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4376,
+      "hash": "989432e8"
+    },
+    {
+      "name": "local",
+      "path": "assets/images/icons/local.webp",
+      "sourcePath": "images/icons/local.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1340,
+      "hash": "6224c4bc"
+    },
+    {
+      "name": "location",
+      "path": "assets/images/icons/location.svg",
+      "sourcePath": "images/icons/location.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 438,
+      "hash": "2c7494b2"
+    },
+    {
+      "name": "logo",
+      "path": "assets/images/img/twitter/logo.webp",
+      "sourcePath": "images/img/twitter/logo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1162,
+      "hash": "ec2dfd46"
+    },
+    {
+      "name": "logo",
+      "path": "assets/images/logo.webp",
+      "sourcePath": "images/logo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 431004,
+      "hash": "7884587b"
+    },
+    {
+      "name": "logo",
+      "path": "assets/images/tinder/logo.svg",
+      "sourcePath": "images/tinder/logo.svg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 139405,
+      "hash": "c8b9f404"
+    },
+    {
+      "name": "ltd",
+      "path": "assets/images/contacts-photo/ltd.webp",
+      "sourcePath": "images/contacts-photo/ltd.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9046,
+      "hash": "b6adec83"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/icons/mail.webp",
+      "sourcePath": "images/icons/mail.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1072,
+      "hash": "46169207"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/img/apps/mail.webp",
+      "sourcePath": "images/img/apps/mail.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1638,
+      "hash": "f4e9807a"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/img/appsimessage/mail.webp",
+      "sourcePath": "images/img/appsimessage/mail.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1284,
+      "hash": "bce14a93"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/img/appstore/mail.webp",
+      "sourcePath": "images/img/appstore/mail.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 35194,
+      "hash": "30fa4e78"
+    },
+    {
+      "name": "mail-fill",
+      "path": "assets/images/icons/mail-fill.svg",
+      "sourcePath": "images/icons/mail-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 709,
+      "hash": "ec9d825c"
+    },
+    {
+      "name": "male",
+      "path": "assets/images/img/mdt/male.webp",
+      "sourcePath": "images/img/mdt/male.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1448,
+      "hash": "cd4ea510"
+    },
+    {
+      "name": "mapas",
+      "path": "assets/images/img/apps/mapas.webp",
+      "sourcePath": "images/img/apps/mapas.webp",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 3000,
+      "hash": "3b5f7069"
+    },
+    {
+      "name": "mapas",
+      "path": "assets/images/img/appstore/mapas.webp",
+      "sourcePath": "images/img/appstore/mapas.webp",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 24674,
+      "hash": "457319fa"
+    },
+    {
+      "name": "maps",
+      "path": "assets/images/icons/maps.webp",
+      "sourcePath": "images/icons/maps.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1814,
+      "hash": "449f0515"
+    },
+    {
+      "name": "maps",
+      "path": "assets/images/img/appsimessage/maps.webp",
+      "sourcePath": "images/img/appsimessage/maps.webp",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 1168,
+      "hash": "f5ebe155"
+    },
+    {
+      "name": "mdt",
+      "path": "assets/images/img/apps/mdt.webp",
+      "sourcePath": "images/img/apps/mdt.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1128,
+      "hash": "b9be99f9"
+    },
+    {
+      "name": "mdt",
+      "path": "assets/images/img/appstore/mdt.webp",
+      "sourcePath": "images/img/appstore/mdt.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5930,
+      "hash": "d2aab95f"
+    },
+    {
+      "name": "memoji-1",
+      "path": "assets/images/img/memoji/memoji-1.webp",
+      "sourcePath": "images/img/memoji/memoji-1.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8502,
+      "hash": "4082bc49"
+    },
+    {
+      "name": "memoji-10",
+      "path": "assets/images/img/memoji/memoji-10.webp",
+      "sourcePath": "images/img/memoji/memoji-10.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8784,
+      "hash": "08d07420"
+    },
+    {
+      "name": "memoji-11",
+      "path": "assets/images/img/memoji/memoji-11.webp",
+      "sourcePath": "images/img/memoji/memoji-11.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9900,
+      "hash": "508a3ab5"
+    },
+    {
+      "name": "memoji-12",
+      "path": "assets/images/img/memoji/memoji-12.webp",
+      "sourcePath": "images/img/memoji/memoji-12.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8470,
+      "hash": "08694c80"
+    },
+    {
+      "name": "memoji-13",
+      "path": "assets/images/img/memoji/memoji-13.webp",
+      "sourcePath": "images/img/memoji/memoji-13.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7476,
+      "hash": "f9aebafa"
+    },
+    {
+      "name": "memoji-14",
+      "path": "assets/images/img/memoji/memoji-14.webp",
+      "sourcePath": "images/img/memoji/memoji-14.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7260,
+      "hash": "07c8e071"
+    },
+    {
+      "name": "memoji-15",
+      "path": "assets/images/img/memoji/memoji-15.webp",
+      "sourcePath": "images/img/memoji/memoji-15.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8434,
+      "hash": "25e982b7"
+    },
+    {
+      "name": "memoji-16",
+      "path": "assets/images/img/memoji/memoji-16.webp",
+      "sourcePath": "images/img/memoji/memoji-16.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7396,
+      "hash": "05e03210"
+    },
+    {
+      "name": "memoji-17",
+      "path": "assets/images/img/memoji/memoji-17.webp",
+      "sourcePath": "images/img/memoji/memoji-17.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7154,
+      "hash": "c1ef453f"
+    },
+    {
+      "name": "memoji-18",
+      "path": "assets/images/img/memoji/memoji-18.webp",
+      "sourcePath": "images/img/memoji/memoji-18.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7930,
+      "hash": "a65e9e8a"
+    },
+    {
+      "name": "memoji-19",
+      "path": "assets/images/img/memoji/memoji-19.webp",
+      "sourcePath": "images/img/memoji/memoji-19.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10318,
+      "hash": "1df5db87"
+    },
+    {
+      "name": "memoji-2",
+      "path": "assets/images/img/memoji/memoji-2.webp",
+      "sourcePath": "images/img/memoji/memoji-2.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8782,
+      "hash": "d6ef3e92"
+    },
+    {
+      "name": "memoji-20",
+      "path": "assets/images/img/memoji/memoji-20.webp",
+      "sourcePath": "images/img/memoji/memoji-20.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8214,
+      "hash": "8d7eb647"
+    },
+    {
+      "name": "memoji-21",
+      "path": "assets/images/img/memoji/memoji-21.webp",
+      "sourcePath": "images/img/memoji/memoji-21.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 11730,
+      "hash": "39d13542"
+    },
+    {
+      "name": "memoji-22",
+      "path": "assets/images/img/memoji/memoji-22.webp",
+      "sourcePath": "images/img/memoji/memoji-22.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8608,
+      "hash": "9bfd36f9"
+    },
+    {
+      "name": "memoji-23",
+      "path": "assets/images/img/memoji/memoji-23.webp",
+      "sourcePath": "images/img/memoji/memoji-23.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4946,
+      "hash": "a77cc6bf"
+    },
+    {
+      "name": "memoji-24",
+      "path": "assets/images/img/memoji/memoji-24.webp",
+      "sourcePath": "images/img/memoji/memoji-24.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5292,
+      "hash": "f3efaf0d"
+    },
+    {
+      "name": "memoji-3",
+      "path": "assets/images/img/memoji/memoji-3.webp",
+      "sourcePath": "images/img/memoji/memoji-3.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8812,
+      "hash": "9ee380bb"
+    },
+    {
+      "name": "memoji-4",
+      "path": "assets/images/img/memoji/memoji-4.webp",
+      "sourcePath": "images/img/memoji/memoji-4.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7520,
+      "hash": "7d85f73d"
+    },
+    {
+      "name": "memoji-5",
+      "path": "assets/images/img/memoji/memoji-5.webp",
+      "sourcePath": "images/img/memoji/memoji-5.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8188,
+      "hash": "3a65bf50"
+    },
+    {
+      "name": "memoji-6",
+      "path": "assets/images/img/memoji/memoji-6.webp",
+      "sourcePath": "images/img/memoji/memoji-6.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9410,
+      "hash": "5ba2dfe6"
+    },
+    {
+      "name": "memoji-7",
+      "path": "assets/images/img/memoji/memoji-7.webp",
+      "sourcePath": "images/img/memoji/memoji-7.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10180,
+      "hash": "4dc79c55"
+    },
+    {
+      "name": "memoji-8",
+      "path": "assets/images/img/memoji/memoji-8.webp",
+      "sourcePath": "images/img/memoji/memoji-8.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 11114,
+      "hash": "1d18cd25"
+    },
+    {
+      "name": "memoji-9",
+      "path": "assets/images/img/memoji/memoji-9.webp",
+      "sourcePath": "images/img/memoji/memoji-9.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 11412,
+      "hash": "0d408ab8"
+    },
+    {
+      "name": "message",
+      "path": "assets/images/icons/message.svg",
+      "sourcePath": "images/icons/message.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 505,
+      "hash": "c977b289"
+    },
+    {
+      "name": "messages",
+      "path": "assets/images/icons/messages.webp",
+      "sourcePath": "images/icons/messages.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 722,
+      "hash": "0f4f8d1c"
+    },
+    {
+      "name": "messenger",
+      "path": "assets/images/icons/messenger.webp",
+      "sourcePath": "images/icons/messenger.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1666,
+      "hash": "2cf96586"
+    },
+    {
+      "name": "mestrekassamba",
+      "path": "assets/images/sounds/toques/mestrekassamba.mp3",
+      "sourcePath": "images/sounds/toques/mestrekassamba.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 1389861,
+      "hash": "2cd2f11a"
+    },
+    {
+      "name": "mic-slash",
+      "path": "assets/images/icons/mic-slash.svg",
+      "sourcePath": "images/icons/mic-slash.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 989,
+      "hash": "751ba196"
+    },
+    {
+      "name": "minus-circle",
+      "path": "assets/images/icons/minus-circle.svg",
+      "sourcePath": "images/icons/minus-circle.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 413,
+      "hash": "754c516c"
+    },
+    {
+      "name": "moon",
+      "path": "assets/images/backgrounds/moon.webp",
+      "sourcePath": "images/backgrounds/moon.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 78150,
+      "hash": "46aae638"
+    },
+    {
+      "name": "Moon",
+      "path": "assets/images/backgrounds/newbg/Moon.webp",
+      "sourcePath": "images/backgrounds/newbg/Moon.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 101532,
+      "hash": "3718007b"
+    },
+    {
+      "name": "mountain_01",
+      "path": "assets/images/backgrounds/newbg/mountain_01.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_01.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 54076,
+      "hash": "73f74dc8"
+    },
+    {
+      "name": "mountain_02",
+      "path": "assets/images/backgrounds/newbg/mountain_02.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_02.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 72044,
+      "hash": "7447f8aa"
+    },
+    {
+      "name": "mountain_03",
+      "path": "assets/images/backgrounds/newbg/mountain_03.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_03.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 45122,
+      "hash": "168e892e"
+    },
+    {
+      "name": "mountain_04",
+      "path": "assets/images/backgrounds/newbg/mountain_04.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_04.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 178314,
+      "hash": "f9f1adef"
+    },
+    {
+      "name": "mountain_05",
+      "path": "assets/images/backgrounds/newbg/mountain_05.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_05.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 72354,
+      "hash": "73a9016c"
+    },
+    {
+      "name": "mountain_06",
+      "path": "assets/images/backgrounds/newbg/mountain_06.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_06.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 17188,
+      "hash": "e3e4261b"
+    },
+    {
+      "name": "mountain_07",
+      "path": "assets/images/backgrounds/newbg/mountain_07.webp",
+      "sourcePath": "images/backgrounds/newbg/mountain_07.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15396,
+      "hash": "f2ed77af"
+    },
+    {
+      "name": "mtfuji",
+      "path": "assets/images/backgrounds/mtfuji.webp",
+      "sourcePath": "images/backgrounds/mtfuji.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 265132,
+      "hash": "9704af93"
+    },
+    {
+      "name": "music",
+      "path": "assets/images/icons/music.webp",
+      "sourcePath": "images/icons/music.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 15084,
+      "hash": "2ab63258"
+    },
+    {
+      "name": "mute",
+      "path": "assets/images/sounds/other/mute.mp3",
+      "sourcePath": "images/sounds/other/mute.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 3761,
+      "hash": "f870d30f"
+    },
+    {
+      "name": "nav",
+      "path": "assets/images/img/tinder/nav.webp",
+      "sourcePath": "images/img/tinder/nav.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7088,
+      "hash": "c8eccd8b"
+    },
+    {
+      "name": "newquanticbank",
+      "path": "assets/images/icons/newquanticbank.webp",
+      "sourcePath": "images/icons/newquanticbank.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 20806,
+      "hash": "1a626fa1"
+    },
+    {
+      "name": "news",
+      "path": "assets/images/icons/news.webp",
+      "sourcePath": "images/icons/news.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1404,
+      "hash": "d2a05aab"
+    },
+    {
+      "name": "noimage",
+      "path": "assets/images/img/twitter/noimage.webp",
+      "sourcePath": "images/img/twitter/noimage.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 248,
+      "hash": "3a38eba7"
+    },
+    {
+      "name": "notas",
+      "path": "assets/images/img/apps/notas.webp",
+      "sourcePath": "images/img/apps/notas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 932,
+      "hash": "78d5ab1b"
+    },
+    {
+      "name": "notes",
+      "path": "assets/images/icons/notes.webp",
+      "sourcePath": "images/icons/notes.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 320,
+      "hash": "4ced440c"
+    },
+    {
+      "name": "notes",
+      "path": "assets/images/img/appstore/notes.webp",
+      "sourcePath": "images/img/appstore/notes.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31662,
+      "hash": "c244d342"
+    },
+    {
+      "name": "notificacoes",
+      "path": "assets/images/img/definicoes/notificacoes.webp",
+      "sourcePath": "images/img/definicoes/notificacoes.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1458,
+      "hash": "cecd5104"
+    },
+    {
+      "name": "notification",
+      "path": "assets/images/sounds/notification.mp3",
+      "sourcePath": "images/sounds/notification.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 52964,
+      "hash": "9d929574"
+    },
+    {
+      "name": "olx",
+      "path": "assets/images/img/apps/olx.webp",
+      "sourcePath": "images/img/apps/olx.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7068,
+      "hash": "5b017758"
+    },
+    {
+      "name": "olx",
+      "path": "assets/images/img/appstore/olx.webp",
+      "sourcePath": "images/img/appstore/olx.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 16294,
+      "hash": "d7c6c235"
+    },
+    {
+      "name": "outgoing-call",
+      "path": "assets/images/icons/outgoing-call.svg",
+      "sourcePath": "images/icons/outgoing-call.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1125,
+      "hash": "c6e51a35"
+    },
+    {
+      "name": "outros",
+      "path": "assets/images/img/olx/outros.webp",
+      "sourcePath": "images/img/olx/outros.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2028,
+      "hash": "f2188c0b"
+    },
+    {
+      "name": "pause-fill",
+      "path": "assets/images/icons/pause-fill.svg",
+      "sourcePath": "images/icons/pause-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 504,
+      "hash": "eaa3d9ef"
+    },
+    {
+      "name": "pay",
+      "path": "assets/images/sounds/misc/pay.mp3",
+      "sourcePath": "images/sounds/misc/pay.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 26889,
+      "hash": "39243bfd"
+    },
+    {
+      "name": "person-2",
+      "path": "assets/images/icons/person-2.svg",
+      "sourcePath": "images/icons/person-2.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 749,
+      "hash": "4ee06ca8"
+    },
+    {
+      "name": "person-circle",
+      "path": "assets/images/icons/person-circle.svg",
+      "sourcePath": "images/icons/person-circle.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 630,
+      "hash": "37075057"
+    },
+    {
+      "name": "phone",
+      "path": "assets/images/img/apps/phone.webp",
+      "sourcePath": "images/img/apps/phone.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8214,
+      "hash": "f4d7a33e"
+    },
+    {
+      "name": "phone",
+      "path": "assets/images/img/appsimessage/phone.webp",
+      "sourcePath": "images/img/appsimessage/phone.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 914,
+      "hash": "99d273fa"
+    },
+    {
+      "name": "phone",
+      "path": "assets/images/img/frames/phone.webp",
+      "sourcePath": "images/img/frames/phone.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 21804,
+      "hash": "b780729c"
+    },
+    {
+      "name": "phone_blue",
+      "path": "assets/images/img/frames/phone_blue.webp",
+      "sourcePath": "images/img/frames/phone_blue.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 22162,
+      "hash": "c9d87a6c"
+    },
+    {
+      "name": "phone_gold",
+      "path": "assets/images/img/frames/phone_gold.webp",
+      "sourcePath": "images/img/frames/phone_gold.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23452,
+      "hash": "cfc53985"
+    },
+    {
+      "name": "phone_green",
+      "path": "assets/images/img/frames/phone_green.webp",
+      "sourcePath": "images/img/frames/phone_green.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24036,
+      "hash": "8b80bdbd"
+    },
+    {
+      "name": "phone_greenLight",
+      "path": "assets/images/img/frames/phone_greenLight.webp",
+      "sourcePath": "images/img/frames/phone_greenLight.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24138,
+      "hash": "9c6eb12d"
+    },
+    {
+      "name": "phone_pink",
+      "path": "assets/images/img/frames/phone_pink.webp",
+      "sourcePath": "images/img/frames/phone_pink.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24804,
+      "hash": "30334583"
+    },
+    {
+      "name": "phone_red",
+      "path": "assets/images/img/frames/phone_red.webp",
+      "sourcePath": "images/img/frames/phone_red.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 27788,
+      "hash": "8d71111e"
+    },
+    {
+      "name": "phone_white",
+      "path": "assets/images/img/frames/phone_white.webp",
+      "sourcePath": "images/img/frames/phone_white.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25340,
+      "hash": "0a5a8681"
+    },
+    {
+      "name": "phone-down",
+      "path": "assets/images/icons/phone-down.svg",
+      "sourcePath": "images/icons/phone-down.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 750,
+      "hash": "f023c09b"
+    },
+    {
+      "name": "phone-fill",
+      "path": "assets/images/icons/phone-fill.svg",
+      "sourcePath": "images/icons/phone-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 751,
+      "hash": "bacd89ff"
+    },
+    {
+      "name": "photo",
+      "path": "assets/images/sounds/photo.ogg",
+      "sourcePath": "images/sounds/photo.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 39622,
+      "hash": "f7a2e1dc"
+    },
+    {
+      "name": "photos",
+      "path": "assets/images/icons/photos.webp",
+      "sourcePath": "images/icons/photos.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1088,
+      "hash": "757de517"
+    },
+    {
+      "name": "photos",
+      "path": "assets/images/img/appsimessage/photos.webp",
+      "sourcePath": "images/img/appsimessage/photos.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1072,
+      "hash": "a9e2609d"
+    },
+    {
+      "name": "photosc",
+      "path": "assets/images/icons/photosc.svg",
+      "sourcePath": "images/icons/photosc.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 912,
+      "hash": "997154a5"
+    },
+    {
+      "name": "pier",
+      "path": "assets/images/backgrounds/newbg/pier.webp",
+      "sourcePath": "images/backgrounds/newbg/pier.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 97240,
+      "hash": "323f1564"
+    },
+    {
+      "name": "pink_frame",
+      "path": "assets/images/cases/pink_frame.webp",
+      "sourcePath": "images/cases/pink_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 44474,
+      "hash": "77aa65a9"
+    },
+    {
+      "name": "play-fill",
+      "path": "assets/images/icons/play-fill.svg",
+      "sourcePath": "images/icons/play-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 362,
+      "hash": "727bc356"
+    },
+    {
+      "name": "plumber",
+      "path": "assets/images/img/apps/plumber.webp",
+      "sourcePath": "images/img/apps/plumber.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24626,
+      "hash": "91c90bed"
+    },
+    {
+      "name": "plumber",
+      "path": "assets/images/img/appstore/plumber.webp",
+      "sourcePath": "images/img/appstore/plumber.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 17120,
+      "hash": "9c78f4db"
+    },
+    {
+      "name": "plus",
+      "path": "assets/images/icons/plus.svg",
+      "sourcePath": "images/icons/plus.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 419,
+      "hash": "d6772dad"
+    },
+    {
+      "name": "police",
+      "path": "assets/images/backgrounds/newbg/police.webp",
+      "sourcePath": "images/backgrounds/newbg/police.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 57854,
+      "hash": "c81c45d9"
+    },
+    {
+      "name": "police",
+      "path": "assets/images/contacts-photo/police.webp",
+      "sourcePath": "images/contacts-photo/police.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26974,
+      "hash": "3ce3c130"
+    },
+    {
+      "name": "Pphotos",
+      "path": "assets/images/icons/Pphotos.svg",
+      "sourcePath": "images/icons/Pphotos.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2187,
+      "hash": "f7a6ba49"
+    },
+    {
+      "name": "privace",
+      "path": "assets/images/icons/privace.svg",
+      "sourcePath": "images/icons/privace.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 4419,
+      "hash": "43cae541"
+    },
+    {
+      "name": "purple_frame",
+      "path": "assets/images/cases/purple_frame.webp",
+      "sourcePath": "images/cases/purple_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 44704,
+      "hash": "262f1abb"
+    },
+    {
+      "name": "quanticbank",
+      "path": "assets/images/icons/quanticbank.webp",
+      "sourcePath": "images/icons/quanticbank.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1410,
+      "hash": "593ee46b"
+    },
+    {
+      "name": "racing",
+      "path": "assets/images/img/apps/racing.webp",
+      "sourcePath": "images/img/apps/racing.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1414,
+      "hash": "ef92b738"
+    },
+    {
+      "name": "racing",
+      "path": "assets/images/img/appstore/racing.webp",
+      "sourcePath": "images/img/appstore/racing.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5320,
+      "hash": "82569f2d"
+    },
+    {
+      "name": "radar",
+      "path": "assets/images/sounds/alarm/radar.mp3",
+      "sourcePath": "images/sounds/alarm/radar.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 180525,
+      "hash": "9a2c7dec"
+    },
+    {
+      "name": "radar",
+      "path": "assets/images/sounds/ringtones/radar.mp3",
+      "sourcePath": "images/sounds/ringtones/radar.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 365340,
+      "hash": "135d330d"
+    },
+    {
+      "name": "record",
+      "path": "assets/images/icons/record.webp",
+      "sourcePath": "images/icons/record.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2848,
+      "hash": "c3a26963"
+    },
+    {
+      "name": "records",
+      "path": "assets/images/icons/records.webp",
+      "sourcePath": "images/icons/records.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1336,
+      "hash": "1d4a0645"
+    },
+    {
+      "name": "red_frame",
+      "path": "assets/images/cases/red_frame.webp",
+      "sourcePath": "images/cases/red_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 48196,
+      "hash": "fd1d26a7"
+    },
+    {
+      "name": "redminote8",
+      "path": "assets/images/cases/redminote8.webp",
+      "sourcePath": "images/cases/redminote8.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6390,
+      "hash": "7dc520d2"
+    },
+    {
+      "name": "redo",
+      "path": "assets/images/tinder/redo.webp",
+      "sourcePath": "images/tinder/redo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5540,
+      "hash": "d5744ada"
+    },
+    {
+      "name": "refuse",
+      "path": "assets/images/tinder/refuse.webp",
+      "sourcePath": "images/tinder/refuse.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3270,
+      "hash": "f1eb6459"
+    },
+    {
+      "name": "relogio",
+      "path": "assets/images/img/apps/relogio.webp",
+      "sourcePath": "images/img/apps/relogio.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2198,
+      "hash": "606e63f0"
+    },
+    {
+      "name": "reporter",
+      "path": "assets/images/img/apps/reporter.webp",
+      "sourcePath": "images/img/apps/reporter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8972,
+      "hash": "49a8b731"
+    },
+    {
+      "name": "reporter",
+      "path": "assets/images/img/appstore/reporter.webp",
+      "sourcePath": "images/img/appstore/reporter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5696,
+      "hash": "34f8a391"
+    },
+    {
+      "name": "ring",
+      "path": "assets/images/sounds/ring.mp3",
+      "sourcePath": "images/sounds/ring.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 445033,
+      "hash": "7c2cbecd"
+    },
+    {
+      "name": "rose",
+      "path": "assets/images/backgrounds/newbg/rose.webp",
+      "sourcePath": "images/backgrounds/newbg/rose.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 44698,
+      "hash": "23da531d"
+    },
+    {
+      "name": "rose2",
+      "path": "assets/images/backgrounds/newbg/rose2.webp",
+      "sourcePath": "images/backgrounds/newbg/rose2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 52722,
+      "hash": "3bed7a6a"
+    },
+    {
+      "name": "rose3",
+      "path": "assets/images/backgrounds/newbg/rose3.webp",
+      "sourcePath": "images/backgrounds/newbg/rose3.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 28716,
+      "hash": "0671651a"
+    },
+    {
+      "name": "s20",
+      "path": "assets/images/backgrounds/s20.webp",
+      "sourcePath": "images/backgrounds/s20.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 206540,
+      "hash": "606d808c"
+    },
+    {
+      "name": "s20",
+      "path": "assets/images/cases/s20.webp",
+      "sourcePath": "images/cases/s20.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29844,
+      "hash": "2131a0fb"
+    },
+    {
+      "name": "s20b",
+      "path": "assets/images/cases/s20b.webp",
+      "sourcePath": "images/cases/s20b.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4338,
+      "hash": "9ba04d8f"
+    },
+    {
+      "name": "s20black",
+      "path": "assets/images/cases/s20black.webp",
+      "sourcePath": "images/cases/s20black.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 13570,
+      "hash": "806e6864"
+    },
+    {
+      "name": "s20cda",
+      "path": "assets/images/cases/s20cda.webp",
+      "sourcePath": "images/cases/s20cda.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3072,
+      "hash": "f2621d34"
+    },
+    {
+      "name": "s9",
+      "path": "assets/images/backgrounds/s9.webp",
+      "sourcePath": "images/backgrounds/s9.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 61034,
+      "hash": "f4d98c8c"
+    },
+    {
+      "name": "s9",
+      "path": "assets/images/cases/s9.webp",
+      "sourcePath": "images/cases/s9.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6660,
+      "hash": "07c21865"
+    },
+    {
+      "name": "safari",
+      "path": "assets/images/img/apps/safari.webp",
+      "sourcePath": "images/img/apps/safari.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 102132,
+      "hash": "20420f41"
+    },
+    {
+      "name": "safaribanner",
+      "path": "assets/images/img/appstore/safaribanner.webp",
+      "sourcePath": "images/img/appstore/safaribanner.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24278,
+      "hash": "e404f839"
+    },
+    {
+      "name": "search-white",
+      "path": "assets/images/icons/search-white.webp",
+      "sourcePath": "images/icons/search-white.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 202,
+      "hash": "174e37a1"
+    },
+    {
+      "name": "searchbar",
+      "path": "assets/images/icons/searchbar.svg",
+      "sourcePath": "images/icons/searchbar.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 554,
+      "hash": "fb103cde"
+    },
+    {
+      "name": "semcarga",
+      "path": "assets/images/img/bateria/semcarga.webp",
+      "sourcePath": "images/img/bateria/semcarga.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3908,
+      "hash": "805675d3"
+    },
+    {
+      "name": "sencha",
+      "path": "assets/images/sounds/ringtones/sencha.mp3",
+      "sourcePath": "images/sounds/ringtones/sencha.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 171431,
+      "hash": "5a9aaea0"
+    },
+    {
+      "name": "sendMessageWt",
+      "path": "assets/images/icons/sendMessageWt.svg",
+      "sourcePath": "images/icons/sendMessageWt.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 726,
+      "hash": "4157c3ed"
+    },
+    {
+      "name": "settings",
+      "path": "assets/images/icons/settings.webp",
+      "sourcePath": "images/icons/settings.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2046,
+      "hash": "ee6018d3"
+    },
+    {
+      "name": "settingsIcon",
+      "path": "assets/images/icons/settingsIcon.svg",
+      "sourcePath": "images/icons/settingsIcon.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 9841,
+      "hash": "1b9ea58f"
+    },
+    {
+      "name": "SF-Pro-Display-Bold",
+      "path": "assets/images/fonts/SF-Pro-Display-Bold.otf",
+      "sourcePath": "images/fonts/SF-Pro-Display-Bold.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 379984,
+      "hash": "2c5fff56"
+    },
+    {
+      "name": "SF-Pro-Display-Regular",
+      "path": "assets/images/fonts/SF-Pro-Display-Regular.otf",
+      "sourcePath": "images/fonts/SF-Pro-Display-Regular.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 341940,
+      "hash": "2970aed3"
+    },
+    {
+      "name": "SF-Pro-Display-Semibold",
+      "path": "assets/images/fonts/SF-Pro-Display-Semibold.otf",
+      "sourcePath": "images/fonts/SF-Pro-Display-Semibold.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 381776,
+      "hash": "80a1a964"
+    },
+    {
+      "name": "SF-Pro-Text-Bold",
+      "path": "assets/images/fonts/SF-Pro-Text-Bold.otf",
+      "sourcePath": "images/fonts/SF-Pro-Text-Bold.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 376192,
+      "hash": "e345a701"
+    },
+    {
+      "name": "SF-Pro-Text-Light",
+      "path": "assets/images/fonts/SF-Pro-Text-Light.ttf",
+      "sourcePath": "images/fonts/SF-Pro-Text-Light.ttf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 453456,
+      "hash": "64bfb064"
+    },
+    {
+      "name": "SF-Pro-Text-Medium",
+      "path": "assets/images/fonts/SF-Pro-Text-Medium.otf",
+      "sourcePath": "images/fonts/SF-Pro-Text-Medium.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 377484,
+      "hash": "7c56e1ed"
+    },
+    {
+      "name": "SF-Pro-Text-Regular",
+      "path": "assets/images/fonts/SF-Pro-Text-Regular.otf",
+      "sourcePath": "images/fonts/SF-Pro-Text-Regular.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 1646356,
+      "hash": "e93677de"
+    },
+    {
+      "name": "SF-Pro-Text-Semibold",
+      "path": "assets/images/fonts/SF-Pro-Text-Semibold.otf",
+      "sourcePath": "images/fonts/SF-Pro-Text-Semibold.otf",
+      "category": "fonts",
+      "group": "images",
+      "kind": "font",
+      "size": 1713964,
+      "hash": "4b8aa2ed"
+    },
+    {
+      "name": "shopping-cart",
+      "path": "assets/images/icons/shopping-cart.webp",
+      "sourcePath": "images/icons/shopping-cart.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 842,
+      "hash": "b8c27e5d"
+    },
+    {
+      "name": "signal",
+      "path": "assets/images/icons/signal.svg",
+      "sourcePath": "images/icons/signal.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1013,
+      "hash": "618bd305"
+    },
+    {
+      "name": "silk",
+      "path": "assets/images/sounds/ringtones/silk.mp3",
+      "sourcePath": "images/sounds/ringtones/silk.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 355130,
+      "hash": "d20ee5d7"
+    },
+    {
+      "name": "sinal0",
+      "path": "assets/images/icons/sinal0.svg",
+      "sourcePath": "images/icons/sinal0.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1355,
+      "hash": "085df72b"
+    },
+    {
+      "name": "sinal1",
+      "path": "assets/images/icons/sinal1.svg",
+      "sourcePath": "images/icons/sinal1.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1355,
+      "hash": "e4ae9f19"
+    },
+    {
+      "name": "sinal2",
+      "path": "assets/images/icons/sinal2.svg",
+      "sourcePath": "images/icons/sinal2.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1355,
+      "hash": "60a48a77"
+    },
+    {
+      "name": "sinal3",
+      "path": "assets/images/icons/sinal3.svg",
+      "sourcePath": "images/icons/sinal3.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1273,
+      "hash": "233168d2"
+    },
+    {
+      "name": "snote20",
+      "path": "assets/images/cases/snote20.webp",
+      "sourcePath": "images/cases/snote20.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12428,
+      "hash": "1a63072e"
+    },
+    {
+      "name": "som",
+      "path": "assets/images/img/definicoes/som.webp",
+      "sourcePath": "images/img/definicoes/som.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1536,
+      "hash": "bd350a01"
+    },
+    {
+      "name": "som-alarmes",
+      "path": "assets/images/img/definicoes/som-alarmes.webp",
+      "sourcePath": "images/img/definicoes/som-alarmes.webp",
+      "category": "audio",
+      "group": "images",
+      "kind": "image",
+      "size": 1378,
+      "hash": "c3865d86"
+    },
+    {
+      "name": "som-notifcacoes",
+      "path": "assets/images/img/definicoes/som-notifcacoes.webp",
+      "sourcePath": "images/img/definicoes/som-notifcacoes.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1548,
+      "hash": "4a35d927"
+    },
+    {
+      "name": "somoriginal",
+      "path": "assets/images/sounds/notif/somoriginal.mp3",
+      "sourcePath": "images/sounds/notif/somoriginal.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 21415,
+      "hash": "08bedd50"
+    },
+    {
+      "name": "sound",
+      "path": "assets/images/img/sound.webp",
+      "sourcePath": "images/img/sound.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 572380,
+      "hash": "e92fd11c"
+    },
+    {
+      "name": "sound.test",
+      "path": "assets/images/img/sound.test.webp",
+      "sourcePath": "images/img/sound.test.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 657928,
+      "hash": "fee9e7ac"
+    },
+    {
+      "name": "speaker",
+      "path": "assets/images/icons/speaker.svg",
+      "sourcePath": "images/icons/speaker.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1221,
+      "hash": "b9f56e96"
+    },
+    {
+      "name": "speaker-2",
+      "path": "assets/images/icons/speaker-2.svg",
+      "sourcePath": "images/icons/speaker-2.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1053,
+      "hash": "469d2a8d"
+    },
+    {
+      "name": "spinner",
+      "path": "assets/images/img/sistema/spinner.webp",
+      "sourcePath": "images/img/sistema/spinner.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 53446,
+      "hash": "341d163d"
+    },
+    {
+      "name": "spotify",
+      "path": "assets/images/img/apps/spotify.webp",
+      "sourcePath": "images/img/apps/spotify.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4274,
+      "hash": "9b7d5b9f"
+    },
+    {
+      "name": "spotify",
+      "path": "assets/images/img/appstore/spotify.webp",
+      "sourcePath": "images/img/appstore/spotify.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 69246,
+      "hash": "614b0253"
+    },
+    {
+      "name": "star",
+      "path": "assets/images/tinder/star.webp",
+      "sourcePath": "images/tinder/star.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4938,
+      "hash": "bb800f1b"
+    },
+    {
+      "name": "star-fill",
+      "path": "assets/images/icons/star-fill.svg",
+      "sourcePath": "images/icons/star-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 601,
+      "hash": "b8426ff0"
+    },
+    {
+      "name": "stocks",
+      "path": "assets/images/icons/stocks.webp",
+      "sourcePath": "images/icons/stocks.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1682,
+      "hash": "6a8891b8"
+    },
+    {
+      "name": "storage",
+      "path": "assets/images/img/definicoes/storage.webp",
+      "sourcePath": "images/img/definicoes/storage.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1234,
+      "hash": "5f9a1227"
+    },
+    {
+      "name": "summit",
+      "path": "assets/images/sounds/ringtones/summit.mp3",
+      "sourcePath": "images/sounds/ringtones/summit.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 430784,
+      "hash": "42617229"
+    },
+    {
+      "name": "switch_camera",
+      "path": "assets/images/icons/switch_camera.webp",
+      "sourcePath": "images/icons/switch_camera.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 742,
+      "hash": "2cd004f9"
+    },
+    {
+      "name": "system_calendar",
+      "path": "assets/images/calendary/system_calendar.webp",
+      "sourcePath": "images/calendary/system_calendar.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2046,
+      "hash": "48bcbefc"
+    },
+    {
+      "name": "system_calendar_1",
+      "path": "assets/images/calendary/system_calendar_1.webp",
+      "sourcePath": "images/calendary/system_calendar_1.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2058,
+      "hash": "4ca4a118"
+    },
+    {
+      "name": "system_calendar_10",
+      "path": "assets/images/calendary/system_calendar_10.webp",
+      "sourcePath": "images/calendary/system_calendar_10.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2204,
+      "hash": "1c36e0ce"
+    },
+    {
+      "name": "system_calendar_11",
+      "path": "assets/images/calendary/system_calendar_11.webp",
+      "sourcePath": "images/calendary/system_calendar_11.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1476,
+      "hash": "58b8bc83"
+    },
+    {
+      "name": "system_calendar_12",
+      "path": "assets/images/calendary/system_calendar_12.webp",
+      "sourcePath": "images/calendary/system_calendar_12.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2120,
+      "hash": "979673a0"
+    },
+    {
+      "name": "system_calendar_13",
+      "path": "assets/images/calendary/system_calendar_13.webp",
+      "sourcePath": "images/calendary/system_calendar_13.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2326,
+      "hash": "3f271f0c"
+    },
+    {
+      "name": "system_calendar_14",
+      "path": "assets/images/calendary/system_calendar_14.webp",
+      "sourcePath": "images/calendary/system_calendar_14.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1792,
+      "hash": "3df054f1"
+    },
+    {
+      "name": "system_calendar_15",
+      "path": "assets/images/calendary/system_calendar_15.webp",
+      "sourcePath": "images/calendary/system_calendar_15.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2168,
+      "hash": "e91ec4b3"
+    },
+    {
+      "name": "system_calendar_16",
+      "path": "assets/images/calendary/system_calendar_16.webp",
+      "sourcePath": "images/calendary/system_calendar_16.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2450,
+      "hash": "b25f872b"
+    },
+    {
+      "name": "system_calendar_17",
+      "path": "assets/images/calendary/system_calendar_17.webp",
+      "sourcePath": "images/calendary/system_calendar_17.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1854,
+      "hash": "815ae8a4"
+    },
+    {
+      "name": "system_calendar_18",
+      "path": "assets/images/calendary/system_calendar_18.webp",
+      "sourcePath": "images/calendary/system_calendar_18.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2510,
+      "hash": "c18f5973"
+    },
+    {
+      "name": "system_calendar_19",
+      "path": "assets/images/calendary/system_calendar_19.webp",
+      "sourcePath": "images/calendary/system_calendar_19.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2342,
+      "hash": "fb644f5c"
+    },
+    {
+      "name": "system_calendar_2",
+      "path": "assets/images/calendary/system_calendar_2.webp",
+      "sourcePath": "images/calendary/system_calendar_2.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2786,
+      "hash": "1fc524fb"
+    },
+    {
+      "name": "system_calendar_20",
+      "path": "assets/images/calendary/system_calendar_20.webp",
+      "sourcePath": "images/calendary/system_calendar_20.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2884,
+      "hash": "376165e1"
+    },
+    {
+      "name": "system_calendar_21",
+      "path": "assets/images/calendary/system_calendar_21.webp",
+      "sourcePath": "images/calendary/system_calendar_21.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1960,
+      "hash": "dc174571"
+    },
+    {
+      "name": "system_calendar_22",
+      "path": "assets/images/calendary/system_calendar_22.webp",
+      "sourcePath": "images/calendary/system_calendar_22.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2458,
+      "hash": "69b02e11"
+    },
+    {
+      "name": "system_calendar_23",
+      "path": "assets/images/calendary/system_calendar_23.webp",
+      "sourcePath": "images/calendary/system_calendar_23.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2938,
+      "hash": "1e63226c"
+    },
+    {
+      "name": "system_calendar_24",
+      "path": "assets/images/calendary/system_calendar_24.webp",
+      "sourcePath": "images/calendary/system_calendar_24.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2194,
+      "hash": "532d3caf"
+    },
+    {
+      "name": "system_calendar_25",
+      "path": "assets/images/calendary/system_calendar_25.webp",
+      "sourcePath": "images/calendary/system_calendar_25.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2756,
+      "hash": "d929e486"
+    },
+    {
+      "name": "system_calendar_26",
+      "path": "assets/images/calendary/system_calendar_26.webp",
+      "sourcePath": "images/calendary/system_calendar_26.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2924,
+      "hash": "28566069"
+    },
+    {
+      "name": "system_calendar_27",
+      "path": "assets/images/calendary/system_calendar_27.webp",
+      "sourcePath": "images/calendary/system_calendar_27.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2454,
+      "hash": "2a4cf813"
+    },
+    {
+      "name": "system_calendar_28",
+      "path": "assets/images/calendary/system_calendar_28.webp",
+      "sourcePath": "images/calendary/system_calendar_28.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2996,
+      "hash": "a24d8bb9"
+    },
+    {
+      "name": "system_calendar_29",
+      "path": "assets/images/calendary/system_calendar_29.webp",
+      "sourcePath": "images/calendary/system_calendar_29.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2736,
+      "hash": "b81b91e1"
+    },
+    {
+      "name": "system_calendar_3",
+      "path": "assets/images/calendary/system_calendar_3.webp",
+      "sourcePath": "images/calendary/system_calendar_3.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2790,
+      "hash": "cc31b6d9"
+    },
+    {
+      "name": "system_calendar_30",
+      "path": "assets/images/calendary/system_calendar_30.webp",
+      "sourcePath": "images/calendary/system_calendar_30.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2818,
+      "hash": "ab056605"
+    },
+    {
+      "name": "system_calendar_31",
+      "path": "assets/images/calendary/system_calendar_31.webp",
+      "sourcePath": "images/calendary/system_calendar_31.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2174,
+      "hash": "d8ea9f88"
+    },
+    {
+      "name": "system_calendar_4",
+      "path": "assets/images/calendary/system_calendar_4.webp",
+      "sourcePath": "images/calendary/system_calendar_4.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2212,
+      "hash": "992ce8d9"
+    },
+    {
+      "name": "system_calendar_5",
+      "path": "assets/images/calendary/system_calendar_5.webp",
+      "sourcePath": "images/calendary/system_calendar_5.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2946,
+      "hash": "e9ae69de"
+    },
+    {
+      "name": "system_calendar_6",
+      "path": "assets/images/calendary/system_calendar_6.webp",
+      "sourcePath": "images/calendary/system_calendar_6.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3156,
+      "hash": "04b86df0"
+    },
+    {
+      "name": "system_calendar_7",
+      "path": "assets/images/calendary/system_calendar_7.webp",
+      "sourcePath": "images/calendary/system_calendar_7.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2458,
+      "hash": "79f85048"
+    },
+    {
+      "name": "system_calendar_8",
+      "path": "assets/images/calendary/system_calendar_8.webp",
+      "sourcePath": "images/calendary/system_calendar_8.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2916,
+      "hash": "d4d38917"
+    },
+    {
+      "name": "system_calendar_9",
+      "path": "assets/images/calendary/system_calendar_9.webp",
+      "sourcePath": "images/calendary/system_calendar_9.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2860,
+      "hash": "935d323f"
+    },
+    {
+      "name": "taiwan",
+      "path": "assets/images/backgrounds/taiwan.webp",
+      "sourcePath": "images/backgrounds/taiwan.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 264086,
+      "hash": "01f7c170"
+    },
+    {
+      "name": "taxi",
+      "path": "assets/images/contacts-photo/taxi.webp",
+      "sourcePath": "images/contacts-photo/taxi.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7238,
+      "hash": "5ec6f596"
+    },
+    {
+      "name": "tecnologia",
+      "path": "assets/images/img/olx/tecnologia.webp",
+      "sourcePath": "images/img/olx/tecnologia.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1420,
+      "hash": "f62f93b4"
+    },
+    {
+      "name": "temas",
+      "path": "assets/images/img/definicoes/temas.webp",
+      "sourcePath": "images/img/definicoes/temas.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8188,
+      "hash": "b9adb907"
+    },
+    {
+      "name": "tempo",
+      "path": "assets/images/img/apps/tempo.webp",
+      "sourcePath": "images/img/apps/tempo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1430,
+      "hash": "b780ee7e"
+    },
+    {
+      "name": "threads",
+      "path": "assets/images/icons/threads.webp",
+      "sourcePath": "images/icons/threads.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 13158,
+      "hash": "88a0b4a9"
+    },
+    {
+      "name": "thrends",
+      "path": "assets/images/icons/thrends.svg",
+      "sourcePath": "images/icons/thrends.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1581,
+      "hash": "b0ac2d74"
+    },
+    {
+      "name": "thunder",
+      "path": "assets/images/backgrounds/newbg/thunder.webp",
+      "sourcePath": "images/backgrounds/newbg/thunder.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 5240,
+      "hash": "6a6d683b"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/icons/tiktok.svg",
+      "sourcePath": "images/icons/tiktok.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 647,
+      "hash": "af9173b1"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/icons/tiktok.webp",
+      "sourcePath": "images/icons/tiktok.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1564,
+      "hash": "ebfb0253"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/img/apps/tiktok.webp",
+      "sourcePath": "images/img/apps/tiktok.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6432,
+      "hash": "f6a7f87d"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/img/appstore/tiktok.webp",
+      "sourcePath": "images/img/appstore/tiktok.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25418,
+      "hash": "04f1cec3"
+    },
+    {
+      "name": "tiktok_layer",
+      "path": "assets/images/img/tiktok/tiktok_layer.webp",
+      "sourcePath": "images/img/tiktok/tiktok_layer.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 10226,
+      "hash": "e859441f"
+    },
+    {
+      "name": "tiktokPost",
+      "path": "assets/images/img/tiktok/tiktokPost.webp",
+      "sourcePath": "images/img/tiktok/tiktokPost.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1100,
+      "hash": "91ac3319"
+    },
+    {
+      "name": "tiktokPost_Light",
+      "path": "assets/images/img/tiktok/tiktokPost_Light.webp",
+      "sourcePath": "images/img/tiktok/tiktokPost_Light.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1306,
+      "hash": "b02dffc8"
+    },
+    {
+      "name": "tinder",
+      "path": "assets/images/icons/tinder.webp",
+      "sourcePath": "images/icons/tinder.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1470,
+      "hash": "5dd8aa02"
+    },
+    {
+      "name": "tinder",
+      "path": "assets/images/img/apps/tinder.webp",
+      "sourcePath": "images/img/apps/tinder.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7254,
+      "hash": "00ae2bba"
+    },
+    {
+      "name": "tinder",
+      "path": "assets/images/img/appstore/tinder.webp",
+      "sourcePath": "images/img/appstore/tinder.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 18408,
+      "hash": "5ac5d555"
+    },
+    {
+      "name": "tombrunner",
+      "path": "assets/images/img/apps/tombrunner.webp",
+      "sourcePath": "images/img/apps/tombrunner.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25802,
+      "hash": "27a310cc"
+    },
+    {
+      "name": "tombrunner",
+      "path": "assets/images/img/appstore/tombrunner.webp",
+      "sourcePath": "images/img/appstore/tombrunner.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24870,
+      "hash": "4d744daa"
+    },
+    {
+      "name": "toquetelemovel",
+      "path": "assets/images/sounds/toques/toquetelemovel.mp3",
+      "sourcePath": "images/sounds/toques/toquetelemovel.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 212994,
+      "hash": "721286aa"
+    },
+    {
+      "name": "trash-fill",
+      "path": "assets/images/icons/trash-fill.svg",
+      "sourcePath": "images/icons/trash-fill.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1088,
+      "hash": "e7951bb6"
+    },
+    {
+      "name": "twitter",
+      "path": "assets/images/icons/twitter.webp",
+      "sourcePath": "images/icons/twitter.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1314,
+      "hash": "48db7614"
+    },
+    {
+      "name": "twitter",
+      "path": "assets/images/img/apps/twitter.webp",
+      "sourcePath": "images/img/apps/twitter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1318,
+      "hash": "2dcb5479"
+    },
+    {
+      "name": "twitter",
+      "path": "assets/images/img/appstore/twitter.webp",
+      "sourcePath": "images/img/appstore/twitter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 142784,
+      "hash": "54a76cf0"
+    },
+    {
+      "name": "ubereats",
+      "path": "assets/images/img/apps/ubereats.webp",
+      "sourcePath": "images/img/apps/ubereats.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8990,
+      "hash": "d5686cb6"
+    },
+    {
+      "name": "ubereats",
+      "path": "assets/images/img/appstore/ubereats.webp",
+      "sourcePath": "images/img/appstore/ubereats.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 28932,
+      "hash": "03c10252"
+    },
+    {
+      "name": "underwater",
+      "path": "assets/images/backgrounds/newbg/underwater.webp",
+      "sourcePath": "images/backgrounds/newbg/underwater.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 41254,
+      "hash": "6006c4b7"
+    },
+    {
+      "name": "unknown",
+      "path": "assets/images/icons/unknown.webp",
+      "sourcePath": "images/icons/unknown.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 274,
+      "hash": "86c12208"
+    },
+    {
+      "name": "unkown",
+      "path": "assets/images/icons/unkown.webp",
+      "sourcePath": "images/icons/unkown.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 12400,
+      "hash": "ebe5e987"
+    },
+    {
+      "name": "unmute",
+      "path": "assets/images/sounds/other/unmute.mp3",
+      "sourcePath": "images/sounds/other/unmute.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 2925,
+      "hash": "10526a07"
+    },
+    {
+      "name": "user",
+      "path": "assets/images/icons/user.svg",
+      "sourcePath": "images/icons/user.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1686,
+      "hash": "eb845479"
+    },
+    {
+      "name": "user",
+      "path": "assets/images/tinder/user.webp",
+      "sourcePath": "images/tinder/user.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5414,
+      "hash": "413ec908"
+    },
+    {
+      "name": "vaporwave",
+      "path": "assets/images/backgrounds/vaporwave.webp",
+      "sourcePath": "images/backgrounds/vaporwave.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 194312,
+      "hash": "9adf179c"
+    },
+    {
+      "name": "vehicle",
+      "path": "assets/images/img/mdt/vehicle.webp",
+      "sourcePath": "images/img/mdt/vehicle.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2162,
+      "hash": "3b257b16"
+    },
+    {
+      "name": "veiculos",
+      "path": "assets/images/img/olx/veiculos.webp",
+      "sourcePath": "images/img/olx/veiculos.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1584,
+      "hash": "1bd1b200"
+    },
+    {
+      "name": "verificado",
+      "path": "assets/images/img/twitter/verificado.webp",
+      "sourcePath": "images/img/twitter/verificado.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7590,
+      "hash": "8b6d5019"
+    },
+    {
+      "name": "verified",
+      "path": "assets/images/img/tiktok/verified.webp",
+      "sourcePath": "images/img/tiktok/verified.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6010,
+      "hash": "fcf144d6"
+    },
+    {
+      "name": "viaverde",
+      "path": "assets/images/img/appstore/viaverde.webp",
+      "sourcePath": "images/img/appstore/viaverde.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 93932,
+      "hash": "57d9c0b1"
+    },
+    {
+      "name": "vibrate",
+      "path": "assets/images/sounds/ringtones/vibrate.ogg",
+      "sourcePath": "images/sounds/ringtones/vibrate.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 13387,
+      "hash": "4bf8d086"
+    },
+    {
+      "name": "vibration",
+      "path": "assets/images/sounds/misc/vibration.mp3",
+      "sourcePath": "images/sounds/misc/vibration.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 1035904,
+      "hash": "f72e5cba"
+    },
+    {
+      "name": "vibration_message",
+      "path": "assets/images/sounds/misc/vibration_message.mp3",
+      "sourcePath": "images/sounds/misc/vibration_message.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 21360,
+      "hash": "8cff7dfd"
+    },
+    {
+      "name": "voicemail",
+      "path": "assets/images/icons/voicemail.svg",
+      "sourcePath": "images/icons/voicemail.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 688,
+      "hash": "c88ef36a"
+    },
+    {
+      "name": "voicemail-number-0",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-0.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-0.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 26568,
+      "hash": "ddc01efc"
+    },
+    {
+      "name": "voicemail-number-1",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-1.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-1.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 23750,
+      "hash": "de4359a3"
+    },
+    {
+      "name": "voicemail-number-2",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-2.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-2.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 20032,
+      "hash": "b08893bd"
+    },
+    {
+      "name": "voicemail-number-3",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-3.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-3.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 19402,
+      "hash": "4459e878"
+    },
+    {
+      "name": "voicemail-number-4",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-4.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-4.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 19472,
+      "hash": "4b33899b"
+    },
+    {
+      "name": "voicemail-number-5",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-5.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-5.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 23606,
+      "hash": "422a4498"
+    },
+    {
+      "name": "voicemail-number-6",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-6.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-6.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 20888,
+      "hash": "b9041c93"
+    },
+    {
+      "name": "voicemail-number-7",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-7.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-7.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 28088,
+      "hash": "04e7c17c"
+    },
+    {
+      "name": "voicemail-number-8",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-8.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-8.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 22290,
+      "hash": "74d0910c"
+    },
+    {
+      "name": "voicemail-number-9",
+      "path": "assets/images/sounds/other/voicemail/voicemail-number-9.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-number-9.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 22417,
+      "hash": "5f4cd10d"
+    },
+    {
+      "name": "voicemail-part-1",
+      "path": "assets/images/sounds/other/voicemail/voicemail-part-1.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-part-1.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 112795,
+      "hash": "d0a741a5"
+    },
+    {
+      "name": "voicemail-part-2",
+      "path": "assets/images/sounds/other/voicemail/voicemail-part-2.ogg",
+      "sourcePath": "images/sounds/other/voicemail/voicemail-part-2.ogg",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 225099,
+      "hash": "e218b14d"
+    },
+    {
+      "name": "VoiceMemo",
+      "path": "assets/images/icons/VoiceMemo.webp",
+      "sourcePath": "images/icons/VoiceMemo.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 892,
+      "hash": "1c3eaf94"
+    },
+    {
+      "name": "wallet",
+      "path": "assets/images/icons/wallet.webp",
+      "sourcePath": "images/icons/wallet.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1246,
+      "hash": "653689e6"
+    },
+    {
+      "name": "wallet",
+      "path": "assets/images/img/appsimessage/wallet.webp",
+      "sourcePath": "images/img/appsimessage/wallet.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 852,
+      "hash": "2e8b39e3"
+    },
+    {
+      "name": "wallpaper",
+      "path": "assets/images/backgrounds/newbg/wallpaper.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 17364,
+      "hash": "c4aaee1b"
+    },
+    {
+      "name": "wallpaper10",
+      "path": "assets/images/backgrounds/newbg/wallpaper10.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper10.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 22224,
+      "hash": "0db50ce6"
+    },
+    {
+      "name": "wallpaper11",
+      "path": "assets/images/backgrounds/newbg/wallpaper11.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper11.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21432,
+      "hash": "c6bde018"
+    },
+    {
+      "name": "wallpaper12",
+      "path": "assets/images/backgrounds/newbg/wallpaper12.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper12.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 16752,
+      "hash": "8fd58e4f"
+    },
+    {
+      "name": "wallpaper13",
+      "path": "assets/images/backgrounds/newbg/wallpaper13.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper13.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 10150,
+      "hash": "862f60c2"
+    },
+    {
+      "name": "wallpaper14",
+      "path": "assets/images/backgrounds/newbg/wallpaper14.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper14.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 15548,
+      "hash": "2293288f"
+    },
+    {
+      "name": "wallpaper15",
+      "path": "assets/images/backgrounds/newbg/wallpaper15.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper15.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 10022,
+      "hash": "1f30ef0d"
+    },
+    {
+      "name": "wallpaper16",
+      "path": "assets/images/backgrounds/newbg/wallpaper16.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper16.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 24448,
+      "hash": "bd14e3d3"
+    },
+    {
+      "name": "wallpaper17",
+      "path": "assets/images/backgrounds/newbg/wallpaper17.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper17.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 16734,
+      "hash": "708a4964"
+    },
+    {
+      "name": "wallpaper18",
+      "path": "assets/images/backgrounds/newbg/wallpaper18.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper18.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13018,
+      "hash": "6ffcea60"
+    },
+    {
+      "name": "wallpaper19",
+      "path": "assets/images/backgrounds/newbg/wallpaper19.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper19.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 23024,
+      "hash": "c040a3c7"
+    },
+    {
+      "name": "wallpaper2",
+      "path": "assets/images/backgrounds/newbg/wallpaper2.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 31122,
+      "hash": "4b870512"
+    },
+    {
+      "name": "wallpaper20",
+      "path": "assets/images/backgrounds/newbg/wallpaper20.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper20.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11104,
+      "hash": "7bc9c38e"
+    },
+    {
+      "name": "wallpaper21",
+      "path": "assets/images/backgrounds/newbg/wallpaper21.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper21.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 11186,
+      "hash": "6cee0162"
+    },
+    {
+      "name": "wallpaper3",
+      "path": "assets/images/backgrounds/newbg/wallpaper3.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper3.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13082,
+      "hash": "da47edde"
+    },
+    {
+      "name": "wallpaper4",
+      "path": "assets/images/backgrounds/newbg/wallpaper4.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper4.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 13326,
+      "hash": "c5e8e69e"
+    },
+    {
+      "name": "wallpaper5",
+      "path": "assets/images/backgrounds/newbg/wallpaper5.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper5.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 21824,
+      "hash": "a7266766"
+    },
+    {
+      "name": "wallpaper6",
+      "path": "assets/images/backgrounds/newbg/wallpaper6.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper6.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 28178,
+      "hash": "328a6266"
+    },
+    {
+      "name": "wallpaper7",
+      "path": "assets/images/backgrounds/newbg/wallpaper7.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper7.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 20002,
+      "hash": "67733ab8"
+    },
+    {
+      "name": "wallpaper8",
+      "path": "assets/images/backgrounds/newbg/wallpaper8.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper8.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 38382,
+      "hash": "77fc6de5"
+    },
+    {
+      "name": "wallpaper9",
+      "path": "assets/images/backgrounds/newbg/wallpaper9.webp",
+      "sourcePath": "images/backgrounds/newbg/wallpaper9.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 20808,
+      "hash": "36811a5a"
+    },
+    {
+      "name": "water",
+      "path": "assets/images/img/ubereats/water.webp",
+      "sourcePath": "images/img/ubereats/water.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2208,
+      "hash": "100e117c"
+    },
+    {
+      "name": "weather",
+      "path": "assets/images/icons/weather.webp",
+      "sourcePath": "images/icons/weather.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1554,
+      "hash": "b318181a"
+    },
+    {
+      "name": "weather",
+      "path": "assets/images/img/appstore/weather.webp",
+      "sourcePath": "images/img/appstore/weather.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 121110,
+      "hash": "f1273c77"
+    },
+    {
+      "name": "whatsapp",
+      "path": "assets/images/icons/whatsapp.webp",
+      "sourcePath": "images/icons/whatsapp.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2180,
+      "hash": "aa727de9"
+    },
+    {
+      "name": "whatsapp",
+      "path": "assets/images/img/apps/whatsapp.webp",
+      "sourcePath": "images/img/apps/whatsapp.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1596,
+      "hash": "610687a2"
+    },
+    {
+      "name": "whatsapp",
+      "path": "assets/images/img/appstore/whatsapp.webp",
+      "sourcePath": "images/img/appstore/whatsapp.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 15454,
+      "hash": "cc3a86ad"
+    },
+    {
+      "name": "whatsapp-chat",
+      "path": "assets/images/backgrounds/whatsapp-chat.webp",
+      "sourcePath": "images/backgrounds/whatsapp-chat.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 26116,
+      "hash": "b9dbd791"
+    },
+    {
+      "name": "whatsapp-chat",
+      "path": "assets/images/img/whatsapp/whatsapp-chat.webp",
+      "sourcePath": "images/img/whatsapp/whatsapp-chat.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31858,
+      "hash": "6d72adaf"
+    },
+    {
+      "name": "whatsapp-chat-dark",
+      "path": "assets/images/backgrounds/whatsapp-chat-dark.webp",
+      "sourcePath": "images/backgrounds/whatsapp-chat-dark.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 46888,
+      "hash": "ce64096e"
+    },
+    {
+      "name": "whatsapp-chatlight",
+      "path": "assets/images/img/whatsapp/whatsapp-chatlight.webp",
+      "sourcePath": "images/img/whatsapp/whatsapp-chatlight.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26116,
+      "hash": "b6f67684"
+    },
+    {
+      "name": "Wheel",
+      "path": "assets/images/backgrounds/newbg/Wheel.webp",
+      "sourcePath": "images/backgrounds/newbg/Wheel.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 53964,
+      "hash": "7932dc68"
+    },
+    {
+      "name": "wheel2",
+      "path": "assets/images/backgrounds/newbg/wheel2.webp",
+      "sourcePath": "images/backgrounds/newbg/wheel2.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 61488,
+      "hash": "755f1b1e"
+    },
+    {
+      "name": "white_frame",
+      "path": "assets/images/cases/white_frame.webp",
+      "sourcePath": "images/cases/white_frame.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 38694,
+      "hash": "dc4d90e9"
+    },
+    {
+      "name": "widget1",
+      "path": "assets/images/img/definicoes/widget1.webp",
+      "sourcePath": "images/img/definicoes/widget1.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5722,
+      "hash": "b416c010"
+    },
+    {
+      "name": "widgets",
+      "path": "assets/images/img/definicoes/widgets.webp",
+      "sourcePath": "images/img/definicoes/widgets.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1526,
+      "hash": "8173eb32"
+    },
+    {
+      "name": "wifi",
+      "path": "assets/images/icons/wifi.svg",
+      "sourcePath": "images/icons/wifi.svg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 895,
+      "hash": "8f38aa36"
+    },
+    {
+      "name": "wifi",
+      "path": "assets/images/img/definicoes/wifi.webp",
+      "sourcePath": "images/img/definicoes/wifi.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1834,
+      "hash": "afed8e50"
+    },
+    {
+      "name": "workspace",
+      "path": "assets/images/icons/workspace.webp",
+      "sourcePath": "images/icons/workspace.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2538,
+      "hash": "2dadab03"
+    },
+    {
+      "name": "wpp",
+      "path": "assets/images/sounds/misc/wpp.mp3",
+      "sourcePath": "images/sounds/misc/wpp.mp3",
+      "category": "audio",
+      "group": "images",
+      "kind": "audio",
+      "size": 18016,
+      "hash": "5cf4ed53"
+    },
+    {
+      "name": "yacht",
+      "path": "assets/images/backgrounds/newbg/yacht.webp",
+      "sourcePath": "images/backgrounds/newbg/yacht.webp",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 185918,
+      "hash": "dc1701ec"
+    },
+    {
+      "name": "yellowPages",
+      "path": "assets/images/icons/yellowPages.webp",
+      "sourcePath": "images/icons/yellowPages.webp",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1656,
+      "hash": "f0a75628"
+    },
+    {
+      "name": "youtube",
+      "path": "assets/images/img/apps/youtube.webp",
+      "sourcePath": "images/img/apps/youtube.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1080,
+      "hash": "3ebb2001"
+    },
+    {
+      "name": "youtube",
+      "path": "assets/images/img/appstore/youtube.webp",
+      "sourcePath": "images/img/appstore/youtube.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31314,
+      "hash": "6716b450"
+    },
+    {
+      "name": "youtubelogo",
+      "path": "assets/images/img/safari/youtubelogo.webp",
+      "sourcePath": "images/img/safari/youtubelogo.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5284,
+      "hash": "fe634835"
+    },
+    {
+      "name": "zombieshooter",
+      "path": "assets/images/img/apps/zombieshooter.webp",
+      "sourcePath": "images/img/apps/zombieshooter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29460,
+      "hash": "02821cbb"
+    },
+    {
+      "name": "zombieshooter",
+      "path": "assets/images/img/appstore/zombieshooter.webp",
+      "sourcePath": "images/img/appstore/zombieshooter.webp",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 15978,
+      "hash": "af6d89ad"
+    }
+  ]
+}
