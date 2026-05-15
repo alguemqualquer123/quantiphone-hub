@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-05-15T20:57:18.586Z",
-  "totalAssets": 554,
+  "generatedAt": "2026-05-15T21:59:48.302Z",
+  "totalAssets": 980,
   "items": [
+    {
+      "name": "001",
+      "path": "assets/images/backgrounds/001.png",
+      "sourcePath": "images/backgrounds/001.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 377680,
+      "hash": "c13b2f00"
+    },
     {
       "name": "001",
       "path": "assets/images/backgrounds/001.webp",
@@ -11,6 +21,16 @@
       "kind": "image",
       "size": 14334,
       "hash": "88191292"
+    },
+    {
+      "name": "14promax",
+      "path": "assets/images/cases/iphone14/14promax.png",
+      "sourcePath": "images/cases/iphone14/14promax.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 436919,
+      "hash": "4452a04c"
     },
     {
       "name": "14promax",
@@ -24,6 +44,16 @@
     },
     {
       "name": "14promax_black",
+      "path": "assets/images/cases/iphone14/14promax_black.png",
+      "sourcePath": "images/cases/iphone14/14promax_black.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 146358,
+      "hash": "4f1e30b6"
+    },
+    {
+      "name": "14promax_black",
       "path": "assets/images/cases/iphone14/14promax_black.webp",
       "sourcePath": "images/cases/iphone14/14promax_black.webp",
       "category": "images",
@@ -31,6 +61,16 @@
       "kind": "image",
       "size": 26106,
       "hash": "c900a3b3"
+    },
+    {
+      "name": "14promax_blue",
+      "path": "assets/images/cases/iphone14/14promax_blue.png",
+      "sourcePath": "images/cases/iphone14/14promax_blue.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 201581,
+      "hash": "6bbfc956"
     },
     {
       "name": "14promax_blue",
@@ -44,6 +84,16 @@
     },
     {
       "name": "14promax_bluein",
+      "path": "assets/images/cases/iphone14/14promax_bluein.png",
+      "sourcePath": "images/cases/iphone14/14promax_bluein.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 204044,
+      "hash": "8c4fb25c"
+    },
+    {
+      "name": "14promax_bluein",
       "path": "assets/images/cases/iphone14/14promax_bluein.webp",
       "sourcePath": "images/cases/iphone14/14promax_bluein.webp",
       "category": "images",
@@ -51,6 +101,16 @@
       "kind": "image",
       "size": 30568,
       "hash": "02169bb3"
+    },
+    {
+      "name": "14promax_green",
+      "path": "assets/images/cases/iphone14/14promax_green.png",
+      "sourcePath": "images/cases/iphone14/14promax_green.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 200784,
+      "hash": "dc136b74"
     },
     {
       "name": "14promax_green",
@@ -64,6 +124,16 @@
     },
     {
       "name": "14promax_pink",
+      "path": "assets/images/cases/iphone14/14promax_pink.png",
+      "sourcePath": "images/cases/iphone14/14promax_pink.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 202748,
+      "hash": "6a31ecab"
+    },
+    {
+      "name": "14promax_pink",
       "path": "assets/images/cases/iphone14/14promax_pink.webp",
       "sourcePath": "images/cases/iphone14/14promax_pink.webp",
       "category": "images",
@@ -71,6 +141,16 @@
       "kind": "image",
       "size": 30278,
       "hash": "a6149001"
+    },
+    {
+      "name": "14promax_purple",
+      "path": "assets/images/cases/iphone14/14promax_purple.png",
+      "sourcePath": "images/cases/iphone14/14promax_purple.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 203009,
+      "hash": "d374ce48"
     },
     {
       "name": "14promax_purple",
@@ -84,6 +164,16 @@
     },
     {
       "name": "14promax_red",
+      "path": "assets/images/cases/iphone14/14promax_red.png",
+      "sourcePath": "images/cases/iphone14/14promax_red.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 140575,
+      "hash": "484d4195"
+    },
+    {
+      "name": "14promax_red",
       "path": "assets/images/cases/iphone14/14promax_red.webp",
       "sourcePath": "images/cases/iphone14/14promax_red.webp",
       "category": "images",
@@ -91,6 +181,16 @@
       "kind": "image",
       "size": 30700,
       "hash": "f2bed01e"
+    },
+    {
+      "name": "14promax_yellow",
+      "path": "assets/images/cases/iphone14/14promax_yellow.png",
+      "sourcePath": "images/cases/iphone14/14promax_yellow.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 202633,
+      "hash": "d87eb8fe"
     },
     {
       "name": "14promax_yellow",
@@ -114,6 +214,16 @@
     },
     {
       "name": "adicionarimagem",
+      "path": "assets/images/img/olx/adicionarimagem.png",
+      "sourcePath": "images/img/olx/adicionarimagem.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 624020,
+      "hash": "e0cd4a5a"
+    },
+    {
+      "name": "adicionarimagem",
       "path": "assets/images/img/olx/adicionarimagem.webp",
       "sourcePath": "images/img/olx/adicionarimagem.webp",
       "category": "images",
@@ -121,6 +231,16 @@
       "kind": "image",
       "size": 262256,
       "hash": "5d4a1a22"
+    },
+    {
+      "name": "airdrop",
+      "path": "assets/images/img/apps/airdrop.png",
+      "sourcePath": "images/img/apps/airdrop.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2078,
+      "hash": "c64f2d90"
     },
     {
       "name": "airdrop",
@@ -134,6 +254,16 @@
     },
     {
       "name": "airdrop-logo",
+      "path": "assets/images/img/definicoes/airdrop-logo.jpg",
+      "sourcePath": "images/img/definicoes/airdrop-logo.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 52323,
+      "hash": "ccff76c5"
+    },
+    {
+      "name": "airdrop-logo",
       "path": "assets/images/img/definicoes/airdrop-logo.webp",
       "sourcePath": "images/img/definicoes/airdrop-logo.webp",
       "category": "images",
@@ -141,6 +271,16 @@
       "kind": "image",
       "size": 23636,
       "hash": "b21b2ba5"
+    },
+    {
+      "name": "airdrop-png",
+      "path": "assets/images/img/apps/airdrop-png.png",
+      "sourcePath": "images/img/apps/airdrop-png.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2129,
+      "hash": "de1b5aa0"
     },
     {
       "name": "airdrop-png",
@@ -194,6 +334,16 @@
     },
     {
       "name": "anon",
+      "path": "assets/images/img/definicoes/anon.png",
+      "sourcePath": "images/img/definicoes/anon.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1699,
+      "hash": "0662dfbe"
+    },
+    {
+      "name": "anon",
       "path": "assets/images/img/definicoes/anon.webp",
       "sourcePath": "images/img/definicoes/anon.webp",
       "category": "images",
@@ -224,6 +374,16 @@
     },
     {
       "name": "appstore",
+      "path": "assets/images/icons/appstore.png",
+      "sourcePath": "images/icons/appstore.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 12946,
+      "hash": "c3d45765"
+    },
+    {
+      "name": "appstore",
       "path": "assets/images/icons/appstore.webp",
       "sourcePath": "images/icons/appstore.webp",
       "category": "icons",
@@ -231,6 +391,16 @@
       "kind": "image",
       "size": 1814,
       "hash": "33bfdf79"
+    },
+    {
+      "name": "appstore",
+      "path": "assets/images/img/apps/appstore.png",
+      "sourcePath": "images/img/apps/appstore.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2176,
+      "hash": "a4f65617"
     },
     {
       "name": "appstore",
@@ -244,6 +414,16 @@
     },
     {
       "name": "atm",
+      "path": "assets/images/icons/atm.png",
+      "sourcePath": "images/icons/atm.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 817,
+      "hash": "34f492b2"
+    },
+    {
+      "name": "atm",
       "path": "assets/images/icons/atm.webp",
       "sourcePath": "images/icons/atm.webp",
       "category": "icons",
@@ -251,6 +431,16 @@
       "kind": "image",
       "size": 412,
       "hash": "5f455863"
+    },
+    {
+      "name": "aviao",
+      "path": "assets/images/img/definicoes/aviao.png",
+      "sourcePath": "images/img/definicoes/aviao.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7321,
+      "hash": "cb2ecce0"
     },
     {
       "name": "aviao",
@@ -264,6 +454,16 @@
     },
     {
       "name": "b1",
+      "path": "assets/images/backgrounds/b1.png",
+      "sourcePath": "images/backgrounds/b1.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1076069,
+      "hash": "bab84de4"
+    },
+    {
+      "name": "b1",
       "path": "assets/images/backgrounds/b1.webp",
       "sourcePath": "images/backgrounds/b1.webp",
       "category": "backgrounds",
@@ -271,6 +471,16 @@
       "kind": "image",
       "size": 15298,
       "hash": "1c1cd2ac"
+    },
+    {
+      "name": "b10",
+      "path": "assets/images/backgrounds/b10.png",
+      "sourcePath": "images/backgrounds/b10.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 578824,
+      "hash": "6bd81d5d"
     },
     {
       "name": "b10",
@@ -284,6 +494,16 @@
     },
     {
       "name": "b11",
+      "path": "assets/images/backgrounds/b11.png",
+      "sourcePath": "images/backgrounds/b11.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 942997,
+      "hash": "6060cf3d"
+    },
+    {
+      "name": "b11",
       "path": "assets/images/backgrounds/b11.webp",
       "sourcePath": "images/backgrounds/b11.webp",
       "category": "backgrounds",
@@ -291,6 +511,16 @@
       "kind": "image",
       "size": 19562,
       "hash": "a7d857dd"
+    },
+    {
+      "name": "b12",
+      "path": "assets/images/backgrounds/b12.png",
+      "sourcePath": "images/backgrounds/b12.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 551094,
+      "hash": "6a025646"
     },
     {
       "name": "b12",
@@ -304,6 +534,16 @@
     },
     {
       "name": "b13",
+      "path": "assets/images/backgrounds/b13.png",
+      "sourcePath": "images/backgrounds/b13.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 373034,
+      "hash": "3094ff80"
+    },
+    {
+      "name": "b13",
       "path": "assets/images/backgrounds/b13.webp",
       "sourcePath": "images/backgrounds/b13.webp",
       "category": "backgrounds",
@@ -311,6 +551,16 @@
       "kind": "image",
       "size": 12336,
       "hash": "763f8972"
+    },
+    {
+      "name": "b14",
+      "path": "assets/images/backgrounds/b14.png",
+      "sourcePath": "images/backgrounds/b14.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 364157,
+      "hash": "dae5e098"
     },
     {
       "name": "b14",
@@ -324,6 +574,16 @@
     },
     {
       "name": "b15",
+      "path": "assets/images/backgrounds/b15.png",
+      "sourcePath": "images/backgrounds/b15.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 942592,
+      "hash": "9649f2f7"
+    },
+    {
+      "name": "b15",
       "path": "assets/images/backgrounds/b15.webp",
       "sourcePath": "images/backgrounds/b15.webp",
       "category": "backgrounds",
@@ -331,6 +591,16 @@
       "kind": "image",
       "size": 12968,
       "hash": "bfc79047"
+    },
+    {
+      "name": "b16",
+      "path": "assets/images/backgrounds/b16.png",
+      "sourcePath": "images/backgrounds/b16.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 705733,
+      "hash": "fb66af7f"
     },
     {
       "name": "b16",
@@ -344,6 +614,16 @@
     },
     {
       "name": "b17",
+      "path": "assets/images/backgrounds/b17.png",
+      "sourcePath": "images/backgrounds/b17.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 14028,
+      "hash": "e8b547b7"
+    },
+    {
+      "name": "b17",
       "path": "assets/images/backgrounds/b17.webp",
       "sourcePath": "images/backgrounds/b17.webp",
       "category": "backgrounds",
@@ -351,6 +631,16 @@
       "kind": "image",
       "size": 9116,
       "hash": "943d8f5c"
+    },
+    {
+      "name": "b18",
+      "path": "assets/images/backgrounds/b18.png",
+      "sourcePath": "images/backgrounds/b18.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 506303,
+      "hash": "df792ceb"
     },
     {
       "name": "b18",
@@ -364,6 +654,16 @@
     },
     {
       "name": "b19",
+      "path": "assets/images/backgrounds/b19.png",
+      "sourcePath": "images/backgrounds/b19.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 269173,
+      "hash": "d2f9b3a4"
+    },
+    {
+      "name": "b19",
       "path": "assets/images/backgrounds/b19.webp",
       "sourcePath": "images/backgrounds/b19.webp",
       "category": "backgrounds",
@@ -371,6 +671,16 @@
       "kind": "image",
       "size": 11250,
       "hash": "74abbfe9"
+    },
+    {
+      "name": "b2",
+      "path": "assets/images/backgrounds/b2.png",
+      "sourcePath": "images/backgrounds/b2.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 860602,
+      "hash": "b68a2fce"
     },
     {
       "name": "b2",
@@ -384,6 +694,16 @@
     },
     {
       "name": "b20",
+      "path": "assets/images/backgrounds/b20.png",
+      "sourcePath": "images/backgrounds/b20.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 242289,
+      "hash": "36ffeb1c"
+    },
+    {
+      "name": "b20",
       "path": "assets/images/backgrounds/b20.webp",
       "sourcePath": "images/backgrounds/b20.webp",
       "category": "backgrounds",
@@ -391,6 +711,16 @@
       "kind": "image",
       "size": 11174,
       "hash": "8a1eb94f"
+    },
+    {
+      "name": "b21",
+      "path": "assets/images/backgrounds/b21.png",
+      "sourcePath": "images/backgrounds/b21.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 38666,
+      "hash": "3a29c415"
     },
     {
       "name": "b21",
@@ -404,6 +734,16 @@
     },
     {
       "name": "b22",
+      "path": "assets/images/backgrounds/b22.png",
+      "sourcePath": "images/backgrounds/b22.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 314746,
+      "hash": "40e14a30"
+    },
+    {
+      "name": "b22",
       "path": "assets/images/backgrounds/b22.webp",
       "sourcePath": "images/backgrounds/b22.webp",
       "category": "backgrounds",
@@ -411,6 +751,16 @@
       "kind": "image",
       "size": 15490,
       "hash": "e77b1d16"
+    },
+    {
+      "name": "b23",
+      "path": "assets/images/backgrounds/b23.png",
+      "sourcePath": "images/backgrounds/b23.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 125918,
+      "hash": "1622ac4e"
     },
     {
       "name": "b23",
@@ -424,6 +774,16 @@
     },
     {
       "name": "b24",
+      "path": "assets/images/backgrounds/b24.png",
+      "sourcePath": "images/backgrounds/b24.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1928981,
+      "hash": "91e86d99"
+    },
+    {
+      "name": "b24",
       "path": "assets/images/backgrounds/b24.webp",
       "sourcePath": "images/backgrounds/b24.webp",
       "category": "backgrounds",
@@ -431,6 +791,16 @@
       "kind": "image",
       "size": 130662,
       "hash": "87856ca5"
+    },
+    {
+      "name": "b25",
+      "path": "assets/images/backgrounds/b25.png",
+      "sourcePath": "images/backgrounds/b25.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 64510,
+      "hash": "f502dee4"
     },
     {
       "name": "b25",
@@ -444,6 +814,16 @@
     },
     {
       "name": "b26",
+      "path": "assets/images/backgrounds/b26.png",
+      "sourcePath": "images/backgrounds/b26.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 79739,
+      "hash": "03d54b51"
+    },
+    {
+      "name": "b26",
       "path": "assets/images/backgrounds/b26.webp",
       "sourcePath": "images/backgrounds/b26.webp",
       "category": "backgrounds",
@@ -451,6 +831,16 @@
       "kind": "image",
       "size": 36696,
       "hash": "2507c23d"
+    },
+    {
+      "name": "b27",
+      "path": "assets/images/backgrounds/b27.png",
+      "sourcePath": "images/backgrounds/b27.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1937875,
+      "hash": "6006fd36"
     },
     {
       "name": "b27",
@@ -464,6 +854,16 @@
     },
     {
       "name": "b28",
+      "path": "assets/images/backgrounds/b28.png",
+      "sourcePath": "images/backgrounds/b28.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1345039,
+      "hash": "c8b05756"
+    },
+    {
+      "name": "b28",
       "path": "assets/images/backgrounds/b28.webp",
       "sourcePath": "images/backgrounds/b28.webp",
       "category": "backgrounds",
@@ -471,6 +871,16 @@
       "kind": "image",
       "size": 47806,
       "hash": "ff30128b"
+    },
+    {
+      "name": "b29",
+      "path": "assets/images/backgrounds/b29.png",
+      "sourcePath": "images/backgrounds/b29.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 778414,
+      "hash": "80cb236f"
     },
     {
       "name": "b29",
@@ -484,6 +894,16 @@
     },
     {
       "name": "b3",
+      "path": "assets/images/backgrounds/b3.png",
+      "sourcePath": "images/backgrounds/b3.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1224734,
+      "hash": "b40ce07c"
+    },
+    {
+      "name": "b3",
       "path": "assets/images/backgrounds/b3.webp",
       "sourcePath": "images/backgrounds/b3.webp",
       "category": "backgrounds",
@@ -491,6 +911,16 @@
       "kind": "image",
       "size": 12684,
       "hash": "72b0bb64"
+    },
+    {
+      "name": "b30",
+      "path": "assets/images/backgrounds/b30.png",
+      "sourcePath": "images/backgrounds/b30.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1036590,
+      "hash": "77f54b7f"
     },
     {
       "name": "b30",
@@ -504,6 +934,16 @@
     },
     {
       "name": "b31",
+      "path": "assets/images/backgrounds/b31.png",
+      "sourcePath": "images/backgrounds/b31.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 882456,
+      "hash": "09b20045"
+    },
+    {
+      "name": "b31",
       "path": "assets/images/backgrounds/b31.webp",
       "sourcePath": "images/backgrounds/b31.webp",
       "category": "backgrounds",
@@ -511,6 +951,16 @@
       "kind": "image",
       "size": 28768,
       "hash": "fd0af4b9"
+    },
+    {
+      "name": "b4",
+      "path": "assets/images/backgrounds/b4.png",
+      "sourcePath": "images/backgrounds/b4.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 724238,
+      "hash": "32ff50c3"
     },
     {
       "name": "b4",
@@ -524,6 +974,16 @@
     },
     {
       "name": "b5",
+      "path": "assets/images/backgrounds/b5.png",
+      "sourcePath": "images/backgrounds/b5.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 487080,
+      "hash": "0d75294d"
+    },
+    {
+      "name": "b5",
       "path": "assets/images/backgrounds/b5.webp",
       "sourcePath": "images/backgrounds/b5.webp",
       "category": "backgrounds",
@@ -531,6 +991,16 @@
       "kind": "image",
       "size": 12828,
       "hash": "81f980dc"
+    },
+    {
+      "name": "b6",
+      "path": "assets/images/backgrounds/b6.png",
+      "sourcePath": "images/backgrounds/b6.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 104604,
+      "hash": "d9fc5fdf"
     },
     {
       "name": "b6",
@@ -544,6 +1014,16 @@
     },
     {
       "name": "b7",
+      "path": "assets/images/backgrounds/b7.png",
+      "sourcePath": "images/backgrounds/b7.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 619177,
+      "hash": "11acb20d"
+    },
+    {
+      "name": "b7",
       "path": "assets/images/backgrounds/b7.webp",
       "sourcePath": "images/backgrounds/b7.webp",
       "category": "backgrounds",
@@ -554,6 +1034,16 @@
     },
     {
       "name": "b8",
+      "path": "assets/images/backgrounds/b8.png",
+      "sourcePath": "images/backgrounds/b8.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 485065,
+      "hash": "b8cc6891"
+    },
+    {
+      "name": "b8",
       "path": "assets/images/backgrounds/b8.webp",
       "sourcePath": "images/backgrounds/b8.webp",
       "category": "backgrounds",
@@ -561,6 +1051,16 @@
       "kind": "image",
       "size": 24532,
       "hash": "19fecef7"
+    },
+    {
+      "name": "b9",
+      "path": "assets/images/backgrounds/b9.png",
+      "sourcePath": "images/backgrounds/b9.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1136628,
+      "hash": "f57cc502"
     },
     {
       "name": "b9",
@@ -594,6 +1094,16 @@
     },
     {
       "name": "background",
+      "path": "assets/images/img/ubereats/background.jpg",
+      "sourcePath": "images/img/ubereats/background.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 77398,
+      "hash": "39073c9b"
+    },
+    {
+      "name": "background",
       "path": "assets/images/img/ubereats/background.webp",
       "sourcePath": "images/img/ubereats/background.webp",
       "category": "images",
@@ -601,6 +1111,16 @@
       "kind": "image",
       "size": 37818,
       "hash": "a99cbcc6"
+    },
+    {
+      "name": "background-1",
+      "path": "assets/images/backgrounds/background-1.png",
+      "sourcePath": "images/backgrounds/background-1.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 353646,
+      "hash": "720e986c"
     },
     {
       "name": "background-1",
@@ -614,6 +1134,16 @@
     },
     {
       "name": "background-bebidas",
+      "path": "assets/images/img/ubereats/background-bebidas.jpg",
+      "sourcePath": "images/img/ubereats/background-bebidas.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37398,
+      "hash": "b883ada6"
+    },
+    {
+      "name": "background-bebidas",
       "path": "assets/images/img/ubereats/background-bebidas.webp",
       "sourcePath": "images/img/ubereats/background-bebidas.webp",
       "category": "images",
@@ -621,6 +1151,16 @@
       "kind": "image",
       "size": 12442,
       "hash": "8f65b838"
+    },
+    {
+      "name": "background-comidas",
+      "path": "assets/images/img/ubereats/background-comidas.jpg",
+      "sourcePath": "images/img/ubereats/background-comidas.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 49701,
+      "hash": "945562aa"
     },
     {
       "name": "background-comidas",
@@ -634,6 +1174,16 @@
     },
     {
       "name": "backgroundjpBlack",
+      "path": "assets/images/backgrounds/backgroundjpBlack.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpBlack.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 949121,
+      "hash": "b80a0d2a"
+    },
+    {
+      "name": "backgroundjpBlack",
       "path": "assets/images/backgrounds/backgroundjpBlack.webp",
       "sourcePath": "images/backgrounds/backgroundjpBlack.webp",
       "category": "backgrounds",
@@ -641,6 +1191,16 @@
       "kind": "image",
       "size": 427266,
       "hash": "8a170fc8"
+    },
+    {
+      "name": "backgroundjpBlack",
+      "path": "assets/images/img/backgrounds/backgroundjpBlack.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpBlack.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 949121,
+      "hash": "b80a0d2a"
     },
     {
       "name": "backgroundjpBlack",
@@ -654,6 +1214,16 @@
     },
     {
       "name": "backgroundjpBlue",
+      "path": "assets/images/backgrounds/backgroundjpBlue.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpBlue.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 363175,
+      "hash": "0b1f18c6"
+    },
+    {
+      "name": "backgroundjpBlue",
       "path": "assets/images/backgrounds/backgroundjpBlue.webp",
       "sourcePath": "images/backgrounds/backgroundjpBlue.webp",
       "category": "backgrounds",
@@ -661,6 +1231,16 @@
       "kind": "image",
       "size": 149252,
       "hash": "4a5972c7"
+    },
+    {
+      "name": "backgroundjpBlue",
+      "path": "assets/images/img/backgrounds/backgroundjpBlue.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpBlue.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 363175,
+      "hash": "0b1f18c6"
     },
     {
       "name": "backgroundjpBlue",
@@ -674,6 +1254,16 @@
     },
     {
       "name": "backgroundjpCat",
+      "path": "assets/images/backgrounds/backgroundjpCat.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpCat.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 29744,
+      "hash": "4166a5c5"
+    },
+    {
+      "name": "backgroundjpCat",
       "path": "assets/images/backgrounds/backgroundjpCat.webp",
       "sourcePath": "images/backgrounds/backgroundjpCat.webp",
       "category": "backgrounds",
@@ -681,6 +1271,16 @@
       "kind": "image",
       "size": 10334,
       "hash": "babad7c4"
+    },
+    {
+      "name": "backgroundjpCat",
+      "path": "assets/images/img/backgrounds/backgroundjpCat.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpCat.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 29744,
+      "hash": "4166a5c5"
     },
     {
       "name": "backgroundjpCat",
@@ -694,6 +1294,16 @@
     },
     {
       "name": "backgroundjpCat2",
+      "path": "assets/images/backgrounds/backgroundjpCat2.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpCat2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 54275,
+      "hash": "429743de"
+    },
+    {
+      "name": "backgroundjpCat2",
       "path": "assets/images/backgrounds/backgroundjpCat2.webp",
       "sourcePath": "images/backgrounds/backgroundjpCat2.webp",
       "category": "backgrounds",
@@ -701,6 +1311,16 @@
       "kind": "image",
       "size": 25456,
       "hash": "a6e837a9"
+    },
+    {
+      "name": "backgroundjpCat2",
+      "path": "assets/images/img/backgrounds/backgroundjpCat2.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpCat2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 54275,
+      "hash": "429743de"
     },
     {
       "name": "backgroundjpCat2",
@@ -714,6 +1334,16 @@
     },
     {
       "name": "backgroundjpGreen",
+      "path": "assets/images/backgrounds/backgroundjpGreen.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpGreen.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 348531,
+      "hash": "0c78eb94"
+    },
+    {
+      "name": "backgroundjpGreen",
       "path": "assets/images/backgrounds/backgroundjpGreen.webp",
       "sourcePath": "images/backgrounds/backgroundjpGreen.webp",
       "category": "backgrounds",
@@ -721,6 +1351,16 @@
       "kind": "image",
       "size": 135026,
       "hash": "cf337e05"
+    },
+    {
+      "name": "backgroundjpGreen",
+      "path": "assets/images/img/backgrounds/backgroundjpGreen.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpGreen.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 348531,
+      "hash": "0c78eb94"
     },
     {
       "name": "backgroundjpGreen",
@@ -734,6 +1374,16 @@
     },
     {
       "name": "backgroundjpRed",
+      "path": "assets/images/backgrounds/backgroundjpRed.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpRed.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 357728,
+      "hash": "383561e3"
+    },
+    {
+      "name": "backgroundjpRed",
       "path": "assets/images/backgrounds/backgroundjpRed.webp",
       "sourcePath": "images/backgrounds/backgroundjpRed.webp",
       "category": "backgrounds",
@@ -741,6 +1391,16 @@
       "kind": "image",
       "size": 141414,
       "hash": "cb3a7dd4"
+    },
+    {
+      "name": "backgroundjpRed",
+      "path": "assets/images/img/backgrounds/backgroundjpRed.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpRed.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 357728,
+      "hash": "383561e3"
     },
     {
       "name": "backgroundjpRed",
@@ -754,6 +1414,16 @@
     },
     {
       "name": "backgroundjpWhite",
+      "path": "assets/images/backgrounds/backgroundjpWhite.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpWhite.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1048509,
+      "hash": "60a15033"
+    },
+    {
+      "name": "backgroundjpWhite",
       "path": "assets/images/backgrounds/backgroundjpWhite.webp",
       "sourcePath": "images/backgrounds/backgroundjpWhite.webp",
       "category": "backgrounds",
@@ -761,6 +1431,16 @@
       "kind": "image",
       "size": 502062,
       "hash": "c5f2058b"
+    },
+    {
+      "name": "backgroundjpWhite",
+      "path": "assets/images/img/backgrounds/backgroundjpWhite.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpWhite.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 1048509,
+      "hash": "60a15033"
     },
     {
       "name": "backgroundjpWhite",
@@ -774,6 +1454,16 @@
     },
     {
       "name": "backgroundjpWhite2",
+      "path": "assets/images/backgrounds/backgroundjpWhite2.jpg",
+      "sourcePath": "images/backgrounds/backgroundjpWhite2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 358134,
+      "hash": "7340bb68"
+    },
+    {
+      "name": "backgroundjpWhite2",
       "path": "assets/images/backgrounds/backgroundjpWhite2.webp",
       "sourcePath": "images/backgrounds/backgroundjpWhite2.webp",
       "category": "backgrounds",
@@ -781,6 +1471,16 @@
       "kind": "image",
       "size": 150702,
       "hash": "cdb18d01"
+    },
+    {
+      "name": "backgroundjpWhite2",
+      "path": "assets/images/img/backgrounds/backgroundjpWhite2.jpg",
+      "sourcePath": "images/img/backgrounds/backgroundjpWhite2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 358134,
+      "hash": "7340bb68"
     },
     {
       "name": "backgroundjpWhite2",
@@ -794,6 +1494,16 @@
     },
     {
       "name": "bannerdicas",
+      "path": "assets/images/img/sistema/bannerdicas.jpg",
+      "sourcePath": "images/img/sistema/bannerdicas.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1342362,
+      "hash": "1a441f81"
+    },
+    {
+      "name": "bannerdicas",
       "path": "assets/images/img/sistema/bannerdicas.webp",
       "sourcePath": "images/img/sistema/bannerdicas.webp",
       "category": "images",
@@ -801,6 +1511,16 @@
       "kind": "image",
       "size": 77106,
       "hash": "a36b6f99"
+    },
+    {
+      "name": "bateria",
+      "path": "assets/images/img/definicoes/bateria.png",
+      "sourcePath": "images/img/definicoes/bateria.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4512,
+      "hash": "570623f5"
     },
     {
       "name": "bateria",
@@ -834,6 +1554,16 @@
     },
     {
       "name": "bg-dark",
+      "path": "assets/images/whatsapp/bg-dark.jpg",
+      "sourcePath": "images/whatsapp/bg-dark.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 45924,
+      "hash": "2057e98d"
+    },
+    {
+      "name": "bg-dark",
       "path": "assets/images/whatsapp/bg-dark.webp",
       "sourcePath": "images/whatsapp/bg-dark.webp",
       "category": "images",
@@ -841,6 +1571,16 @@
       "kind": "image",
       "size": 6700,
       "hash": "99f6ba05"
+    },
+    {
+      "name": "bg-light",
+      "path": "assets/images/whatsapp/bg-light.jpg",
+      "sourcePath": "images/whatsapp/bg-light.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 45321,
+      "hash": "e47a22dd"
     },
     {
       "name": "bg-light",
@@ -854,6 +1594,16 @@
     },
     {
       "name": "bgdefault",
+      "path": "assets/images/backgrounds/newbg/bgdefault.jpg",
+      "sourcePath": "images/backgrounds/newbg/bgdefault.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 50650,
+      "hash": "fcb04cd8"
+    },
+    {
+      "name": "bgdefault",
       "path": "assets/images/backgrounds/newbg/bgdefault.webp",
       "sourcePath": "images/backgrounds/newbg/bgdefault.webp",
       "category": "backgrounds",
@@ -861,6 +1611,16 @@
       "kind": "image",
       "size": 12574,
       "hash": "9a4a0292"
+    },
+    {
+      "name": "binglogo",
+      "path": "assets/images/img/safari/binglogo.png",
+      "sourcePath": "images/img/safari/binglogo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 40856,
+      "hash": "27575e25"
     },
     {
       "name": "binglogo",
@@ -874,6 +1634,16 @@
     },
     {
       "name": "black_frame",
+      "path": "assets/images/cases/black_frame.png",
+      "sourcePath": "images/cases/black_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 189253,
+      "hash": "c27453b4"
+    },
+    {
+      "name": "black_frame",
       "path": "assets/images/cases/black_frame.webp",
       "sourcePath": "images/cases/black_frame.webp",
       "category": "images",
@@ -881,6 +1651,16 @@
       "kind": "image",
       "size": 36704,
       "hash": "02fef134"
+    },
+    {
+      "name": "blue",
+      "path": "assets/images/img/definicoes/blue.png",
+      "sourcePath": "images/img/definicoes/blue.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8560,
+      "hash": "72b1bf24"
     },
     {
       "name": "blue",
@@ -894,6 +1674,16 @@
     },
     {
       "name": "blue_frame",
+      "path": "assets/images/cases/blue_frame.png",
+      "sourcePath": "images/cases/blue_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 231956,
+      "hash": "02dcd898"
+    },
+    {
+      "name": "blue_frame",
       "path": "assets/images/cases/blue_frame.webp",
       "sourcePath": "images/cases/blue_frame.webp",
       "category": "images",
@@ -901,6 +1691,16 @@
       "kind": "image",
       "size": 45552,
       "hash": "8d81c509"
+    },
+    {
+      "name": "Boat",
+      "path": "assets/images/backgrounds/newbg/Boat.jpg",
+      "sourcePath": "images/backgrounds/newbg/Boat.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 118146,
+      "hash": "109acc60"
     },
     {
       "name": "Boat",
@@ -914,6 +1714,16 @@
     },
     {
       "name": "bolsa",
+      "path": "assets/images/img/apps/bolsa.png",
+      "sourcePath": "images/img/apps/bolsa.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2219,
+      "hash": "e8c80283"
+    },
+    {
+      "name": "bolsa",
       "path": "assets/images/img/apps/bolsa.webp",
       "sourcePath": "images/img/apps/bolsa.webp",
       "category": "images",
@@ -921,6 +1731,16 @@
       "kind": "image",
       "size": 1592,
       "hash": "fc7b56c5"
+    },
+    {
+      "name": "bolsa",
+      "path": "assets/images/img/appstore/bolsa.jpg",
+      "sourcePath": "images/img/appstore/bolsa.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 46484,
+      "hash": "0b694344"
     },
     {
       "name": "bolsa",
@@ -934,6 +1754,16 @@
     },
     {
       "name": "bread",
+      "path": "assets/images/img/ubereats/bread.png",
+      "sourcePath": "images/img/ubereats/bread.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24787,
+      "hash": "93842285"
+    },
+    {
+      "name": "bread",
       "path": "assets/images/img/ubereats/bread.webp",
       "sourcePath": "images/img/ubereats/bread.webp",
       "category": "images",
@@ -941,6 +1771,16 @@
       "kind": "image",
       "size": 4736,
       "hash": "6b1974b0"
+    },
+    {
+      "name": "cactus",
+      "path": "assets/images/backgrounds/newbg/cactus.jpg",
+      "sourcePath": "images/backgrounds/newbg/cactus.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 140310,
+      "hash": "958adae5"
     },
     {
       "name": "cactus",
@@ -954,6 +1794,16 @@
     },
     {
       "name": "calculadora",
+      "path": "assets/images/img/apps/calculadora.png",
+      "sourcePath": "images/img/apps/calculadora.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4648,
+      "hash": "c10dc504"
+    },
+    {
+      "name": "calculadora",
       "path": "assets/images/img/apps/calculadora.webp",
       "sourcePath": "images/img/apps/calculadora.webp",
       "category": "images",
@@ -961,6 +1811,16 @@
       "kind": "image",
       "size": 5414,
       "hash": "926f9d04"
+    },
+    {
+      "name": "calculadora",
+      "path": "assets/images/img/appstore/calculadora.jpg",
+      "sourcePath": "images/img/appstore/calculadora.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37151,
+      "hash": "dfb56fe8"
     },
     {
       "name": "calculadora",
@@ -974,6 +1834,16 @@
     },
     {
       "name": "calculator",
+      "path": "assets/images/icons/calculator.png",
+      "sourcePath": "images/icons/calculator.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 17653,
+      "hash": "b2c1bad1"
+    },
+    {
+      "name": "calculator",
       "path": "assets/images/icons/calculator.webp",
       "sourcePath": "images/icons/calculator.webp",
       "category": "icons",
@@ -981,6 +1851,16 @@
       "kind": "image",
       "size": 634,
       "hash": "5cb6433f"
+    },
+    {
+      "name": "call",
+      "path": "assets/images/icons/call.png",
+      "sourcePath": "images/icons/call.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 17240,
+      "hash": "628126a7"
     },
     {
       "name": "call",
@@ -1014,6 +1894,16 @@
     },
     {
       "name": "camara",
+      "path": "assets/images/img/apps/camara.png",
+      "sourcePath": "images/img/apps/camara.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1717,
+      "hash": "57b9632c"
+    },
+    {
+      "name": "camara",
       "path": "assets/images/img/apps/camara.webp",
       "sourcePath": "images/img/apps/camara.webp",
       "category": "images",
@@ -1034,6 +1924,16 @@
     },
     {
       "name": "camaranotch",
+      "path": "assets/images/img/camaranotch.png",
+      "sourcePath": "images/img/camaranotch.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2025,
+      "hash": "85df196a"
+    },
+    {
+      "name": "camaranotch",
       "path": "assets/images/img/camaranotch.webp",
       "sourcePath": "images/img/camaranotch.webp",
       "category": "images",
@@ -1041,6 +1941,16 @@
       "kind": "image",
       "size": 360,
       "hash": "01984b6b"
+    },
+    {
+      "name": "camera",
+      "path": "assets/images/icons/camera.png",
+      "sourcePath": "images/icons/camera.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 15091,
+      "hash": "ba594b2e"
     },
     {
       "name": "camera",
@@ -1064,6 +1974,16 @@
     },
     {
       "name": "camera",
+      "path": "assets/images/img/appsimessage/camera.png",
+      "sourcePath": "images/img/appsimessage/camera.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4483,
+      "hash": "1207f3ce"
+    },
+    {
+      "name": "camera",
       "path": "assets/images/img/appsimessage/camera.webp",
       "sourcePath": "images/img/appsimessage/camera.webp",
       "category": "images",
@@ -1074,6 +1994,16 @@
     },
     {
       "name": "camera_roll",
+      "path": "assets/images/icons/camera_roll.png",
+      "sourcePath": "images/icons/camera_roll.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 15389,
+      "hash": "ff2cdff1"
+    },
+    {
+      "name": "camera_roll",
       "path": "assets/images/icons/camera_roll.webp",
       "sourcePath": "images/icons/camera_roll.webp",
       "category": "icons",
@@ -1081,6 +2011,16 @@
       "kind": "image",
       "size": 1112,
       "hash": "798de860"
+    },
+    {
+      "name": "camera_roll",
+      "path": "assets/images/img/camera/camera_roll.png",
+      "sourcePath": "images/img/camera/camera_roll.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 15389,
+      "hash": "ff2cdff1"
     },
     {
       "name": "camera_roll",
@@ -1104,6 +2044,16 @@
     },
     {
       "name": "card",
+      "path": "assets/images/icons/card.png",
+      "sourcePath": "images/icons/card.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 621,
+      "hash": "4c556534"
+    },
+    {
+      "name": "card",
       "path": "assets/images/icons/card.webp",
       "sourcePath": "images/icons/card.webp",
       "category": "icons",
@@ -1111,6 +2061,16 @@
       "kind": "image",
       "size": 534,
       "hash": "d8c8313a"
+    },
+    {
+      "name": "carteira",
+      "path": "assets/images/img/apps/carteira.png",
+      "sourcePath": "images/img/apps/carteira.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 952,
+      "hash": "fb7746b6"
     },
     {
       "name": "carteira",
@@ -1124,6 +2084,16 @@
     },
     {
       "name": "carteira",
+      "path": "assets/images/img/appstore/carteira.jpg",
+      "sourcePath": "images/img/appstore/carteira.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 88164,
+      "hash": "985ed654"
+    },
+    {
+      "name": "carteira",
       "path": "assets/images/img/appstore/carteira.webp",
       "sourcePath": "images/img/appstore/carteira.webp",
       "category": "images",
@@ -1131,6 +2101,16 @@
       "kind": "image",
       "size": 37196,
       "hash": "ca5b8af3"
+    },
+    {
+      "name": "casa",
+      "path": "assets/images/img/appstore/casa.jpg",
+      "sourcePath": "images/img/appstore/casa.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 94735,
+      "hash": "7f769e8b"
     },
     {
       "name": "casa",
@@ -1164,6 +2144,16 @@
     },
     {
       "name": "chat",
+      "path": "assets/images/tinder/chat.png",
+      "sourcePath": "images/tinder/chat.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 42065,
+      "hash": "218dfcf5"
+    },
+    {
+      "name": "chat",
       "path": "assets/images/tinder/chat.webp",
       "sourcePath": "images/tinder/chat.webp",
       "category": "images",
@@ -1174,6 +2164,16 @@
     },
     {
       "name": "cinema",
+      "path": "assets/images/img/apps/cinema.png",
+      "sourcePath": "images/img/apps/cinema.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 21681,
+      "hash": "e2f712e6"
+    },
+    {
+      "name": "cinema",
       "path": "assets/images/img/apps/cinema.webp",
       "sourcePath": "images/img/apps/cinema.webp",
       "category": "images",
@@ -1181,6 +2181,16 @@
       "kind": "image",
       "size": 6838,
       "hash": "48ca2a0a"
+    },
+    {
+      "name": "cinema",
+      "path": "assets/images/img/appstore/cinema.jpg",
+      "sourcePath": "images/img/appstore/cinema.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23828,
+      "hash": "74bd4c85"
     },
     {
       "name": "cinema",
@@ -1224,6 +2234,16 @@
     },
     {
       "name": "CircularStd-Bold",
+      "path": "assets/fonts/CircularStd-Bold.otf",
+      "sourcePath": "fonts/CircularStd-Bold.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 74368,
+      "hash": "abdc0c9c"
+    },
+    {
+      "name": "CircularStd-Bold",
       "path": "assets/images/fonts/CircularStd-Bold.otf",
       "sourcePath": "images/fonts/CircularStd-Bold.otf",
       "category": "fonts",
@@ -1231,6 +2251,16 @@
       "kind": "font",
       "size": 74368,
       "hash": "abdc0c9c"
+    },
+    {
+      "name": "CircularStd-Medium",
+      "path": "assets/fonts/CircularStd-Medium.otf",
+      "sourcePath": "fonts/CircularStd-Medium.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 74116,
+      "hash": "1159174e"
     },
     {
       "name": "CircularStd-Medium",
@@ -1244,6 +2274,16 @@
     },
     {
       "name": "classic_frame",
+      "path": "assets/images/cases/classic_frame.png",
+      "sourcePath": "images/cases/classic_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 214498,
+      "hash": "d7894095"
+    },
+    {
+      "name": "classic_frame",
       "path": "assets/images/cases/classic_frame.webp",
       "sourcePath": "images/cases/classic_frame.webp",
       "category": "images",
@@ -1254,6 +2294,16 @@
     },
     {
       "name": "clock",
+      "path": "assets/images/icons/clock.png",
+      "sourcePath": "images/icons/clock.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 21832,
+      "hash": "5027d557"
+    },
+    {
+      "name": "clock",
       "path": "assets/images/icons/clock.webp",
       "sourcePath": "images/icons/clock.webp",
       "category": "icons",
@@ -1261,6 +2311,16 @@
       "kind": "image",
       "size": 1556,
       "hash": "9a018bc2"
+    },
+    {
+      "name": "clock",
+      "path": "assets/images/img/appstore/clock.jpg",
+      "sourcePath": "images/img/appstore/clock.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 236254,
+      "hash": "825732fe"
     },
     {
       "name": "clock",
@@ -1284,6 +2344,16 @@
     },
     {
       "name": "cloud",
+      "path": "assets/images/backgrounds/newbg/cloud.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 140874,
+      "hash": "c1a90bed"
+    },
+    {
+      "name": "cloud",
       "path": "assets/images/backgrounds/newbg/cloud.webp",
       "sourcePath": "images/backgrounds/newbg/cloud.webp",
       "category": "backgrounds",
@@ -1291,6 +2361,16 @@
       "kind": "image",
       "size": 62610,
       "hash": "363774ad"
+    },
+    {
+      "name": "cloud10",
+      "path": "assets/images/backgrounds/newbg/cloud10.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud10.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 47067,
+      "hash": "988f60ab"
     },
     {
       "name": "cloud10",
@@ -1304,6 +2384,16 @@
     },
     {
       "name": "cloud11",
+      "path": "assets/images/backgrounds/newbg/cloud11.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud11.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 68265,
+      "hash": "c4de8bcf"
+    },
+    {
+      "name": "cloud11",
       "path": "assets/images/backgrounds/newbg/cloud11.webp",
       "sourcePath": "images/backgrounds/newbg/cloud11.webp",
       "category": "backgrounds",
@@ -1311,6 +2401,16 @@
       "kind": "image",
       "size": 24800,
       "hash": "95d2aa87"
+    },
+    {
+      "name": "cloud12",
+      "path": "assets/images/backgrounds/newbg/cloud12.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud12.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 44895,
+      "hash": "a13b1505"
     },
     {
       "name": "cloud12",
@@ -1324,6 +2424,16 @@
     },
     {
       "name": "cloud2",
+      "path": "assets/images/backgrounds/newbg/cloud2.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 54927,
+      "hash": "4962db28"
+    },
+    {
+      "name": "cloud2",
       "path": "assets/images/backgrounds/newbg/cloud2.webp",
       "sourcePath": "images/backgrounds/newbg/cloud2.webp",
       "category": "backgrounds",
@@ -1331,6 +2441,16 @@
       "kind": "image",
       "size": 15876,
       "hash": "80665bda"
+    },
+    {
+      "name": "cloud3",
+      "path": "assets/images/backgrounds/newbg/cloud3.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud3.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 84779,
+      "hash": "8587f3de"
     },
     {
       "name": "cloud3",
@@ -1344,6 +2464,16 @@
     },
     {
       "name": "cloud4",
+      "path": "assets/images/backgrounds/newbg/cloud4.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud4.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 158207,
+      "hash": "9f3fb8db"
+    },
+    {
+      "name": "cloud4",
       "path": "assets/images/backgrounds/newbg/cloud4.webp",
       "sourcePath": "images/backgrounds/newbg/cloud4.webp",
       "category": "backgrounds",
@@ -1351,6 +2481,16 @@
       "kind": "image",
       "size": 41144,
       "hash": "0c93b2b2"
+    },
+    {
+      "name": "cloud5",
+      "path": "assets/images/backgrounds/newbg/cloud5.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud5.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 36308,
+      "hash": "f8b412bb"
     },
     {
       "name": "cloud5",
@@ -1364,6 +2504,16 @@
     },
     {
       "name": "cloud6",
+      "path": "assets/images/backgrounds/newbg/cloud6.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud6.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 71732,
+      "hash": "bb2abb44"
+    },
+    {
+      "name": "cloud6",
       "path": "assets/images/backgrounds/newbg/cloud6.webp",
       "sourcePath": "images/backgrounds/newbg/cloud6.webp",
       "category": "backgrounds",
@@ -1371,6 +2521,16 @@
       "kind": "image",
       "size": 21074,
       "hash": "a6aada61"
+    },
+    {
+      "name": "cloud7",
+      "path": "assets/images/backgrounds/newbg/cloud7.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud7.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 44289,
+      "hash": "43f21d82"
     },
     {
       "name": "cloud7",
@@ -1384,6 +2544,16 @@
     },
     {
       "name": "cloud8",
+      "path": "assets/images/backgrounds/newbg/cloud8.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud8.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 48514,
+      "hash": "f05faf68"
+    },
+    {
+      "name": "cloud8",
       "path": "assets/images/backgrounds/newbg/cloud8.webp",
       "sourcePath": "images/backgrounds/newbg/cloud8.webp",
       "category": "backgrounds",
@@ -1391,6 +2561,16 @@
       "kind": "image",
       "size": 11190,
       "hash": "33908f41"
+    },
+    {
+      "name": "cloud9",
+      "path": "assets/images/backgrounds/newbg/cloud9.jpg",
+      "sourcePath": "images/backgrounds/newbg/cloud9.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 97756,
+      "hash": "9f4a0581"
     },
     {
       "name": "cloud9",
@@ -1404,6 +2584,16 @@
     },
     {
       "name": "contactos",
+      "path": "assets/images/img/apps/contactos.png",
+      "sourcePath": "images/img/apps/contactos.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4942,
+      "hash": "c41b83ff"
+    },
+    {
+      "name": "contactos",
       "path": "assets/images/img/apps/contactos.webp",
       "sourcePath": "images/img/apps/contactos.webp",
       "category": "images",
@@ -1411,6 +2601,16 @@
       "kind": "image",
       "size": 2364,
       "hash": "7935c339"
+    },
+    {
+      "name": "contacts",
+      "path": "assets/images/icons/contacts.png",
+      "sourcePath": "images/icons/contacts.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 20125,
+      "hash": "070762d9"
     },
     {
       "name": "contacts",
@@ -1424,6 +2624,16 @@
     },
     {
       "name": "coque",
+      "path": "assets/images/cases/coque.png",
+      "sourcePath": "images/cases/coque.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 55667,
+      "hash": "fc742a67"
+    },
+    {
+      "name": "coque",
       "path": "assets/images/cases/coque.webp",
       "sourcePath": "images/cases/coque.webp",
       "category": "images",
@@ -1431,6 +2641,16 @@
       "kind": "image",
       "size": 12674,
       "hash": "0c87bc7f"
+    },
+    {
+      "name": "corrida",
+      "path": "assets/images/img/apps/corrida.png",
+      "sourcePath": "images/img/apps/corrida.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2148,
+      "hash": "28128fd2"
     },
     {
       "name": "corrida",
@@ -1444,6 +2664,16 @@
     },
     {
       "name": "cursor_icon",
+      "path": "assets/images/icons/cursor_icon.png",
+      "sourcePath": "images/icons/cursor_icon.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 8292,
+      "hash": "f724fef5"
+    },
+    {
+      "name": "cursor_icon",
       "path": "assets/images/icons/cursor_icon.webp",
       "sourcePath": "images/icons/cursor_icon.webp",
       "category": "icons",
@@ -1451,6 +2681,16 @@
       "kind": "image",
       "size": 4028,
       "hash": "f0d71a19"
+    },
+    {
+      "name": "dados",
+      "path": "assets/images/img/definicoes/dados.png",
+      "sourcePath": "images/img/definicoes/dados.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9670,
+      "hash": "813f31d1"
     },
     {
       "name": "dados",
@@ -1464,6 +2704,16 @@
     },
     {
       "name": "dark",
+      "path": "assets/images/dark.png",
+      "sourcePath": "images/dark.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 115829,
+      "hash": "b35aa907"
+    },
+    {
+      "name": "dark",
       "path": "assets/images/dark.webp",
       "sourcePath": "images/dark.webp",
       "category": "images",
@@ -1471,6 +2721,16 @@
       "kind": "image",
       "size": 7182,
       "hash": "b8098261"
+    },
+    {
+      "name": "darknet",
+      "path": "assets/images/img/apps/darknet.png",
+      "sourcePath": "images/img/apps/darknet.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6904,
+      "hash": "97c77bf4"
     },
     {
       "name": "darknet",
@@ -1484,6 +2744,16 @@
     },
     {
       "name": "darknet",
+      "path": "assets/images/img/appstore/darknet.jpg",
+      "sourcePath": "images/img/appstore/darknet.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 27529,
+      "hash": "c70ee001"
+    },
+    {
+      "name": "darknet",
       "path": "assets/images/img/appstore/darknet.webp",
       "sourcePath": "images/img/appstore/darknet.webp",
       "category": "images",
@@ -1494,6 +2764,16 @@
     },
     {
       "name": "darkweb",
+      "path": "assets/images/icons/darkweb.png",
+      "sourcePath": "images/icons/darkweb.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 17631,
+      "hash": "ba9fe73d"
+    },
+    {
+      "name": "darkweb",
       "path": "assets/images/icons/darkweb.webp",
       "sourcePath": "images/icons/darkweb.webp",
       "category": "icons",
@@ -1501,6 +2781,16 @@
       "kind": "image",
       "size": 1360,
       "hash": "26e20207"
+    },
+    {
+      "name": "dating",
+      "path": "assets/images/icons/dating.png",
+      "sourcePath": "images/icons/dating.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 627356,
+      "hash": "4779ac01"
     },
     {
       "name": "dating",
@@ -1524,6 +2814,16 @@
     },
     {
       "name": "default",
+      "path": "assets/images/img/definicoes/default.png",
+      "sourcePath": "images/img/definicoes/default.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4140,
+      "hash": "380504ef"
+    },
+    {
+      "name": "default",
       "path": "assets/images/img/definicoes/default.webp",
       "sourcePath": "images/img/definicoes/default.webp",
       "category": "images",
@@ -1531,6 +2831,16 @@
       "kind": "image",
       "size": 654,
       "hash": "ec4fffc7"
+    },
+    {
+      "name": "default",
+      "path": "assets/images/img/twitter/default.png",
+      "sourcePath": "images/img/twitter/default.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2889,
+      "hash": "acfe2f15"
     },
     {
       "name": "default",
@@ -1564,6 +2874,16 @@
     },
     {
       "name": "default_image",
+      "path": "assets/images/img/tinder/default_image.jpg",
+      "sourcePath": "images/img/tinder/default_image.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31918,
+      "hash": "825d1e85"
+    },
+    {
+      "name": "default_image",
       "path": "assets/images/img/tinder/default_image.webp",
       "sourcePath": "images/img/tinder/default_image.webp",
       "category": "images",
@@ -1571,6 +2891,16 @@
       "kind": "image",
       "size": 7050,
       "hash": "52f8d7f8"
+    },
+    {
+      "name": "definicoes",
+      "path": "assets/images/img/apps/definicoes.png",
+      "sourcePath": "images/img/apps/definicoes.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6999,
+      "hash": "84ce2b82"
     },
     {
       "name": "definicoes",
@@ -1594,6 +2924,16 @@
     },
     {
       "name": "desert_01",
+      "path": "assets/images/backgrounds/newbg/desert_01.jpg",
+      "sourcePath": "images/backgrounds/newbg/desert_01.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 66167,
+      "hash": "ebf38549"
+    },
+    {
+      "name": "desert_01",
       "path": "assets/images/backgrounds/newbg/desert_01.webp",
       "sourcePath": "images/backgrounds/newbg/desert_01.webp",
       "category": "backgrounds",
@@ -1601,6 +2941,16 @@
       "kind": "image",
       "size": 20108,
       "hash": "78b788be"
+    },
+    {
+      "name": "desert_02",
+      "path": "assets/images/backgrounds/newbg/desert_02.jpg",
+      "sourcePath": "images/backgrounds/newbg/desert_02.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 60397,
+      "hash": "9de4a9ab"
     },
     {
       "name": "desert_02",
@@ -1614,6 +2964,16 @@
     },
     {
       "name": "desert_03",
+      "path": "assets/images/backgrounds/newbg/desert_03.jpg",
+      "sourcePath": "images/backgrounds/newbg/desert_03.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 49181,
+      "hash": "ddb0c650"
+    },
+    {
+      "name": "desert_03",
       "path": "assets/images/backgrounds/newbg/desert_03.webp",
       "sourcePath": "images/backgrounds/newbg/desert_03.webp",
       "category": "backgrounds",
@@ -1624,6 +2984,16 @@
     },
     {
       "name": "desert_04",
+      "path": "assets/images/backgrounds/newbg/desert_04.jpg",
+      "sourcePath": "images/backgrounds/newbg/desert_04.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 44892,
+      "hash": "580527d6"
+    },
+    {
+      "name": "desert_04",
       "path": "assets/images/backgrounds/newbg/desert_04.webp",
       "sourcePath": "images/backgrounds/newbg/desert_04.webp",
       "category": "backgrounds",
@@ -1631,6 +3001,16 @@
       "kind": "image",
       "size": 15512,
       "hash": "04dba81c"
+    },
+    {
+      "name": "desert_05",
+      "path": "assets/images/backgrounds/newbg/desert_05.jpg",
+      "sourcePath": "images/backgrounds/newbg/desert_05.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 75576,
+      "hash": "24585161"
     },
     {
       "name": "desert_05",
@@ -1651,6 +3031,16 @@
       "kind": "audio",
       "size": 480753,
       "hash": "5d4ca92e"
+    },
+    {
+      "name": "dicas",
+      "path": "assets/images/img/apps/dicas.png",
+      "sourcePath": "images/img/apps/dicas.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31595,
+      "hash": "5c8e4959"
     },
     {
       "name": "dicas",
@@ -1694,6 +3084,16 @@
     },
     {
       "name": "duckshooter",
+      "path": "assets/images/img/apps/duckshooter.png",
+      "sourcePath": "images/img/apps/duckshooter.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 310440,
+      "hash": "9cb49326"
+    },
+    {
+      "name": "duckshooter",
       "path": "assets/images/img/apps/duckshooter.webp",
       "sourcePath": "images/img/apps/duckshooter.webp",
       "category": "images",
@@ -1701,6 +3101,16 @@
       "kind": "image",
       "size": 29094,
       "hash": "103355f9"
+    },
+    {
+      "name": "duckshooter",
+      "path": "assets/images/img/appstore/duckshooter.jpg",
+      "sourcePath": "images/img/appstore/duckshooter.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 91280,
+      "hash": "4de9e240"
     },
     {
       "name": "duckshooter",
@@ -1714,6 +3124,16 @@
     },
     {
       "name": "ecra",
+      "path": "assets/images/img/definicoes/ecra.png",
+      "sourcePath": "images/img/definicoes/ecra.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7514,
+      "hash": "959b53b8"
+    },
+    {
+      "name": "ecra",
       "path": "assets/images/img/definicoes/ecra.webp",
       "sourcePath": "images/img/definicoes/ecra.webp",
       "category": "images",
@@ -1721,6 +3141,16 @@
       "kind": "image",
       "size": 1438,
       "hash": "72ee5834"
+    },
+    {
+      "name": "emoji",
+      "path": "assets/images/img/apps/emoji.png",
+      "sourcePath": "images/img/apps/emoji.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 170590,
+      "hash": "8dab6cfc"
     },
     {
       "name": "emoji",
@@ -1734,6 +3164,16 @@
     },
     {
       "name": "emprego",
+      "path": "assets/images/img/apps/emprego.png",
+      "sourcePath": "images/img/apps/emprego.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1938,
+      "hash": "820f1d06"
+    },
+    {
+      "name": "emprego",
       "path": "assets/images/img/apps/emprego.webp",
       "sourcePath": "images/img/apps/emprego.webp",
       "category": "images",
@@ -1741,6 +3181,16 @@
       "kind": "image",
       "size": 1528,
       "hash": "5ffb7bfd"
+    },
+    {
+      "name": "emprego",
+      "path": "assets/images/img/appstore/emprego.jpg",
+      "sourcePath": "images/img/appstore/emprego.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 49410,
+      "hash": "f77d27f9"
     },
     {
       "name": "emprego",
@@ -1754,6 +3204,16 @@
     },
     {
       "name": "emprego",
+      "path": "assets/images/img/olx/emprego.png",
+      "sourcePath": "images/img/olx/emprego.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7812,
+      "hash": "34968516"
+    },
+    {
+      "name": "emprego",
       "path": "assets/images/img/olx/emprego.webp",
       "sourcePath": "images/img/olx/emprego.webp",
       "category": "images",
@@ -1761,6 +3221,16 @@
       "kind": "image",
       "size": 1116,
       "hash": "effbd597"
+    },
+    {
+      "name": "ems",
+      "path": "assets/images/contacts-photo/ems.png",
+      "sourcePath": "images/contacts-photo/ems.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 32147,
+      "hash": "dee8efaf"
     },
     {
       "name": "ems",
@@ -1794,6 +3264,16 @@
     },
     {
       "name": "facebook",
+      "path": "assets/images/icons/facebook.png",
+      "sourcePath": "images/icons/facebook.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2847,
+      "hash": "02201704"
+    },
+    {
+      "name": "facebook",
       "path": "assets/images/icons/facebook.webp",
       "sourcePath": "images/icons/facebook.webp",
       "category": "icons",
@@ -1804,6 +3284,16 @@
     },
     {
       "name": "faceid",
+      "path": "assets/images/img/definicoes/faceid.png",
+      "sourcePath": "images/img/definicoes/faceid.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 7326,
+      "hash": "0b2c43fd"
+    },
+    {
+      "name": "faceid",
       "path": "assets/images/img/definicoes/faceid.webp",
       "sourcePath": "images/img/definicoes/faceid.webp",
       "category": "images",
@@ -1811,6 +3301,16 @@
       "kind": "image",
       "size": 1508,
       "hash": "dd4ed6bc"
+    },
+    {
+      "name": "faceid-png",
+      "path": "assets/images/img/definicoes/faceid-png.png",
+      "sourcePath": "images/img/definicoes/faceid-png.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23759,
+      "hash": "a64339ea"
     },
     {
       "name": "faceid-png",
@@ -1854,6 +3354,16 @@
     },
     {
       "name": "female",
+      "path": "assets/images/img/mdt/female.png",
+      "sourcePath": "images/img/mdt/female.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 13180,
+      "hash": "debbd992"
+    },
+    {
+      "name": "female",
       "path": "assets/images/img/mdt/female.webp",
       "sourcePath": "images/img/mdt/female.webp",
       "category": "images",
@@ -1864,13 +3374,13 @@
     },
     {
       "name": "FenixDefaultBg",
-      "path": "assets/images/backgrounds/newbg/FenixDefaultBg.webp",
-      "sourcePath": "images/backgrounds/newbg/FenixDefaultBg.webp",
+      "path": "assets/images/backgrounds/newbg/FenixDefaultBg.gif",
+      "sourcePath": "images/backgrounds/newbg/FenixDefaultBg.gif",
       "category": "backgrounds",
       "group": "images",
       "kind": "image",
-      "size": 10263984,
-      "hash": "3f0498dd"
+      "size": 2620313,
+      "hash": "9ba9fbb9"
     },
     {
       "name": "firewatch",
@@ -1884,6 +3394,16 @@
     },
     {
       "name": "flame",
+      "path": "assets/images/tinder/flame.png",
+      "sourcePath": "images/tinder/flame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 77628,
+      "hash": "d3bd2b34"
+    },
+    {
+      "name": "flame",
       "path": "assets/images/tinder/flame.webp",
       "sourcePath": "images/tinder/flame.webp",
       "category": "images",
@@ -1894,6 +3414,16 @@
     },
     {
       "name": "flapybird",
+      "path": "assets/images/img/apps/flapybird.png",
+      "sourcePath": "images/img/apps/flapybird.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2779888,
+      "hash": "d7e66fdb"
+    },
+    {
+      "name": "flapybird",
       "path": "assets/images/img/apps/flapybird.webp",
       "sourcePath": "images/img/apps/flapybird.webp",
       "category": "images",
@@ -1901,6 +3431,16 @@
       "kind": "image",
       "size": 114768,
       "hash": "ad33aba3"
+    },
+    {
+      "name": "flapybird",
+      "path": "assets/images/img/appstore/flapybird.jpg",
+      "sourcePath": "images/img/appstore/flapybird.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 18334,
+      "hash": "60712a2f"
     },
     {
       "name": "flapybird",
@@ -1924,6 +3464,16 @@
     },
     {
       "name": "fundos",
+      "path": "assets/images/img/definicoes/fundos.png",
+      "sourcePath": "images/img/definicoes/fundos.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9701,
+      "hash": "28b0e3b5"
+    },
+    {
+      "name": "fundos",
       "path": "assets/images/img/definicoes/fundos.webp",
       "sourcePath": "images/img/definicoes/fundos.webp",
       "category": "images",
@@ -1931,6 +3481,16 @@
       "kind": "image",
       "size": 2434,
       "hash": "a05ad3bf"
+    },
+    {
+      "name": "galeria",
+      "path": "assets/images/img/apps/galeria.png",
+      "sourcePath": "images/img/apps/galeria.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3712,
+      "hash": "b6af44ea"
     },
     {
       "name": "galeria",
@@ -1944,6 +3504,16 @@
     },
     {
       "name": "garage",
+      "path": "assets/images/contacts-photo/garage.png",
+      "sourcePath": "images/contacts-photo/garage.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 271074,
+      "hash": "e75ae216"
+    },
+    {
+      "name": "garage",
       "path": "assets/images/contacts-photo/garage.webp",
       "sourcePath": "images/contacts-photo/garage.webp",
       "category": "images",
@@ -1951,6 +3521,16 @@
       "kind": "image",
       "size": 21912,
       "hash": "603e2c90"
+    },
+    {
+      "name": "garagem",
+      "path": "assets/images/img/apps/garagem.png",
+      "sourcePath": "images/img/apps/garagem.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26502,
+      "hash": "a970ad90"
     },
     {
       "name": "garagem",
@@ -1974,6 +3554,16 @@
     },
     {
       "name": "Globe",
+      "path": "assets/images/backgrounds/newbg/Globe.jpg",
+      "sourcePath": "images/backgrounds/newbg/Globe.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 181294,
+      "hash": "b7bab2e0"
+    },
+    {
+      "name": "Globe",
       "path": "assets/images/backgrounds/newbg/Globe.webp",
       "sourcePath": "images/backgrounds/newbg/Globe.webp",
       "category": "backgrounds",
@@ -1981,6 +3571,16 @@
       "kind": "image",
       "size": 120234,
       "hash": "3827f960"
+    },
+    {
+      "name": "GlobeNight",
+      "path": "assets/images/backgrounds/newbg/GlobeNight.jpg",
+      "sourcePath": "images/backgrounds/newbg/GlobeNight.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 73845,
+      "hash": "e4d5ade4"
     },
     {
       "name": "GlobeNight",
@@ -1994,6 +3594,16 @@
     },
     {
       "name": "gold_frame",
+      "path": "assets/images/cases/gold_frame.png",
+      "sourcePath": "images/cases/gold_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 198915,
+      "hash": "247469a7"
+    },
+    {
+      "name": "gold_frame",
       "path": "assets/images/cases/gold_frame.webp",
       "sourcePath": "images/cases/gold_frame.webp",
       "category": "images",
@@ -2001,6 +3611,16 @@
       "kind": "image",
       "size": 44188,
       "hash": "246daf9f"
+    },
+    {
+      "name": "googlelogo",
+      "path": "assets/images/img/safari/googlelogo.png",
+      "sourcePath": "images/img/safari/googlelogo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31862,
+      "hash": "ebe0f2c2"
     },
     {
       "name": "googlelogo",
@@ -2024,6 +3644,16 @@
     },
     {
       "name": "green_frame",
+      "path": "assets/images/cases/green_frame.png",
+      "sourcePath": "images/cases/green_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 206614,
+      "hash": "d6b02180"
+    },
+    {
+      "name": "green_frame",
       "path": "assets/images/cases/green_frame.webp",
       "sourcePath": "images/cases/green_frame.webp",
       "category": "images",
@@ -2031,6 +3661,16 @@
       "kind": "image",
       "size": 42958,
       "hash": "30d5fd8c"
+    },
+    {
+      "name": "greenlight_frame",
+      "path": "assets/images/cases/greenlight_frame.png",
+      "sourcePath": "images/cases/greenlight_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 233360,
+      "hash": "e407292f"
     },
     {
       "name": "greenlight_frame",
@@ -2064,6 +3704,16 @@
     },
     {
       "name": "header",
+      "path": "assets/images/img/tinder/header.png",
+      "sourcePath": "images/img/tinder/header.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 146710,
+      "hash": "8439721f"
+    },
+    {
+      "name": "header",
       "path": "assets/images/img/tinder/header.webp",
       "sourcePath": "images/img/tinder/header.webp",
       "category": "images",
@@ -2074,6 +3724,16 @@
     },
     {
       "name": "health",
+      "path": "assets/images/icons/health.png",
+      "sourcePath": "images/icons/health.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 2895,
+      "hash": "06b6028a"
+    },
+    {
+      "name": "health",
       "path": "assets/images/icons/health.webp",
       "sourcePath": "images/icons/health.webp",
       "category": "icons",
@@ -2081,6 +3741,16 @@
       "kind": "image",
       "size": 1228,
       "hash": "c5fc1d81"
+    },
+    {
+      "name": "heart",
+      "path": "assets/images/tinder/heart.png",
+      "sourcePath": "images/tinder/heart.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37776,
+      "hash": "c955ec83"
     },
     {
       "name": "heart",
@@ -2104,6 +3774,16 @@
     },
     {
       "name": "home",
+      "path": "assets/images/icons/home.png",
+      "sourcePath": "images/icons/home.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 16486,
+      "hash": "288e9972"
+    },
+    {
+      "name": "home",
       "path": "assets/images/icons/home.webp",
       "sourcePath": "images/icons/home.webp",
       "category": "icons",
@@ -2111,6 +3791,16 @@
       "kind": "image",
       "size": 704,
       "hash": "a5427133"
+    },
+    {
+      "name": "home",
+      "path": "assets/images/img/apps/home.png",
+      "sourcePath": "images/img/apps/home.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1266,
+      "hash": "9fa25faf"
     },
     {
       "name": "home",
@@ -2124,6 +3814,16 @@
     },
     {
       "name": "house",
+      "path": "assets/images/img/mdt/house.png",
+      "sourcePath": "images/img/mdt/house.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 16037,
+      "hash": "b1ad2be9"
+    },
+    {
+      "name": "house",
       "path": "assets/images/img/mdt/house.webp",
       "sourcePath": "images/img/mdt/house.webp",
       "category": "images",
@@ -2131,6 +3831,16 @@
       "kind": "image",
       "size": 2168,
       "hash": "952bc725"
+    },
+    {
+      "name": "ibooks",
+      "path": "assets/images/icons/ibooks.png",
+      "sourcePath": "images/icons/ibooks.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 9686,
+      "hash": "1b2fc530"
     },
     {
       "name": "ibooks",
@@ -2144,6 +3854,16 @@
     },
     {
       "name": "image",
+      "path": "assets/images/img/whatsapp/image.png",
+      "sourcePath": "images/img/whatsapp/image.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12525,
+      "hash": "8e5d45ea"
+    },
+    {
+      "name": "image",
       "path": "assets/images/img/whatsapp/image.webp",
       "sourcePath": "images/img/whatsapp/image.webp",
       "category": "images",
@@ -2154,6 +3874,16 @@
     },
     {
       "name": "imagemtelemovel",
+      "path": "assets/images/img/definicoes/imagemtelemovel.png",
+      "sourcePath": "images/img/definicoes/imagemtelemovel.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 462348,
+      "hash": "feb7365d"
+    },
+    {
+      "name": "imagemtelemovel",
       "path": "assets/images/img/definicoes/imagemtelemovel.webp",
       "sourcePath": "images/img/definicoes/imagemtelemovel.webp",
       "category": "images",
@@ -2161,6 +3891,16 @@
       "kind": "image",
       "size": 26628,
       "hash": "024cf115"
+    },
+    {
+      "name": "imessage",
+      "path": "assets/images/img/apps/imessage.png",
+      "sourcePath": "images/img/apps/imessage.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1638,
+      "hash": "5887294c"
     },
     {
       "name": "imessage",
@@ -2204,6 +3944,16 @@
     },
     {
       "name": "inicio",
+      "path": "assets/images/img/twitter/inicio.jpg",
+      "sourcePath": "images/img/twitter/inicio.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 131109,
+      "hash": "25fe99df"
+    },
+    {
+      "name": "inicio",
       "path": "assets/images/img/twitter/inicio.webp",
       "sourcePath": "images/img/twitter/inicio.webp",
       "category": "images",
@@ -2211,6 +3961,16 @@
       "kind": "image",
       "size": 12408,
       "hash": "8b08dd02"
+    },
+    {
+      "name": "instagram",
+      "path": "assets/images/icons/instagram.png",
+      "sourcePath": "images/icons/instagram.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 22276,
+      "hash": "bbd86ce0"
     },
     {
       "name": "instagram",
@@ -2224,6 +3984,16 @@
     },
     {
       "name": "instagram",
+      "path": "assets/images/img/apps/instagram.png",
+      "sourcePath": "images/img/apps/instagram.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3835,
+      "hash": "74f90a56"
+    },
+    {
+      "name": "instagram",
       "path": "assets/images/img/apps/instagram.webp",
       "sourcePath": "images/img/apps/instagram.webp",
       "category": "images",
@@ -2231,6 +4001,16 @@
       "kind": "image",
       "size": 2686,
       "hash": "ffd99168"
+    },
+    {
+      "name": "instagram",
+      "path": "assets/images/img/appstore/instagram.jpg",
+      "sourcePath": "images/img/appstore/instagram.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 22550,
+      "hash": "cc3c3214"
     },
     {
       "name": "instagram",
@@ -2244,6 +4024,16 @@
     },
     {
       "name": "intense",
+      "path": "assets/images/cases/intense.png",
+      "sourcePath": "images/cases/intense.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 98869,
+      "hash": "925f0fde"
+    },
+    {
+      "name": "intense",
       "path": "assets/images/cases/intense.webp",
       "sourcePath": "images/cases/intense.webp",
       "category": "images",
@@ -2254,6 +4044,16 @@
     },
     {
       "name": "ios",
+      "path": "assets/fonts/ios.ttf",
+      "sourcePath": "fonts/ios.ttf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 413924,
+      "hash": "d9dd27e6"
+    },
+    {
+      "name": "ios",
       "path": "assets/images/fonts/ios.ttf",
       "sourcePath": "images/fonts/ios.ttf",
       "category": "fonts",
@@ -2261,6 +4061,16 @@
       "kind": "font",
       "size": 413924,
       "hash": "d9dd27e6"
+    },
+    {
+      "name": "ios-right-arrow",
+      "path": "assets/images/icons/ios-right-arrow.png",
+      "sourcePath": "images/icons/ios-right-arrow.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 230,
+      "hash": "0ebdd2fe"
     },
     {
       "name": "ios-right-arrow",
@@ -2314,6 +4124,16 @@
     },
     {
       "name": "iphone14",
+      "path": "assets/images/backgrounds/iphone14.png",
+      "sourcePath": "images/backgrounds/iphone14.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 663022,
+      "hash": "6b7a9b45"
+    },
+    {
+      "name": "iphone14",
       "path": "assets/images/backgrounds/iphone14.webp",
       "sourcePath": "images/backgrounds/iphone14.webp",
       "category": "backgrounds",
@@ -2334,6 +4154,16 @@
     },
     {
       "name": "iphone14pro",
+      "path": "assets/images/cases/iphone14pro.png",
+      "sourcePath": "images/cases/iphone14pro.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 112787,
+      "hash": "2e11eecc"
+    },
+    {
+      "name": "iphone14pro",
       "path": "assets/images/cases/iphone14pro.webp",
       "sourcePath": "images/cases/iphone14pro.webp",
       "category": "images",
@@ -2344,6 +4174,16 @@
     },
     {
       "name": "iphone14semCam",
+      "path": "assets/images/cases/iphone14semCam.png",
+      "sourcePath": "images/cases/iphone14semCam.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 106919,
+      "hash": "b1f2ccce"
+    },
+    {
+      "name": "iphone14semCam",
       "path": "assets/images/cases/iphone14semCam.webp",
       "sourcePath": "images/cases/iphone14semCam.webp",
       "category": "images",
@@ -2351,6 +4191,16 @@
       "kind": "image",
       "size": 9520,
       "hash": "2b064b0f"
+    },
+    {
+      "name": "iphone15",
+      "path": "assets/images/cases/iphone15.png",
+      "sourcePath": "images/cases/iphone15.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 103831,
+      "hash": "df0d5293"
     },
     {
       "name": "iphone15",
@@ -2374,6 +4224,16 @@
     },
     {
       "name": "iphonex",
+      "path": "assets/images/cases/iphonex.png",
+      "sourcePath": "images/cases/iphonex.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25507,
+      "hash": "d3038231"
+    },
+    {
+      "name": "iphonex",
       "path": "assets/images/cases/iphonex.webp",
       "sourcePath": "images/cases/iphonex.webp",
       "category": "images",
@@ -2384,6 +4244,16 @@
     },
     {
       "name": "iphonexs",
+      "path": "assets/images/cases/iphonexs.png",
+      "sourcePath": "images/cases/iphonexs.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12573,
+      "hash": "a43f4b44"
+    },
+    {
+      "name": "iphonexs",
       "path": "assets/images/cases/iphonexs.webp",
       "sourcePath": "images/cases/iphonexs.webp",
       "category": "images",
@@ -2391,6 +4261,16 @@
       "kind": "image",
       "size": 2672,
       "hash": "f8d85693"
+    },
+    {
+      "name": "jprlogo",
+      "path": "assets/images/img/safari/jprlogo.png",
+      "sourcePath": "images/img/safari/jprlogo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26518,
+      "hash": "48bd93aa"
     },
     {
       "name": "jprlogo",
@@ -2414,6 +4294,16 @@
     },
     {
       "name": "lanterna",
+      "path": "assets/images/img/sistema/lanterna.png",
+      "sourcePath": "images/img/sistema/lanterna.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6317,
+      "hash": "80b2786f"
+    },
+    {
+      "name": "lanterna",
       "path": "assets/images/img/sistema/lanterna.webp",
       "sourcePath": "images/img/sistema/lanterna.webp",
       "category": "images",
@@ -2421,6 +4311,16 @@
       "kind": "image",
       "size": 808,
       "hash": "09f651ad"
+    },
+    {
+      "name": "Lift",
+      "path": "assets/images/backgrounds/newbg/Lift.jpg",
+      "sourcePath": "images/backgrounds/newbg/Lift.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 121658,
+      "hash": "2e83a6b7"
     },
     {
       "name": "Lift",
@@ -2434,6 +4334,16 @@
     },
     {
       "name": "light",
+      "path": "assets/images/light.png",
+      "sourcePath": "images/light.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 247771,
+      "hash": "09da4957"
+    },
+    {
+      "name": "light",
       "path": "assets/images/light.webp",
       "sourcePath": "images/light.webp",
       "category": "images",
@@ -2444,6 +4354,16 @@
     },
     {
       "name": "like",
+      "path": "assets/images/tinder/like.png",
+      "sourcePath": "images/tinder/like.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 35465,
+      "hash": "fe0ef10c"
+    },
+    {
+      "name": "like",
       "path": "assets/images/tinder/like.webp",
       "sourcePath": "images/tinder/like.webp",
       "category": "images",
@@ -2451,6 +4371,16 @@
       "kind": "image",
       "size": 4376,
       "hash": "989432e8"
+    },
+    {
+      "name": "local",
+      "path": "assets/images/icons/local.png",
+      "sourcePath": "images/icons/local.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 8326,
+      "hash": "a69dca4f"
     },
     {
       "name": "local",
@@ -2474,6 +4404,16 @@
     },
     {
       "name": "logo",
+      "path": "assets/images/img/twitter/logo.png",
+      "sourcePath": "images/img/twitter/logo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3515,
+      "hash": "d7ab03a2"
+    },
+    {
+      "name": "logo",
       "path": "assets/images/img/twitter/logo.webp",
       "sourcePath": "images/img/twitter/logo.webp",
       "category": "images",
@@ -2481,6 +4421,16 @@
       "kind": "image",
       "size": 1162,
       "hash": "ec2dfd46"
+    },
+    {
+      "name": "logo",
+      "path": "assets/images/logo.png",
+      "sourcePath": "images/logo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2048181,
+      "hash": "ab1e023d"
     },
     {
       "name": "logo",
@@ -2504,6 +4454,16 @@
     },
     {
       "name": "ltd",
+      "path": "assets/images/contacts-photo/ltd.png",
+      "sourcePath": "images/contacts-photo/ltd.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 20484,
+      "hash": "453ef0e7"
+    },
+    {
+      "name": "ltd",
       "path": "assets/images/contacts-photo/ltd.webp",
       "sourcePath": "images/contacts-photo/ltd.webp",
       "category": "images",
@@ -2511,6 +4471,16 @@
       "kind": "image",
       "size": 9046,
       "hash": "b6adec83"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/icons/mail.png",
+      "sourcePath": "images/icons/mail.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 20721,
+      "hash": "a09edd16"
     },
     {
       "name": "mail",
@@ -2524,6 +4494,16 @@
     },
     {
       "name": "mail",
+      "path": "assets/images/img/apps/mail.png",
+      "sourcePath": "images/img/apps/mail.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2160,
+      "hash": "1cf02fef"
+    },
+    {
+      "name": "mail",
       "path": "assets/images/img/apps/mail.webp",
       "sourcePath": "images/img/apps/mail.webp",
       "category": "images",
@@ -2534,6 +4514,16 @@
     },
     {
       "name": "mail",
+      "path": "assets/images/img/appsimessage/mail.png",
+      "sourcePath": "images/img/appsimessage/mail.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3114,
+      "hash": "bea5ffc8"
+    },
+    {
+      "name": "mail",
       "path": "assets/images/img/appsimessage/mail.webp",
       "sourcePath": "images/img/appsimessage/mail.webp",
       "category": "images",
@@ -2541,6 +4531,16 @@
       "kind": "image",
       "size": 1284,
       "hash": "bce14a93"
+    },
+    {
+      "name": "mail",
+      "path": "assets/images/img/appstore/mail.jpg",
+      "sourcePath": "images/img/appstore/mail.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 67305,
+      "hash": "22e832e4"
     },
     {
       "name": "mail",
@@ -2564,6 +4564,16 @@
     },
     {
       "name": "male",
+      "path": "assets/images/img/mdt/male.png",
+      "sourcePath": "images/img/mdt/male.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5668,
+      "hash": "cc0b20ad"
+    },
+    {
+      "name": "male",
       "path": "assets/images/img/mdt/male.webp",
       "sourcePath": "images/img/mdt/male.webp",
       "category": "images",
@@ -2571,6 +4581,16 @@
       "kind": "image",
       "size": 1448,
       "hash": "cd4ea510"
+    },
+    {
+      "name": "mapas",
+      "path": "assets/images/img/apps/mapas.png",
+      "sourcePath": "images/img/apps/mapas.png",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 2806,
+      "hash": "464dd519"
     },
     {
       "name": "mapas",
@@ -2584,6 +4604,16 @@
     },
     {
       "name": "mapas",
+      "path": "assets/images/img/appstore/mapas.jpg",
+      "sourcePath": "images/img/appstore/mapas.jpg",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 54678,
+      "hash": "ee4c29c6"
+    },
+    {
+      "name": "mapas",
       "path": "assets/images/img/appstore/mapas.webp",
       "sourcePath": "images/img/appstore/mapas.webp",
       "category": "maps",
@@ -2591,6 +4621,16 @@
       "kind": "image",
       "size": 24674,
       "hash": "457319fa"
+    },
+    {
+      "name": "maps",
+      "path": "assets/images/icons/maps.png",
+      "sourcePath": "images/icons/maps.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 22704,
+      "hash": "18739002"
     },
     {
       "name": "maps",
@@ -2604,6 +4644,16 @@
     },
     {
       "name": "maps",
+      "path": "assets/images/img/appsimessage/maps.png",
+      "sourcePath": "images/img/appsimessage/maps.png",
+      "category": "maps",
+      "group": "images",
+      "kind": "image",
+      "size": 4609,
+      "hash": "c1be51aa"
+    },
+    {
+      "name": "maps",
       "path": "assets/images/img/appsimessage/maps.webp",
       "sourcePath": "images/img/appsimessage/maps.webp",
       "category": "maps",
@@ -2611,6 +4661,16 @@
       "kind": "image",
       "size": 1168,
       "hash": "f5ebe155"
+    },
+    {
+      "name": "mdt",
+      "path": "assets/images/img/apps/mdt.png",
+      "sourcePath": "images/img/apps/mdt.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6409,
+      "hash": "348fbcbe"
     },
     {
       "name": "mdt",
@@ -2624,6 +4684,16 @@
     },
     {
       "name": "mdt",
+      "path": "assets/images/img/appstore/mdt.jpg",
+      "sourcePath": "images/img/appstore/mdt.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 20128,
+      "hash": "57e6906b"
+    },
+    {
+      "name": "mdt",
       "path": "assets/images/img/appstore/mdt.webp",
       "sourcePath": "images/img/appstore/mdt.webp",
       "category": "images",
@@ -2631,6 +4701,16 @@
       "kind": "image",
       "size": 5930,
       "hash": "d2aab95f"
+    },
+    {
+      "name": "memoji-1",
+      "path": "assets/images/img/memoji/memoji-1.png",
+      "sourcePath": "images/img/memoji/memoji-1.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 94265,
+      "hash": "fdb2818e"
     },
     {
       "name": "memoji-1",
@@ -2644,6 +4724,16 @@
     },
     {
       "name": "memoji-10",
+      "path": "assets/images/img/memoji/memoji-10.png",
+      "sourcePath": "images/img/memoji/memoji-10.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 79725,
+      "hash": "66f72a8b"
+    },
+    {
+      "name": "memoji-10",
       "path": "assets/images/img/memoji/memoji-10.webp",
       "sourcePath": "images/img/memoji/memoji-10.webp",
       "category": "images",
@@ -2651,6 +4741,16 @@
       "kind": "image",
       "size": 8784,
       "hash": "08d07420"
+    },
+    {
+      "name": "memoji-11",
+      "path": "assets/images/img/memoji/memoji-11.png",
+      "sourcePath": "images/img/memoji/memoji-11.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 94598,
+      "hash": "16eb663e"
     },
     {
       "name": "memoji-11",
@@ -2664,6 +4764,16 @@
     },
     {
       "name": "memoji-12",
+      "path": "assets/images/img/memoji/memoji-12.png",
+      "sourcePath": "images/img/memoji/memoji-12.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 81416,
+      "hash": "bf8fafc1"
+    },
+    {
+      "name": "memoji-12",
       "path": "assets/images/img/memoji/memoji-12.webp",
       "sourcePath": "images/img/memoji/memoji-12.webp",
       "category": "images",
@@ -2671,6 +4781,16 @@
       "kind": "image",
       "size": 8470,
       "hash": "08694c80"
+    },
+    {
+      "name": "memoji-13",
+      "path": "assets/images/img/memoji/memoji-13.png",
+      "sourcePath": "images/img/memoji/memoji-13.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 79839,
+      "hash": "20fd0045"
     },
     {
       "name": "memoji-13",
@@ -2684,6 +4804,16 @@
     },
     {
       "name": "memoji-14",
+      "path": "assets/images/img/memoji/memoji-14.png",
+      "sourcePath": "images/img/memoji/memoji-14.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 70849,
+      "hash": "fc491df4"
+    },
+    {
+      "name": "memoji-14",
       "path": "assets/images/img/memoji/memoji-14.webp",
       "sourcePath": "images/img/memoji/memoji-14.webp",
       "category": "images",
@@ -2691,6 +4821,16 @@
       "kind": "image",
       "size": 7260,
       "hash": "07c8e071"
+    },
+    {
+      "name": "memoji-15",
+      "path": "assets/images/img/memoji/memoji-15.png",
+      "sourcePath": "images/img/memoji/memoji-15.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 98029,
+      "hash": "050441c5"
     },
     {
       "name": "memoji-15",
@@ -2704,6 +4844,16 @@
     },
     {
       "name": "memoji-16",
+      "path": "assets/images/img/memoji/memoji-16.png",
+      "sourcePath": "images/img/memoji/memoji-16.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 75354,
+      "hash": "6bc79ecd"
+    },
+    {
+      "name": "memoji-16",
       "path": "assets/images/img/memoji/memoji-16.webp",
       "sourcePath": "images/img/memoji/memoji-16.webp",
       "category": "images",
@@ -2711,6 +4861,16 @@
       "kind": "image",
       "size": 7396,
       "hash": "05e03210"
+    },
+    {
+      "name": "memoji-17",
+      "path": "assets/images/img/memoji/memoji-17.png",
+      "sourcePath": "images/img/memoji/memoji-17.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 88158,
+      "hash": "a3f6a219"
     },
     {
       "name": "memoji-17",
@@ -2724,6 +4884,16 @@
     },
     {
       "name": "memoji-18",
+      "path": "assets/images/img/memoji/memoji-18.png",
+      "sourcePath": "images/img/memoji/memoji-18.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 78327,
+      "hash": "7aede321"
+    },
+    {
+      "name": "memoji-18",
       "path": "assets/images/img/memoji/memoji-18.webp",
       "sourcePath": "images/img/memoji/memoji-18.webp",
       "category": "images",
@@ -2731,6 +4901,16 @@
       "kind": "image",
       "size": 7930,
       "hash": "a65e9e8a"
+    },
+    {
+      "name": "memoji-19",
+      "path": "assets/images/img/memoji/memoji-19.png",
+      "sourcePath": "images/img/memoji/memoji-19.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 93232,
+      "hash": "66abc9d2"
     },
     {
       "name": "memoji-19",
@@ -2744,6 +4924,16 @@
     },
     {
       "name": "memoji-2",
+      "path": "assets/images/img/memoji/memoji-2.png",
+      "sourcePath": "images/img/memoji/memoji-2.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 103177,
+      "hash": "c9ca6df7"
+    },
+    {
+      "name": "memoji-2",
       "path": "assets/images/img/memoji/memoji-2.webp",
       "sourcePath": "images/img/memoji/memoji-2.webp",
       "category": "images",
@@ -2751,6 +4941,16 @@
       "kind": "image",
       "size": 8782,
       "hash": "d6ef3e92"
+    },
+    {
+      "name": "memoji-20",
+      "path": "assets/images/img/memoji/memoji-20.png",
+      "sourcePath": "images/img/memoji/memoji-20.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 81706,
+      "hash": "ffa49ea7"
     },
     {
       "name": "memoji-20",
@@ -2764,6 +4964,16 @@
     },
     {
       "name": "memoji-21",
+      "path": "assets/images/img/memoji/memoji-21.png",
+      "sourcePath": "images/img/memoji/memoji-21.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 98039,
+      "hash": "66cce94b"
+    },
+    {
+      "name": "memoji-21",
       "path": "assets/images/img/memoji/memoji-21.webp",
       "sourcePath": "images/img/memoji/memoji-21.webp",
       "category": "images",
@@ -2771,6 +4981,16 @@
       "kind": "image",
       "size": 11730,
       "hash": "39d13542"
+    },
+    {
+      "name": "memoji-22",
+      "path": "assets/images/img/memoji/memoji-22.png",
+      "sourcePath": "images/img/memoji/memoji-22.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 87473,
+      "hash": "52873c49"
     },
     {
       "name": "memoji-22",
@@ -2784,6 +5004,16 @@
     },
     {
       "name": "memoji-23",
+      "path": "assets/images/img/memoji/memoji-23.png",
+      "sourcePath": "images/img/memoji/memoji-23.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 56757,
+      "hash": "2169759f"
+    },
+    {
+      "name": "memoji-23",
       "path": "assets/images/img/memoji/memoji-23.webp",
       "sourcePath": "images/img/memoji/memoji-23.webp",
       "category": "images",
@@ -2791,6 +5021,16 @@
       "kind": "image",
       "size": 4946,
       "hash": "a77cc6bf"
+    },
+    {
+      "name": "memoji-24",
+      "path": "assets/images/img/memoji/memoji-24.png",
+      "sourcePath": "images/img/memoji/memoji-24.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 56533,
+      "hash": "f9df8a21"
     },
     {
       "name": "memoji-24",
@@ -2804,6 +5044,16 @@
     },
     {
       "name": "memoji-3",
+      "path": "assets/images/img/memoji/memoji-3.png",
+      "sourcePath": "images/img/memoji/memoji-3.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 77057,
+      "hash": "3b85ffbc"
+    },
+    {
+      "name": "memoji-3",
       "path": "assets/images/img/memoji/memoji-3.webp",
       "sourcePath": "images/img/memoji/memoji-3.webp",
       "category": "images",
@@ -2811,6 +5061,16 @@
       "kind": "image",
       "size": 8812,
       "hash": "9ee380bb"
+    },
+    {
+      "name": "memoji-4",
+      "path": "assets/images/img/memoji/memoji-4.png",
+      "sourcePath": "images/img/memoji/memoji-4.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 66431,
+      "hash": "1b1add72"
     },
     {
       "name": "memoji-4",
@@ -2824,6 +5084,16 @@
     },
     {
       "name": "memoji-5",
+      "path": "assets/images/img/memoji/memoji-5.png",
+      "sourcePath": "images/img/memoji/memoji-5.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 82454,
+      "hash": "fbe64568"
+    },
+    {
+      "name": "memoji-5",
       "path": "assets/images/img/memoji/memoji-5.webp",
       "sourcePath": "images/img/memoji/memoji-5.webp",
       "category": "images",
@@ -2831,6 +5101,16 @@
       "kind": "image",
       "size": 8188,
       "hash": "3a65bf50"
+    },
+    {
+      "name": "memoji-6",
+      "path": "assets/images/img/memoji/memoji-6.png",
+      "sourcePath": "images/img/memoji/memoji-6.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 81453,
+      "hash": "928120bb"
     },
     {
       "name": "memoji-6",
@@ -2844,6 +5124,16 @@
     },
     {
       "name": "memoji-7",
+      "path": "assets/images/img/memoji/memoji-7.png",
+      "sourcePath": "images/img/memoji/memoji-7.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 99455,
+      "hash": "60d168ec"
+    },
+    {
+      "name": "memoji-7",
       "path": "assets/images/img/memoji/memoji-7.webp",
       "sourcePath": "images/img/memoji/memoji-7.webp",
       "category": "images",
@@ -2854,6 +5144,16 @@
     },
     {
       "name": "memoji-8",
+      "path": "assets/images/img/memoji/memoji-8.png",
+      "sourcePath": "images/img/memoji/memoji-8.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 93932,
+      "hash": "eb0a4d87"
+    },
+    {
+      "name": "memoji-8",
       "path": "assets/images/img/memoji/memoji-8.webp",
       "sourcePath": "images/img/memoji/memoji-8.webp",
       "category": "images",
@@ -2861,6 +5161,16 @@
       "kind": "image",
       "size": 11114,
       "hash": "1d18cd25"
+    },
+    {
+      "name": "memoji-9",
+      "path": "assets/images/img/memoji/memoji-9.png",
+      "sourcePath": "images/img/memoji/memoji-9.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 123500,
+      "hash": "6d13d057"
     },
     {
       "name": "memoji-9",
@@ -2884,6 +5194,16 @@
     },
     {
       "name": "messages",
+      "path": "assets/images/icons/messages.png",
+      "sourcePath": "images/icons/messages.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 16974,
+      "hash": "fb53dcdc"
+    },
+    {
+      "name": "messages",
       "path": "assets/images/icons/messages.webp",
       "sourcePath": "images/icons/messages.webp",
       "category": "icons",
@@ -2891,6 +5211,16 @@
       "kind": "image",
       "size": 722,
       "hash": "0f4f8d1c"
+    },
+    {
+      "name": "messenger",
+      "path": "assets/images/icons/messenger.png",
+      "sourcePath": "images/icons/messenger.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 4112,
+      "hash": "0fd8dea3"
     },
     {
       "name": "messenger",
@@ -2944,6 +5274,16 @@
     },
     {
       "name": "Moon",
+      "path": "assets/images/backgrounds/newbg/Moon.jpg",
+      "sourcePath": "images/backgrounds/newbg/Moon.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 184293,
+      "hash": "5292854f"
+    },
+    {
+      "name": "Moon",
       "path": "assets/images/backgrounds/newbg/Moon.webp",
       "sourcePath": "images/backgrounds/newbg/Moon.webp",
       "category": "backgrounds",
@@ -2951,6 +5291,16 @@
       "kind": "image",
       "size": 101532,
       "hash": "3718007b"
+    },
+    {
+      "name": "mountain_01",
+      "path": "assets/images/backgrounds/newbg/mountain_01.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_01.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 161568,
+      "hash": "38f3ec06"
     },
     {
       "name": "mountain_01",
@@ -2964,6 +5314,16 @@
     },
     {
       "name": "mountain_02",
+      "path": "assets/images/backgrounds/newbg/mountain_02.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_02.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 210039,
+      "hash": "9b1064bc"
+    },
+    {
+      "name": "mountain_02",
       "path": "assets/images/backgrounds/newbg/mountain_02.webp",
       "sourcePath": "images/backgrounds/newbg/mountain_02.webp",
       "category": "backgrounds",
@@ -2971,6 +5331,16 @@
       "kind": "image",
       "size": 72044,
       "hash": "7447f8aa"
+    },
+    {
+      "name": "mountain_03",
+      "path": "assets/images/backgrounds/newbg/mountain_03.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_03.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 137620,
+      "hash": "8858d375"
     },
     {
       "name": "mountain_03",
@@ -2984,6 +5354,16 @@
     },
     {
       "name": "mountain_04",
+      "path": "assets/images/backgrounds/newbg/mountain_04.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_04.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 331218,
+      "hash": "6aa08dde"
+    },
+    {
+      "name": "mountain_04",
       "path": "assets/images/backgrounds/newbg/mountain_04.webp",
       "sourcePath": "images/backgrounds/newbg/mountain_04.webp",
       "category": "backgrounds",
@@ -2991,6 +5371,16 @@
       "kind": "image",
       "size": 178314,
       "hash": "f9f1adef"
+    },
+    {
+      "name": "mountain_05",
+      "path": "assets/images/backgrounds/newbg/mountain_05.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_05.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 208947,
+      "hash": "1c49bec5"
     },
     {
       "name": "mountain_05",
@@ -3004,6 +5394,16 @@
     },
     {
       "name": "mountain_06",
+      "path": "assets/images/backgrounds/newbg/mountain_06.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_06.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 51245,
+      "hash": "5594ec71"
+    },
+    {
+      "name": "mountain_06",
       "path": "assets/images/backgrounds/newbg/mountain_06.webp",
       "sourcePath": "images/backgrounds/newbg/mountain_06.webp",
       "category": "backgrounds",
@@ -3011,6 +5411,16 @@
       "kind": "image",
       "size": 17188,
       "hash": "e3e4261b"
+    },
+    {
+      "name": "mountain_07",
+      "path": "assets/images/backgrounds/newbg/mountain_07.jpg",
+      "sourcePath": "images/backgrounds/newbg/mountain_07.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 49855,
+      "hash": "0d0c41ad"
     },
     {
       "name": "mountain_07",
@@ -3034,6 +5444,16 @@
     },
     {
       "name": "music",
+      "path": "assets/images/icons/music.png",
+      "sourcePath": "images/icons/music.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 400262,
+      "hash": "86528834"
+    },
+    {
+      "name": "music",
       "path": "assets/images/icons/music.webp",
       "sourcePath": "images/icons/music.webp",
       "category": "icons",
@@ -3054,6 +5474,16 @@
     },
     {
       "name": "nav",
+      "path": "assets/images/img/tinder/nav.png",
+      "sourcePath": "images/img/tinder/nav.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 76479,
+      "hash": "b9f866d3"
+    },
+    {
+      "name": "nav",
       "path": "assets/images/img/tinder/nav.webp",
       "sourcePath": "images/img/tinder/nav.webp",
       "category": "images",
@@ -3061,6 +5491,16 @@
       "kind": "image",
       "size": 7088,
       "hash": "c8eccd8b"
+    },
+    {
+      "name": "newquanticbank",
+      "path": "assets/images/icons/newquanticbank.png",
+      "sourcePath": "images/icons/newquanticbank.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 27696,
+      "hash": "3ccfed96"
     },
     {
       "name": "newquanticbank",
@@ -3074,6 +5514,16 @@
     },
     {
       "name": "news",
+      "path": "assets/images/icons/news.png",
+      "sourcePath": "images/icons/news.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 3568,
+      "hash": "db817a77"
+    },
+    {
+      "name": "news",
       "path": "assets/images/icons/news.webp",
       "sourcePath": "images/icons/news.webp",
       "category": "icons",
@@ -3081,6 +5531,16 @@
       "kind": "image",
       "size": 1404,
       "hash": "d2a05aab"
+    },
+    {
+      "name": "noimage",
+      "path": "assets/images/img/twitter/noimage.png",
+      "sourcePath": "images/img/twitter/noimage.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5755,
+      "hash": "e058e30c"
     },
     {
       "name": "noimage",
@@ -3094,6 +5554,16 @@
     },
     {
       "name": "notas",
+      "path": "assets/images/img/apps/notas.png",
+      "sourcePath": "images/img/apps/notas.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1168,
+      "hash": "4ccf2859"
+    },
+    {
+      "name": "notas",
       "path": "assets/images/img/apps/notas.webp",
       "sourcePath": "images/img/apps/notas.webp",
       "category": "images",
@@ -3101,6 +5571,16 @@
       "kind": "image",
       "size": 932,
       "hash": "78d5ab1b"
+    },
+    {
+      "name": "notes",
+      "path": "assets/images/icons/notes.png",
+      "sourcePath": "images/icons/notes.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 14166,
+      "hash": "913fb7fd"
     },
     {
       "name": "notes",
@@ -3114,6 +5594,16 @@
     },
     {
       "name": "notes",
+      "path": "assets/images/img/appstore/notes.jpg",
+      "sourcePath": "images/img/appstore/notes.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 58876,
+      "hash": "9df67ff6"
+    },
+    {
+      "name": "notes",
       "path": "assets/images/img/appstore/notes.webp",
       "sourcePath": "images/img/appstore/notes.webp",
       "category": "images",
@@ -3121,6 +5611,16 @@
       "kind": "image",
       "size": 31662,
       "hash": "c244d342"
+    },
+    {
+      "name": "notificacoes",
+      "path": "assets/images/img/definicoes/notificacoes.png",
+      "sourcePath": "images/img/definicoes/notificacoes.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8889,
+      "hash": "0c37ad5a"
     },
     {
       "name": "notificacoes",
@@ -3144,6 +5644,16 @@
     },
     {
       "name": "olx",
+      "path": "assets/images/img/apps/olx.png",
+      "sourcePath": "images/img/apps/olx.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4910,
+      "hash": "06b81257"
+    },
+    {
+      "name": "olx",
       "path": "assets/images/img/apps/olx.webp",
       "sourcePath": "images/img/apps/olx.webp",
       "category": "images",
@@ -3151,6 +5661,16 @@
       "kind": "image",
       "size": 7068,
       "hash": "5b017758"
+    },
+    {
+      "name": "olx",
+      "path": "assets/images/img/appstore/olx.jpg",
+      "sourcePath": "images/img/appstore/olx.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 33316,
+      "hash": "7935e1b1"
     },
     {
       "name": "olx",
@@ -3171,6 +5691,16 @@
       "kind": "image",
       "size": 1125,
       "hash": "c6e51a35"
+    },
+    {
+      "name": "outros",
+      "path": "assets/images/img/olx/outros.png",
+      "sourcePath": "images/img/olx/outros.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8220,
+      "hash": "978ea19f"
     },
     {
       "name": "outros",
@@ -3224,6 +5754,16 @@
     },
     {
       "name": "phone",
+      "path": "assets/images/img/apps/phone.png",
+      "sourcePath": "images/img/apps/phone.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 28916,
+      "hash": "3c9a8918"
+    },
+    {
+      "name": "phone",
       "path": "assets/images/img/apps/phone.webp",
       "sourcePath": "images/img/apps/phone.webp",
       "category": "images",
@@ -3231,6 +5771,16 @@
       "kind": "image",
       "size": 8214,
       "hash": "f4d7a33e"
+    },
+    {
+      "name": "phone",
+      "path": "assets/images/img/appsimessage/phone.png",
+      "sourcePath": "images/img/appsimessage/phone.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2528,
+      "hash": "e0c29d00"
     },
     {
       "name": "phone",
@@ -3244,6 +5794,16 @@
     },
     {
       "name": "phone",
+      "path": "assets/images/img/frames/phone.png",
+      "sourcePath": "images/img/frames/phone.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25679,
+      "hash": "abc9f2f7"
+    },
+    {
+      "name": "phone",
       "path": "assets/images/img/frames/phone.webp",
       "sourcePath": "images/img/frames/phone.webp",
       "category": "images",
@@ -3251,6 +5811,16 @@
       "kind": "image",
       "size": 21804,
       "hash": "b780729c"
+    },
+    {
+      "name": "phone_blue",
+      "path": "assets/images/img/frames/phone_blue.png",
+      "sourcePath": "images/img/frames/phone_blue.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 31230,
+      "hash": "072b6278"
     },
     {
       "name": "phone_blue",
@@ -3264,6 +5834,16 @@
     },
     {
       "name": "phone_gold",
+      "path": "assets/images/img/frames/phone_gold.png",
+      "sourcePath": "images/img/frames/phone_gold.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30638,
+      "hash": "270ca614"
+    },
+    {
+      "name": "phone_gold",
       "path": "assets/images/img/frames/phone_gold.webp",
       "sourcePath": "images/img/frames/phone_gold.webp",
       "category": "images",
@@ -3271,6 +5851,16 @@
       "kind": "image",
       "size": 23452,
       "hash": "cfc53985"
+    },
+    {
+      "name": "phone_green",
+      "path": "assets/images/img/frames/phone_green.png",
+      "sourcePath": "images/img/frames/phone_green.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 34144,
+      "hash": "9c8561e6"
     },
     {
       "name": "phone_green",
@@ -3284,6 +5874,16 @@
     },
     {
       "name": "phone_greenLight",
+      "path": "assets/images/img/frames/phone_greenLight.png",
+      "sourcePath": "images/img/frames/phone_greenLight.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30463,
+      "hash": "4bba5c45"
+    },
+    {
+      "name": "phone_greenLight",
       "path": "assets/images/img/frames/phone_greenLight.webp",
       "sourcePath": "images/img/frames/phone_greenLight.webp",
       "category": "images",
@@ -3291,6 +5891,16 @@
       "kind": "image",
       "size": 24138,
       "hash": "9c6eb12d"
+    },
+    {
+      "name": "phone_pink",
+      "path": "assets/images/img/frames/phone_pink.png",
+      "sourcePath": "images/img/frames/phone_pink.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37361,
+      "hash": "c321ca8b"
     },
     {
       "name": "phone_pink",
@@ -3304,6 +5914,16 @@
     },
     {
       "name": "phone_red",
+      "path": "assets/images/img/frames/phone_red.png",
+      "sourcePath": "images/img/frames/phone_red.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 34459,
+      "hash": "be1f912a"
+    },
+    {
+      "name": "phone_red",
       "path": "assets/images/img/frames/phone_red.webp",
       "sourcePath": "images/img/frames/phone_red.webp",
       "category": "images",
@@ -3311,6 +5931,16 @@
       "kind": "image",
       "size": 27788,
       "hash": "8d71111e"
+    },
+    {
+      "name": "phone_white",
+      "path": "assets/images/img/frames/phone_white.png",
+      "sourcePath": "images/img/frames/phone_white.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 30310,
+      "hash": "63ce9d19"
     },
     {
       "name": "phone_white",
@@ -3354,6 +5984,16 @@
     },
     {
       "name": "photos",
+      "path": "assets/images/icons/photos.png",
+      "sourcePath": "images/icons/photos.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 20942,
+      "hash": "af4c2743"
+    },
+    {
+      "name": "photos",
       "path": "assets/images/icons/photos.webp",
       "sourcePath": "images/icons/photos.webp",
       "category": "icons",
@@ -3361,6 +6001,16 @@
       "kind": "image",
       "size": 1088,
       "hash": "757de517"
+    },
+    {
+      "name": "photos",
+      "path": "assets/images/img/appsimessage/photos.png",
+      "sourcePath": "images/img/appsimessage/photos.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4410,
+      "hash": "0dc9d7b1"
     },
     {
       "name": "photos",
@@ -3384,6 +6034,16 @@
     },
     {
       "name": "pier",
+      "path": "assets/images/backgrounds/newbg/pier.jpg",
+      "sourcePath": "images/backgrounds/newbg/pier.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 220665,
+      "hash": "c68ba683"
+    },
+    {
+      "name": "pier",
       "path": "assets/images/backgrounds/newbg/pier.webp",
       "sourcePath": "images/backgrounds/newbg/pier.webp",
       "category": "backgrounds",
@@ -3391,6 +6051,16 @@
       "kind": "image",
       "size": 97240,
       "hash": "323f1564"
+    },
+    {
+      "name": "pink_frame",
+      "path": "assets/images/cases/pink_frame.png",
+      "sourcePath": "images/cases/pink_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 233774,
+      "hash": "f76cc2e6"
     },
     {
       "name": "pink_frame",
@@ -3414,6 +6084,16 @@
     },
     {
       "name": "plumber",
+      "path": "assets/images/img/apps/plumber.png",
+      "sourcePath": "images/img/apps/plumber.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 343540,
+      "hash": "81cbf183"
+    },
+    {
+      "name": "plumber",
       "path": "assets/images/img/apps/plumber.webp",
       "sourcePath": "images/img/apps/plumber.webp",
       "category": "images",
@@ -3421,6 +6101,16 @@
       "kind": "image",
       "size": 24626,
       "hash": "91c90bed"
+    },
+    {
+      "name": "plumber",
+      "path": "assets/images/img/appstore/plumber.jpg",
+      "sourcePath": "images/img/appstore/plumber.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 74829,
+      "hash": "9bdf868f"
     },
     {
       "name": "plumber",
@@ -3444,6 +6134,16 @@
     },
     {
       "name": "police",
+      "path": "assets/images/backgrounds/newbg/police.jpg",
+      "sourcePath": "images/backgrounds/newbg/police.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 153025,
+      "hash": "5eea954c"
+    },
+    {
+      "name": "police",
       "path": "assets/images/backgrounds/newbg/police.webp",
       "sourcePath": "images/backgrounds/newbg/police.webp",
       "category": "backgrounds",
@@ -3451,6 +6151,16 @@
       "kind": "image",
       "size": 57854,
       "hash": "c81c45d9"
+    },
+    {
+      "name": "police",
+      "path": "assets/images/contacts-photo/police.png",
+      "sourcePath": "images/contacts-photo/police.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 307613,
+      "hash": "6dbe5f5f"
     },
     {
       "name": "police",
@@ -3484,6 +6194,16 @@
     },
     {
       "name": "purple_frame",
+      "path": "assets/images/cases/purple_frame.png",
+      "sourcePath": "images/cases/purple_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 239886,
+      "hash": "650f059c"
+    },
+    {
+      "name": "purple_frame",
       "path": "assets/images/cases/purple_frame.webp",
       "sourcePath": "images/cases/purple_frame.webp",
       "category": "images",
@@ -3491,6 +6211,16 @@
       "kind": "image",
       "size": 44704,
       "hash": "262f1abb"
+    },
+    {
+      "name": "quanticbank",
+      "path": "assets/images/icons/quanticbank.png",
+      "sourcePath": "images/icons/quanticbank.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 9576,
+      "hash": "9faa0cc8"
     },
     {
       "name": "quanticbank",
@@ -3504,6 +6234,16 @@
     },
     {
       "name": "racing",
+      "path": "assets/images/img/apps/racing.png",
+      "sourcePath": "images/img/apps/racing.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5185,
+      "hash": "2a5462cb"
+    },
+    {
+      "name": "racing",
       "path": "assets/images/img/apps/racing.webp",
       "sourcePath": "images/img/apps/racing.webp",
       "category": "images",
@@ -3511,6 +6251,16 @@
       "kind": "image",
       "size": 1414,
       "hash": "ef92b738"
+    },
+    {
+      "name": "racing",
+      "path": "assets/images/img/appstore/racing.jpg",
+      "sourcePath": "images/img/appstore/racing.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 16486,
+      "hash": "82eb8936"
     },
     {
       "name": "racing",
@@ -3554,6 +6304,16 @@
     },
     {
       "name": "record",
+      "path": "assets/images/icons/record.png",
+      "sourcePath": "images/icons/record.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 4726,
+      "hash": "a968358a"
+    },
+    {
+      "name": "record",
       "path": "assets/images/icons/record.webp",
       "sourcePath": "images/icons/record.webp",
       "category": "icons",
@@ -3561,6 +6321,16 @@
       "kind": "image",
       "size": 2848,
       "hash": "c3a26963"
+    },
+    {
+      "name": "records",
+      "path": "assets/images/icons/records.png",
+      "sourcePath": "images/icons/records.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 3325,
+      "hash": "641f7cb8"
     },
     {
       "name": "records",
@@ -3574,6 +6344,16 @@
     },
     {
       "name": "red_frame",
+      "path": "assets/images/cases/red_frame.png",
+      "sourcePath": "images/cases/red_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 214873,
+      "hash": "59b133b4"
+    },
+    {
+      "name": "red_frame",
       "path": "assets/images/cases/red_frame.webp",
       "sourcePath": "images/cases/red_frame.webp",
       "category": "images",
@@ -3581,6 +6361,16 @@
       "kind": "image",
       "size": 48196,
       "hash": "fd1d26a7"
+    },
+    {
+      "name": "redminote8",
+      "path": "assets/images/cases/redminote8.png",
+      "sourcePath": "images/cases/redminote8.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 18231,
+      "hash": "973839f7"
     },
     {
       "name": "redminote8",
@@ -3594,6 +6384,16 @@
     },
     {
       "name": "redo",
+      "path": "assets/images/tinder/redo.png",
+      "sourcePath": "images/tinder/redo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 25522,
+      "hash": "e1df4160"
+    },
+    {
+      "name": "redo",
       "path": "assets/images/tinder/redo.webp",
       "sourcePath": "images/tinder/redo.webp",
       "category": "images",
@@ -3601,6 +6401,16 @@
       "kind": "image",
       "size": 5540,
       "hash": "d5744ada"
+    },
+    {
+      "name": "refuse",
+      "path": "assets/images/tinder/refuse.png",
+      "sourcePath": "images/tinder/refuse.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 41118,
+      "hash": "677f5886"
     },
     {
       "name": "refuse",
@@ -3614,6 +6424,16 @@
     },
     {
       "name": "relogio",
+      "path": "assets/images/img/apps/relogio.png",
+      "sourcePath": "images/img/apps/relogio.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1928,
+      "hash": "c595a93d"
+    },
+    {
+      "name": "relogio",
       "path": "assets/images/img/apps/relogio.webp",
       "sourcePath": "images/img/apps/relogio.webp",
       "category": "images",
@@ -3624,6 +6444,16 @@
     },
     {
       "name": "reporter",
+      "path": "assets/images/img/apps/reporter.png",
+      "sourcePath": "images/img/apps/reporter.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 19230,
+      "hash": "d1232d51"
+    },
+    {
+      "name": "reporter",
       "path": "assets/images/img/apps/reporter.webp",
       "sourcePath": "images/img/apps/reporter.webp",
       "category": "images",
@@ -3631,6 +6461,16 @@
       "kind": "image",
       "size": 8972,
       "hash": "49a8b731"
+    },
+    {
+      "name": "reporter",
+      "path": "assets/images/img/appstore/reporter.jpg",
+      "sourcePath": "images/img/appstore/reporter.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 21575,
+      "hash": "6ec53186"
     },
     {
       "name": "reporter",
@@ -3654,6 +6494,16 @@
     },
     {
       "name": "rose",
+      "path": "assets/images/backgrounds/newbg/rose.jpg",
+      "sourcePath": "images/backgrounds/newbg/rose.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 117877,
+      "hash": "9047cb2c"
+    },
+    {
+      "name": "rose",
       "path": "assets/images/backgrounds/newbg/rose.webp",
       "sourcePath": "images/backgrounds/newbg/rose.webp",
       "category": "backgrounds",
@@ -3664,6 +6514,16 @@
     },
     {
       "name": "rose2",
+      "path": "assets/images/backgrounds/newbg/rose2.jpg",
+      "sourcePath": "images/backgrounds/newbg/rose2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 131580,
+      "hash": "05f1c42f"
+    },
+    {
+      "name": "rose2",
       "path": "assets/images/backgrounds/newbg/rose2.webp",
       "sourcePath": "images/backgrounds/newbg/rose2.webp",
       "category": "backgrounds",
@@ -3671,6 +6531,16 @@
       "kind": "image",
       "size": 52722,
       "hash": "3bed7a6a"
+    },
+    {
+      "name": "rose3",
+      "path": "assets/images/backgrounds/newbg/rose3.jpg",
+      "sourcePath": "images/backgrounds/newbg/rose3.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 87773,
+      "hash": "06161e04"
     },
     {
       "name": "rose3",
@@ -3694,6 +6564,16 @@
     },
     {
       "name": "s20",
+      "path": "assets/images/cases/s20.png",
+      "sourcePath": "images/cases/s20.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 187355,
+      "hash": "93863b0a"
+    },
+    {
+      "name": "s20",
       "path": "assets/images/cases/s20.webp",
       "sourcePath": "images/cases/s20.webp",
       "category": "images",
@@ -3701,6 +6581,16 @@
       "kind": "image",
       "size": 29844,
       "hash": "2131a0fb"
+    },
+    {
+      "name": "s20b",
+      "path": "assets/images/cases/s20b.png",
+      "sourcePath": "images/cases/s20b.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29606,
+      "hash": "028e7137"
     },
     {
       "name": "s20b",
@@ -3714,6 +6604,16 @@
     },
     {
       "name": "s20black",
+      "path": "assets/images/cases/s20black.png",
+      "sourcePath": "images/cases/s20black.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 54348,
+      "hash": "3aba59b7"
+    },
+    {
+      "name": "s20black",
       "path": "assets/images/cases/s20black.webp",
       "sourcePath": "images/cases/s20black.webp",
       "category": "images",
@@ -3721,6 +6621,16 @@
       "kind": "image",
       "size": 13570,
       "hash": "806e6864"
+    },
+    {
+      "name": "s20cda",
+      "path": "assets/images/cases/s20cda.png",
+      "sourcePath": "images/cases/s20cda.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8579,
+      "hash": "2de8eb0f"
     },
     {
       "name": "s20cda",
@@ -3744,6 +6654,16 @@
     },
     {
       "name": "s9",
+      "path": "assets/images/cases/s9.png",
+      "sourcePath": "images/cases/s9.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 140284,
+      "hash": "be31b2c3"
+    },
+    {
+      "name": "s9",
       "path": "assets/images/cases/s9.webp",
       "sourcePath": "images/cases/s9.webp",
       "category": "images",
@@ -3751,6 +6671,16 @@
       "kind": "image",
       "size": 6660,
       "hash": "07c21865"
+    },
+    {
+      "name": "safari",
+      "path": "assets/images/img/apps/safari.png",
+      "sourcePath": "images/img/apps/safari.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 405971,
+      "hash": "defcc920"
     },
     {
       "name": "safari",
@@ -3764,6 +6694,16 @@
     },
     {
       "name": "safaribanner",
+      "path": "assets/images/img/appstore/safaribanner.jpg",
+      "sourcePath": "images/img/appstore/safaribanner.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 57555,
+      "hash": "8ce968b7"
+    },
+    {
+      "name": "safaribanner",
       "path": "assets/images/img/appstore/safaribanner.webp",
       "sourcePath": "images/img/appstore/safaribanner.webp",
       "category": "images",
@@ -3771,6 +6711,16 @@
       "kind": "image",
       "size": 24278,
       "hash": "e404f839"
+    },
+    {
+      "name": "search-white",
+      "path": "assets/images/icons/search-white.png",
+      "sourcePath": "images/icons/search-white.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 3031,
+      "hash": "1c30e22a"
     },
     {
       "name": "search-white",
@@ -3791,6 +6741,16 @@
       "kind": "image",
       "size": 554,
       "hash": "fb103cde"
+    },
+    {
+      "name": "semcarga",
+      "path": "assets/images/img/bateria/semcarga.jpg",
+      "sourcePath": "images/img/bateria/semcarga.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 26754,
+      "hash": "339cf07c"
     },
     {
       "name": "semcarga",
@@ -3824,6 +6784,16 @@
     },
     {
       "name": "settings",
+      "path": "assets/images/icons/settings.png",
+      "sourcePath": "images/icons/settings.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 22332,
+      "hash": "e2e80c75"
+    },
+    {
+      "name": "settings",
       "path": "assets/images/icons/settings.webp",
       "sourcePath": "images/icons/settings.webp",
       "category": "icons",
@@ -3844,6 +6814,16 @@
     },
     {
       "name": "SF-Pro-Display-Bold",
+      "path": "assets/fonts/SF-Pro-Display-Bold.otf",
+      "sourcePath": "fonts/SF-Pro-Display-Bold.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 379984,
+      "hash": "2c5fff56"
+    },
+    {
+      "name": "SF-Pro-Display-Bold",
       "path": "assets/images/fonts/SF-Pro-Display-Bold.otf",
       "sourcePath": "images/fonts/SF-Pro-Display-Bold.otf",
       "category": "fonts",
@@ -3851,6 +6831,16 @@
       "kind": "font",
       "size": 379984,
       "hash": "2c5fff56"
+    },
+    {
+      "name": "SF-Pro-Display-Regular",
+      "path": "assets/fonts/SF-Pro-Display-Regular.otf",
+      "sourcePath": "fonts/SF-Pro-Display-Regular.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 341940,
+      "hash": "2970aed3"
     },
     {
       "name": "SF-Pro-Display-Regular",
@@ -3864,6 +6854,16 @@
     },
     {
       "name": "SF-Pro-Display-Semibold",
+      "path": "assets/fonts/SF-Pro-Display-Semibold.otf",
+      "sourcePath": "fonts/SF-Pro-Display-Semibold.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 381776,
+      "hash": "80a1a964"
+    },
+    {
+      "name": "SF-Pro-Display-Semibold",
       "path": "assets/images/fonts/SF-Pro-Display-Semibold.otf",
       "sourcePath": "images/fonts/SF-Pro-Display-Semibold.otf",
       "category": "fonts",
@@ -3871,6 +6871,16 @@
       "kind": "font",
       "size": 381776,
       "hash": "80a1a964"
+    },
+    {
+      "name": "SF-Pro-Text-Bold",
+      "path": "assets/fonts/SF-Pro-Text-Bold.otf",
+      "sourcePath": "fonts/SF-Pro-Text-Bold.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 376192,
+      "hash": "e345a701"
     },
     {
       "name": "SF-Pro-Text-Bold",
@@ -3884,6 +6894,16 @@
     },
     {
       "name": "SF-Pro-Text-Light",
+      "path": "assets/fonts/SF-Pro-Text-Light.ttf",
+      "sourcePath": "fonts/SF-Pro-Text-Light.ttf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 453456,
+      "hash": "64bfb064"
+    },
+    {
+      "name": "SF-Pro-Text-Light",
       "path": "assets/images/fonts/SF-Pro-Text-Light.ttf",
       "sourcePath": "images/fonts/SF-Pro-Text-Light.ttf",
       "category": "fonts",
@@ -3891,6 +6911,16 @@
       "kind": "font",
       "size": 453456,
       "hash": "64bfb064"
+    },
+    {
+      "name": "SF-Pro-Text-Medium",
+      "path": "assets/fonts/SF-Pro-Text-Medium.otf",
+      "sourcePath": "fonts/SF-Pro-Text-Medium.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 377484,
+      "hash": "7c56e1ed"
     },
     {
       "name": "SF-Pro-Text-Medium",
@@ -3904,6 +6934,16 @@
     },
     {
       "name": "SF-Pro-Text-Regular",
+      "path": "assets/fonts/SF-Pro-Text-Regular.otf",
+      "sourcePath": "fonts/SF-Pro-Text-Regular.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 1646356,
+      "hash": "e93677de"
+    },
+    {
+      "name": "SF-Pro-Text-Regular",
       "path": "assets/images/fonts/SF-Pro-Text-Regular.otf",
       "sourcePath": "images/fonts/SF-Pro-Text-Regular.otf",
       "category": "fonts",
@@ -3914,6 +6954,16 @@
     },
     {
       "name": "SF-Pro-Text-Semibold",
+      "path": "assets/fonts/SF-Pro-Text-Semibold.otf",
+      "sourcePath": "fonts/SF-Pro-Text-Semibold.otf",
+      "category": "fonts",
+      "group": "fonts",
+      "kind": "font",
+      "size": 1713964,
+      "hash": "4b8aa2ed"
+    },
+    {
+      "name": "SF-Pro-Text-Semibold",
       "path": "assets/images/fonts/SF-Pro-Text-Semibold.otf",
       "sourcePath": "images/fonts/SF-Pro-Text-Semibold.otf",
       "category": "fonts",
@@ -3921,6 +6971,16 @@
       "kind": "font",
       "size": 1713964,
       "hash": "4b8aa2ed"
+    },
+    {
+      "name": "shopping-cart",
+      "path": "assets/images/icons/shopping-cart.png",
+      "sourcePath": "images/icons/shopping-cart.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1414,
+      "hash": "5ac59a98"
     },
     {
       "name": "shopping-cart",
@@ -3994,6 +7054,16 @@
     },
     {
       "name": "snote20",
+      "path": "assets/images/cases/snote20.png",
+      "sourcePath": "images/cases/snote20.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 78617,
+      "hash": "cfb1a472"
+    },
+    {
+      "name": "snote20",
       "path": "assets/images/cases/snote20.webp",
       "sourcePath": "images/cases/snote20.webp",
       "category": "images",
@@ -4001,6 +7071,16 @@
       "kind": "image",
       "size": 12428,
       "hash": "1a63072e"
+    },
+    {
+      "name": "som",
+      "path": "assets/images/img/definicoes/som.png",
+      "sourcePath": "images/img/definicoes/som.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9789,
+      "hash": "23c76f09"
     },
     {
       "name": "som",
@@ -4014,6 +7094,16 @@
     },
     {
       "name": "som-alarmes",
+      "path": "assets/images/img/definicoes/som-alarmes.png",
+      "sourcePath": "images/img/definicoes/som-alarmes.png",
+      "category": "audio",
+      "group": "images",
+      "kind": "image",
+      "size": 2932,
+      "hash": "5e49ead4"
+    },
+    {
+      "name": "som-alarmes",
       "path": "assets/images/img/definicoes/som-alarmes.webp",
       "sourcePath": "images/img/definicoes/som-alarmes.webp",
       "category": "audio",
@@ -4021,6 +7111,16 @@
       "kind": "image",
       "size": 1378,
       "hash": "c3865d86"
+    },
+    {
+      "name": "som-notifcacoes",
+      "path": "assets/images/img/definicoes/som-notifcacoes.png",
+      "sourcePath": "images/img/definicoes/som-notifcacoes.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3416,
+      "hash": "a717a760"
     },
     {
       "name": "som-notifcacoes",
@@ -4044,23 +7144,13 @@
     },
     {
       "name": "sound",
-      "path": "assets/images/img/sound.webp",
-      "sourcePath": "images/img/sound.webp",
-      "category": "images",
+      "path": "assets/images/img/sound.gif",
+      "sourcePath": "images/img/sound.gif",
+      "category": "gifs",
       "group": "images",
       "kind": "image",
-      "size": 572380,
-      "hash": "e92fd11c"
-    },
-    {
-      "name": "sound.test",
-      "path": "assets/images/img/sound.test.webp",
-      "sourcePath": "images/img/sound.test.webp",
-      "category": "images",
-      "group": "images",
-      "kind": "image",
-      "size": 657928,
-      "hash": "fee9e7ac"
+      "size": 777279,
+      "hash": "893dbb4b"
     },
     {
       "name": "speaker",
@@ -4084,13 +7174,23 @@
     },
     {
       "name": "spinner",
-      "path": "assets/images/img/sistema/spinner.webp",
-      "sourcePath": "images/img/sistema/spinner.webp",
+      "path": "assets/images/img/sistema/spinner.gif",
+      "sourcePath": "images/img/sistema/spinner.gif",
+      "category": "gifs",
+      "group": "images",
+      "kind": "image",
+      "size": 81572,
+      "hash": "67c4ed70"
+    },
+    {
+      "name": "spotify",
+      "path": "assets/images/img/apps/spotify.png",
+      "sourcePath": "images/img/apps/spotify.png",
       "category": "images",
       "group": "images",
       "kind": "image",
-      "size": 53446,
-      "hash": "341d163d"
+      "size": 4133,
+      "hash": "fccc2dad"
     },
     {
       "name": "spotify",
@@ -4104,6 +7204,16 @@
     },
     {
       "name": "spotify",
+      "path": "assets/images/img/appstore/spotify.jpg",
+      "sourcePath": "images/img/appstore/spotify.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 57466,
+      "hash": "176e26a8"
+    },
+    {
+      "name": "spotify",
       "path": "assets/images/img/appstore/spotify.webp",
       "sourcePath": "images/img/appstore/spotify.webp",
       "category": "images",
@@ -4111,6 +7221,16 @@
       "kind": "image",
       "size": 69246,
       "hash": "614b0253"
+    },
+    {
+      "name": "star",
+      "path": "assets/images/tinder/star.png",
+      "sourcePath": "images/tinder/star.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37159,
+      "hash": "4082363f"
     },
     {
       "name": "star",
@@ -4134,6 +7254,16 @@
     },
     {
       "name": "stocks",
+      "path": "assets/images/icons/stocks.png",
+      "sourcePath": "images/icons/stocks.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 9747,
+      "hash": "80caee74"
+    },
+    {
+      "name": "stocks",
       "path": "assets/images/icons/stocks.webp",
       "sourcePath": "images/icons/stocks.webp",
       "category": "icons",
@@ -4141,6 +7271,16 @@
       "kind": "image",
       "size": 1682,
       "hash": "6a8891b8"
+    },
+    {
+      "name": "storage",
+      "path": "assets/images/img/definicoes/storage.png",
+      "sourcePath": "images/img/definicoes/storage.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 4445,
+      "hash": "c1108ee6"
     },
     {
       "name": "storage",
@@ -4164,6 +7304,16 @@
     },
     {
       "name": "switch_camera",
+      "path": "assets/images/icons/switch_camera.png",
+      "sourcePath": "images/icons/switch_camera.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 1466,
+      "hash": "ee06c8c6"
+    },
+    {
+      "name": "switch_camera",
       "path": "assets/images/icons/switch_camera.webp",
       "sourcePath": "images/icons/switch_camera.webp",
       "category": "icons",
@@ -4171,6 +7321,16 @@
       "kind": "image",
       "size": 742,
       "hash": "2cd004f9"
+    },
+    {
+      "name": "system_calendar",
+      "path": "assets/images/calendary/system_calendar.png",
+      "sourcePath": "images/calendary/system_calendar.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1789,
+      "hash": "cf0d7523"
     },
     {
       "name": "system_calendar",
@@ -4184,6 +7344,16 @@
     },
     {
       "name": "system_calendar_1",
+      "path": "assets/images/calendary/system_calendar_1.png",
+      "sourcePath": "images/calendary/system_calendar_1.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1767,
+      "hash": "9e0c857f"
+    },
+    {
+      "name": "system_calendar_1",
       "path": "assets/images/calendary/system_calendar_1.webp",
       "sourcePath": "images/calendary/system_calendar_1.webp",
       "category": "images",
@@ -4191,6 +7361,16 @@
       "kind": "image",
       "size": 2058,
       "hash": "4ca4a118"
+    },
+    {
+      "name": "system_calendar_10",
+      "path": "assets/images/calendary/system_calendar_10.png",
+      "sourcePath": "images/calendary/system_calendar_10.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1815,
+      "hash": "b75d0045"
     },
     {
       "name": "system_calendar_10",
@@ -4204,6 +7384,16 @@
     },
     {
       "name": "system_calendar_11",
+      "path": "assets/images/calendary/system_calendar_11.png",
+      "sourcePath": "images/calendary/system_calendar_11.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1270,
+      "hash": "13962336"
+    },
+    {
+      "name": "system_calendar_11",
       "path": "assets/images/calendary/system_calendar_11.webp",
       "sourcePath": "images/calendary/system_calendar_11.webp",
       "category": "images",
@@ -4211,6 +7401,16 @@
       "kind": "image",
       "size": 1476,
       "hash": "58b8bc83"
+    },
+    {
+      "name": "system_calendar_12",
+      "path": "assets/images/calendary/system_calendar_12.png",
+      "sourcePath": "images/calendary/system_calendar_12.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1731,
+      "hash": "60208a68"
     },
     {
       "name": "system_calendar_12",
@@ -4224,6 +7424,16 @@
     },
     {
       "name": "system_calendar_13",
+      "path": "assets/images/calendary/system_calendar_13.png",
+      "sourcePath": "images/calendary/system_calendar_13.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1851,
+      "hash": "a80f42d3"
+    },
+    {
+      "name": "system_calendar_13",
       "path": "assets/images/calendary/system_calendar_13.webp",
       "sourcePath": "images/calendary/system_calendar_13.webp",
       "category": "images",
@@ -4231,6 +7441,16 @@
       "kind": "image",
       "size": 2326,
       "hash": "3f271f0c"
+    },
+    {
+      "name": "system_calendar_14",
+      "path": "assets/images/calendary/system_calendar_14.png",
+      "sourcePath": "images/calendary/system_calendar_14.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1469,
+      "hash": "e4a558b0"
     },
     {
       "name": "system_calendar_14",
@@ -4244,6 +7464,16 @@
     },
     {
       "name": "system_calendar_15",
+      "path": "assets/images/calendary/system_calendar_15.png",
+      "sourcePath": "images/calendary/system_calendar_15.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1801,
+      "hash": "7cffe97f"
+    },
+    {
+      "name": "system_calendar_15",
       "path": "assets/images/calendary/system_calendar_15.webp",
       "sourcePath": "images/calendary/system_calendar_15.webp",
       "category": "images",
@@ -4251,6 +7481,16 @@
       "kind": "image",
       "size": 2168,
       "hash": "e91ec4b3"
+    },
+    {
+      "name": "system_calendar_16",
+      "path": "assets/images/calendary/system_calendar_16.png",
+      "sourcePath": "images/calendary/system_calendar_16.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1940,
+      "hash": "e5e87671"
     },
     {
       "name": "system_calendar_16",
@@ -4264,6 +7504,16 @@
     },
     {
       "name": "system_calendar_17",
+      "path": "assets/images/calendary/system_calendar_17.png",
+      "sourcePath": "images/calendary/system_calendar_17.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1550,
+      "hash": "97244895"
+    },
+    {
+      "name": "system_calendar_17",
       "path": "assets/images/calendary/system_calendar_17.webp",
       "sourcePath": "images/calendary/system_calendar_17.webp",
       "category": "images",
@@ -4271,6 +7521,16 @@
       "kind": "image",
       "size": 1854,
       "hash": "815ae8a4"
+    },
+    {
+      "name": "system_calendar_18",
+      "path": "assets/images/calendary/system_calendar_18.png",
+      "sourcePath": "images/calendary/system_calendar_18.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1914,
+      "hash": "2c383932"
     },
     {
       "name": "system_calendar_18",
@@ -4284,6 +7544,16 @@
     },
     {
       "name": "system_calendar_19",
+      "path": "assets/images/calendary/system_calendar_19.png",
+      "sourcePath": "images/calendary/system_calendar_19.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1861,
+      "hash": "c49a7027"
+    },
+    {
+      "name": "system_calendar_19",
       "path": "assets/images/calendary/system_calendar_19.webp",
       "sourcePath": "images/calendary/system_calendar_19.webp",
       "category": "images",
@@ -4291,6 +7561,16 @@
       "kind": "image",
       "size": 2342,
       "hash": "fb644f5c"
+    },
+    {
+      "name": "system_calendar_2",
+      "path": "assets/images/calendary/system_calendar_2.png",
+      "sourcePath": "images/calendary/system_calendar_2.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2052,
+      "hash": "ffc86bf4"
     },
     {
       "name": "system_calendar_2",
@@ -4304,6 +7584,16 @@
     },
     {
       "name": "system_calendar_20",
+      "path": "assets/images/calendary/system_calendar_20.png",
+      "sourcePath": "images/calendary/system_calendar_20.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2014,
+      "hash": "3962863f"
+    },
+    {
+      "name": "system_calendar_20",
       "path": "assets/images/calendary/system_calendar_20.webp",
       "sourcePath": "images/calendary/system_calendar_20.webp",
       "category": "images",
@@ -4311,6 +7601,16 @@
       "kind": "image",
       "size": 2884,
       "hash": "376165e1"
+    },
+    {
+      "name": "system_calendar_21",
+      "path": "assets/images/calendary/system_calendar_21.png",
+      "sourcePath": "images/calendary/system_calendar_21.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1698,
+      "hash": "5a82c6dc"
     },
     {
       "name": "system_calendar_21",
@@ -4324,6 +7624,16 @@
     },
     {
       "name": "system_calendar_22",
+      "path": "assets/images/calendary/system_calendar_22.png",
+      "sourcePath": "images/calendary/system_calendar_22.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1905,
+      "hash": "aa96deb4"
+    },
+    {
+      "name": "system_calendar_22",
       "path": "assets/images/calendary/system_calendar_22.webp",
       "sourcePath": "images/calendary/system_calendar_22.webp",
       "category": "images",
@@ -4331,6 +7641,16 @@
       "kind": "image",
       "size": 2458,
       "hash": "69b02e11"
+    },
+    {
+      "name": "system_calendar_23",
+      "path": "assets/images/calendary/system_calendar_23.png",
+      "sourcePath": "images/calendary/system_calendar_23.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2077,
+      "hash": "2c88112d"
     },
     {
       "name": "system_calendar_23",
@@ -4344,6 +7664,16 @@
     },
     {
       "name": "system_calendar_24",
+      "path": "assets/images/calendary/system_calendar_24.png",
+      "sourcePath": "images/calendary/system_calendar_24.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1817,
+      "hash": "107968c2"
+    },
+    {
+      "name": "system_calendar_24",
       "path": "assets/images/calendary/system_calendar_24.webp",
       "sourcePath": "images/calendary/system_calendar_24.webp",
       "category": "images",
@@ -4351,6 +7681,16 @@
       "kind": "image",
       "size": 2194,
       "hash": "532d3caf"
+    },
+    {
+      "name": "system_calendar_25",
+      "path": "assets/images/calendary/system_calendar_25.png",
+      "sourcePath": "images/calendary/system_calendar_25.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2132,
+      "hash": "877e4cbb"
     },
     {
       "name": "system_calendar_25",
@@ -4364,6 +7704,16 @@
     },
     {
       "name": "system_calendar_26",
+      "path": "assets/images/calendary/system_calendar_26.png",
+      "sourcePath": "images/calendary/system_calendar_26.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2207,
+      "hash": "cb272846"
+    },
+    {
+      "name": "system_calendar_26",
       "path": "assets/images/calendary/system_calendar_26.webp",
       "sourcePath": "images/calendary/system_calendar_26.webp",
       "category": "images",
@@ -4371,6 +7721,16 @@
       "kind": "image",
       "size": 2924,
       "hash": "28566069"
+    },
+    {
+      "name": "system_calendar_27",
+      "path": "assets/images/calendary/system_calendar_27.png",
+      "sourcePath": "images/calendary/system_calendar_27.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1862,
+      "hash": "c4e7ca51"
     },
     {
       "name": "system_calendar_27",
@@ -4384,6 +7744,16 @@
     },
     {
       "name": "system_calendar_28",
+      "path": "assets/images/calendary/system_calendar_28.png",
+      "sourcePath": "images/calendary/system_calendar_28.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2177,
+      "hash": "a9362448"
+    },
+    {
+      "name": "system_calendar_28",
       "path": "assets/images/calendary/system_calendar_28.webp",
       "sourcePath": "images/calendary/system_calendar_28.webp",
       "category": "images",
@@ -4391,6 +7761,16 @@
       "kind": "image",
       "size": 2996,
       "hash": "a24d8bb9"
+    },
+    {
+      "name": "system_calendar_29",
+      "path": "assets/images/calendary/system_calendar_29.png",
+      "sourcePath": "images/calendary/system_calendar_29.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2092,
+      "hash": "38a56e4f"
     },
     {
       "name": "system_calendar_29",
@@ -4404,6 +7784,16 @@
     },
     {
       "name": "system_calendar_3",
+      "path": "assets/images/calendary/system_calendar_3.png",
+      "sourcePath": "images/calendary/system_calendar_3.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2143,
+      "hash": "b264f816"
+    },
+    {
+      "name": "system_calendar_3",
       "path": "assets/images/calendary/system_calendar_3.webp",
       "sourcePath": "images/calendary/system_calendar_3.webp",
       "category": "images",
@@ -4411,6 +7801,16 @@
       "kind": "image",
       "size": 2790,
       "hash": "cc31b6d9"
+    },
+    {
+      "name": "system_calendar_30",
+      "path": "assets/images/calendary/system_calendar_30.png",
+      "sourcePath": "images/calendary/system_calendar_30.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2093,
+      "hash": "f8117d17"
     },
     {
       "name": "system_calendar_30",
@@ -4424,6 +7824,16 @@
     },
     {
       "name": "system_calendar_31",
+      "path": "assets/images/calendary/system_calendar_31.png",
+      "sourcePath": "images/calendary/system_calendar_31.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1812,
+      "hash": "3d8be80e"
+    },
+    {
+      "name": "system_calendar_31",
       "path": "assets/images/calendary/system_calendar_31.webp",
       "sourcePath": "images/calendary/system_calendar_31.webp",
       "category": "images",
@@ -4431,6 +7841,16 @@
       "kind": "image",
       "size": 2174,
       "hash": "d8ea9f88"
+    },
+    {
+      "name": "system_calendar_4",
+      "path": "assets/images/calendary/system_calendar_4.png",
+      "sourcePath": "images/calendary/system_calendar_4.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1905,
+      "hash": "00cda31d"
     },
     {
       "name": "system_calendar_4",
@@ -4444,6 +7864,16 @@
     },
     {
       "name": "system_calendar_5",
+      "path": "assets/images/calendary/system_calendar_5.png",
+      "sourcePath": "images/calendary/system_calendar_5.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2187,
+      "hash": "a24dbc5c"
+    },
+    {
+      "name": "system_calendar_5",
       "path": "assets/images/calendary/system_calendar_5.webp",
       "sourcePath": "images/calendary/system_calendar_5.webp",
       "category": "images",
@@ -4451,6 +7881,16 @@
       "kind": "image",
       "size": 2946,
       "hash": "e9ae69de"
+    },
+    {
+      "name": "system_calendar_6",
+      "path": "assets/images/calendary/system_calendar_6.png",
+      "sourcePath": "images/calendary/system_calendar_6.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2301,
+      "hash": "1c6d7de2"
     },
     {
       "name": "system_calendar_6",
@@ -4464,6 +7904,16 @@
     },
     {
       "name": "system_calendar_7",
+      "path": "assets/images/calendary/system_calendar_7.png",
+      "sourcePath": "images/calendary/system_calendar_7.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1958,
+      "hash": "8ee5e931"
+    },
+    {
+      "name": "system_calendar_7",
       "path": "assets/images/calendary/system_calendar_7.webp",
       "sourcePath": "images/calendary/system_calendar_7.webp",
       "category": "images",
@@ -4474,6 +7924,16 @@
     },
     {
       "name": "system_calendar_8",
+      "path": "assets/images/calendary/system_calendar_8.png",
+      "sourcePath": "images/calendary/system_calendar_8.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2190,
+      "hash": "d7eb27ba"
+    },
+    {
+      "name": "system_calendar_8",
       "path": "assets/images/calendary/system_calendar_8.webp",
       "sourcePath": "images/calendary/system_calendar_8.webp",
       "category": "images",
@@ -4481,6 +7941,16 @@
       "kind": "image",
       "size": 2916,
       "hash": "d4d38917"
+    },
+    {
+      "name": "system_calendar_9",
+      "path": "assets/images/calendary/system_calendar_9.png",
+      "sourcePath": "images/calendary/system_calendar_9.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2158,
+      "hash": "4837d6fb"
     },
     {
       "name": "system_calendar_9",
@@ -4504,6 +7974,16 @@
     },
     {
       "name": "taxi",
+      "path": "assets/images/contacts-photo/taxi.png",
+      "sourcePath": "images/contacts-photo/taxi.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 24662,
+      "hash": "ee21b3f8"
+    },
+    {
+      "name": "taxi",
       "path": "assets/images/contacts-photo/taxi.webp",
       "sourcePath": "images/contacts-photo/taxi.webp",
       "category": "images",
@@ -4511,6 +7991,16 @@
       "kind": "image",
       "size": 7238,
       "hash": "5ec6f596"
+    },
+    {
+      "name": "tecnologia",
+      "path": "assets/images/img/olx/tecnologia.png",
+      "sourcePath": "images/img/olx/tecnologia.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3558,
+      "hash": "a6ed14e7"
     },
     {
       "name": "tecnologia",
@@ -4524,6 +8014,16 @@
     },
     {
       "name": "temas",
+      "path": "assets/images/img/definicoes/temas.png",
+      "sourcePath": "images/img/definicoes/temas.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 83962,
+      "hash": "a19f8645"
+    },
+    {
+      "name": "temas",
       "path": "assets/images/img/definicoes/temas.webp",
       "sourcePath": "images/img/definicoes/temas.webp",
       "category": "images",
@@ -4534,6 +8034,16 @@
     },
     {
       "name": "tempo",
+      "path": "assets/images/img/apps/tempo.png",
+      "sourcePath": "images/img/apps/tempo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1848,
+      "hash": "34bae713"
+    },
+    {
+      "name": "tempo",
       "path": "assets/images/img/apps/tempo.webp",
       "sourcePath": "images/img/apps/tempo.webp",
       "category": "images",
@@ -4541,6 +8051,16 @@
       "kind": "image",
       "size": 1430,
       "hash": "b780ee7e"
+    },
+    {
+      "name": "threads",
+      "path": "assets/images/icons/threads.png",
+      "sourcePath": "images/icons/threads.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 149153,
+      "hash": "132a1830"
     },
     {
       "name": "threads",
@@ -4564,6 +8084,16 @@
     },
     {
       "name": "thunder",
+      "path": "assets/images/backgrounds/newbg/thunder.jpg",
+      "sourcePath": "images/backgrounds/newbg/thunder.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 16681,
+      "hash": "0ec4c5f3"
+    },
+    {
+      "name": "thunder",
       "path": "assets/images/backgrounds/newbg/thunder.webp",
       "sourcePath": "images/backgrounds/newbg/thunder.webp",
       "category": "backgrounds",
@@ -4571,6 +8101,16 @@
       "kind": "image",
       "size": 5240,
       "hash": "6a6d683b"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/icons/tiktok.png",
+      "sourcePath": "images/icons/tiktok.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 7365,
+      "hash": "f2b570e2"
     },
     {
       "name": "tiktok",
@@ -4594,6 +8134,16 @@
     },
     {
       "name": "tiktok",
+      "path": "assets/images/img/apps/tiktok.png",
+      "sourcePath": "images/img/apps/tiktok.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 28991,
+      "hash": "9d282a6b"
+    },
+    {
+      "name": "tiktok",
       "path": "assets/images/img/apps/tiktok.webp",
       "sourcePath": "images/img/apps/tiktok.webp",
       "category": "images",
@@ -4601,6 +8151,16 @@
       "kind": "image",
       "size": 6432,
       "hash": "f6a7f87d"
+    },
+    {
+      "name": "tiktok",
+      "path": "assets/images/img/appstore/tiktok.jpg",
+      "sourcePath": "images/img/appstore/tiktok.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 95781,
+      "hash": "fc4b206f"
     },
     {
       "name": "tiktok",
@@ -4614,6 +8174,16 @@
     },
     {
       "name": "tiktok_layer",
+      "path": "assets/images/img/tiktok/tiktok_layer.png",
+      "sourcePath": "images/img/tiktok/tiktok_layer.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 29642,
+      "hash": "92cb8bcb"
+    },
+    {
+      "name": "tiktok_layer",
       "path": "assets/images/img/tiktok/tiktok_layer.webp",
       "sourcePath": "images/img/tiktok/tiktok_layer.webp",
       "category": "images",
@@ -4621,6 +8191,16 @@
       "kind": "image",
       "size": 10226,
       "hash": "e859441f"
+    },
+    {
+      "name": "tiktokPost",
+      "path": "assets/images/img/tiktok/tiktokPost.png",
+      "sourcePath": "images/img/tiktok/tiktokPost.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 6985,
+      "hash": "bb3ab987"
     },
     {
       "name": "tiktokPost",
@@ -4634,6 +8214,16 @@
     },
     {
       "name": "tiktokPost_Light",
+      "path": "assets/images/img/tiktok/tiktokPost_Light.png",
+      "sourcePath": "images/img/tiktok/tiktokPost_Light.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 3590,
+      "hash": "3d9ed905"
+    },
+    {
+      "name": "tiktokPost_Light",
       "path": "assets/images/img/tiktok/tiktokPost_Light.webp",
       "sourcePath": "images/img/tiktok/tiktokPost_Light.webp",
       "category": "images",
@@ -4641,6 +8231,16 @@
       "kind": "image",
       "size": 1306,
       "hash": "b02dffc8"
+    },
+    {
+      "name": "tinder",
+      "path": "assets/images/icons/tinder.png",
+      "sourcePath": "images/icons/tinder.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 14394,
+      "hash": "7372aca7"
     },
     {
       "name": "tinder",
@@ -4654,6 +8254,16 @@
     },
     {
       "name": "tinder",
+      "path": "assets/images/img/apps/tinder.png",
+      "sourcePath": "images/img/apps/tinder.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 55697,
+      "hash": "54279560"
+    },
+    {
+      "name": "tinder",
       "path": "assets/images/img/apps/tinder.webp",
       "sourcePath": "images/img/apps/tinder.webp",
       "category": "images",
@@ -4661,6 +8271,16 @@
       "kind": "image",
       "size": 7254,
       "hash": "00ae2bba"
+    },
+    {
+      "name": "tinder",
+      "path": "assets/images/img/appstore/tinder.jpg",
+      "sourcePath": "images/img/appstore/tinder.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 72185,
+      "hash": "969aa4bd"
     },
     {
       "name": "tinder",
@@ -4674,6 +8294,16 @@
     },
     {
       "name": "tombrunner",
+      "path": "assets/images/img/apps/tombrunner.png",
+      "sourcePath": "images/img/apps/tombrunner.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 277228,
+      "hash": "a6d8e6c1"
+    },
+    {
+      "name": "tombrunner",
       "path": "assets/images/img/apps/tombrunner.webp",
       "sourcePath": "images/img/apps/tombrunner.webp",
       "category": "images",
@@ -4681,6 +8311,16 @@
       "kind": "image",
       "size": 25802,
       "hash": "27a310cc"
+    },
+    {
+      "name": "tombrunner",
+      "path": "assets/images/img/appstore/tombrunner.jpg",
+      "sourcePath": "images/img/appstore/tombrunner.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 97549,
+      "hash": "a88a39a6"
     },
     {
       "name": "tombrunner",
@@ -4714,6 +8354,16 @@
     },
     {
       "name": "twitter",
+      "path": "assets/images/icons/twitter.png",
+      "sourcePath": "images/icons/twitter.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 5970,
+      "hash": "ae15f720"
+    },
+    {
+      "name": "twitter",
       "path": "assets/images/icons/twitter.webp",
       "sourcePath": "images/icons/twitter.webp",
       "category": "icons",
@@ -4721,6 +8371,16 @@
       "kind": "image",
       "size": 1314,
       "hash": "48db7614"
+    },
+    {
+      "name": "twitter",
+      "path": "assets/images/img/apps/twitter.png",
+      "sourcePath": "images/img/apps/twitter.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1247,
+      "hash": "c012411e"
     },
     {
       "name": "twitter",
@@ -4734,6 +8394,16 @@
     },
     {
       "name": "twitter",
+      "path": "assets/images/img/appstore/twitter.jpg",
+      "sourcePath": "images/img/appstore/twitter.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 281333,
+      "hash": "a9fd22ae"
+    },
+    {
+      "name": "twitter",
       "path": "assets/images/img/appstore/twitter.webp",
       "sourcePath": "images/img/appstore/twitter.webp",
       "category": "images",
@@ -4741,6 +8411,16 @@
       "kind": "image",
       "size": 142784,
       "hash": "54a76cf0"
+    },
+    {
+      "name": "ubereats",
+      "path": "assets/images/img/apps/ubereats.png",
+      "sourcePath": "images/img/apps/ubereats.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8498,
+      "hash": "ca4776c7"
     },
     {
       "name": "ubereats",
@@ -4754,6 +8434,16 @@
     },
     {
       "name": "ubereats",
+      "path": "assets/images/img/appstore/ubereats.jpg",
+      "sourcePath": "images/img/appstore/ubereats.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 53488,
+      "hash": "74cd862c"
+    },
+    {
+      "name": "ubereats",
       "path": "assets/images/img/appstore/ubereats.webp",
       "sourcePath": "images/img/appstore/ubereats.webp",
       "category": "images",
@@ -4761,6 +8451,16 @@
       "kind": "image",
       "size": 28932,
       "hash": "03c10252"
+    },
+    {
+      "name": "underwater",
+      "path": "assets/images/backgrounds/newbg/underwater.jpg",
+      "sourcePath": "images/backgrounds/newbg/underwater.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 148946,
+      "hash": "e8f1f197"
     },
     {
       "name": "underwater",
@@ -4774,6 +8474,16 @@
     },
     {
       "name": "unknown",
+      "path": "assets/images/icons/unknown.png",
+      "sourcePath": "images/icons/unknown.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 724,
+      "hash": "0ddd82b1"
+    },
+    {
+      "name": "unknown",
       "path": "assets/images/icons/unknown.webp",
       "sourcePath": "images/icons/unknown.webp",
       "category": "icons",
@@ -4781,6 +8491,16 @@
       "kind": "image",
       "size": 274,
       "hash": "86c12208"
+    },
+    {
+      "name": "unkown",
+      "path": "assets/images/icons/unkown.png",
+      "sourcePath": "images/icons/unkown.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 25609,
+      "hash": "bb9edd41"
     },
     {
       "name": "unkown",
@@ -4814,6 +8534,16 @@
     },
     {
       "name": "user",
+      "path": "assets/images/tinder/user.png",
+      "sourcePath": "images/tinder/user.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 37358,
+      "hash": "475bfe92"
+    },
+    {
+      "name": "user",
       "path": "assets/images/tinder/user.webp",
       "sourcePath": "images/tinder/user.webp",
       "category": "images",
@@ -4834,6 +8564,16 @@
     },
     {
       "name": "vehicle",
+      "path": "assets/images/img/mdt/vehicle.png",
+      "sourcePath": "images/img/mdt/vehicle.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12534,
+      "hash": "40e395d7"
+    },
+    {
+      "name": "vehicle",
       "path": "assets/images/img/mdt/vehicle.webp",
       "sourcePath": "images/img/mdt/vehicle.webp",
       "category": "images",
@@ -4841,6 +8581,16 @@
       "kind": "image",
       "size": 2162,
       "hash": "3b257b16"
+    },
+    {
+      "name": "veiculos",
+      "path": "assets/images/img/olx/veiculos.png",
+      "sourcePath": "images/img/olx/veiculos.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 8418,
+      "hash": "56f4b600"
     },
     {
       "name": "veiculos",
@@ -4854,6 +8604,16 @@
     },
     {
       "name": "verificado",
+      "path": "assets/images/img/twitter/verificado.png",
+      "sourcePath": "images/img/twitter/verificado.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 58970,
+      "hash": "4e725377"
+    },
+    {
+      "name": "verificado",
       "path": "assets/images/img/twitter/verificado.webp",
       "sourcePath": "images/img/twitter/verificado.webp",
       "category": "images",
@@ -4864,6 +8624,16 @@
     },
     {
       "name": "verified",
+      "path": "assets/images/img/tiktok/verified.png",
+      "sourcePath": "images/img/tiktok/verified.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 12445,
+      "hash": "621a1fd2"
+    },
+    {
+      "name": "verified",
       "path": "assets/images/img/tiktok/verified.webp",
       "sourcePath": "images/img/tiktok/verified.webp",
       "category": "images",
@@ -4871,6 +8641,16 @@
       "kind": "image",
       "size": 6010,
       "hash": "fcf144d6"
+    },
+    {
+      "name": "viaverde",
+      "path": "assets/images/img/appstore/viaverde.jpg",
+      "sourcePath": "images/img/appstore/viaverde.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 208998,
+      "hash": "2173e56d"
     },
     {
       "name": "viaverde",
@@ -5044,6 +8824,16 @@
     },
     {
       "name": "VoiceMemo",
+      "path": "assets/images/icons/VoiceMemo.jpg",
+      "sourcePath": "images/icons/VoiceMemo.jpg",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 16815,
+      "hash": "d8406e59"
+    },
+    {
+      "name": "VoiceMemo",
       "path": "assets/images/icons/VoiceMemo.webp",
       "sourcePath": "images/icons/VoiceMemo.webp",
       "category": "icons",
@@ -5051,6 +8841,16 @@
       "kind": "image",
       "size": 892,
       "hash": "1c3eaf94"
+    },
+    {
+      "name": "wallet",
+      "path": "assets/images/icons/wallet.png",
+      "sourcePath": "images/icons/wallet.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 3557,
+      "hash": "161db687"
     },
     {
       "name": "wallet",
@@ -5064,6 +8864,16 @@
     },
     {
       "name": "wallet",
+      "path": "assets/images/img/appsimessage/wallet.png",
+      "sourcePath": "images/img/appsimessage/wallet.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2713,
+      "hash": "ec555a19"
+    },
+    {
+      "name": "wallet",
       "path": "assets/images/img/appsimessage/wallet.webp",
       "sourcePath": "images/img/appsimessage/wallet.webp",
       "category": "images",
@@ -5071,6 +8881,16 @@
       "kind": "image",
       "size": 852,
       "hash": "2e8b39e3"
+    },
+    {
+      "name": "wallpaper",
+      "path": "assets/images/backgrounds/newbg/wallpaper.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 62344,
+      "hash": "f01a1451"
     },
     {
       "name": "wallpaper",
@@ -5084,6 +8904,16 @@
     },
     {
       "name": "wallpaper10",
+      "path": "assets/images/backgrounds/newbg/wallpaper10.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper10.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 76082,
+      "hash": "ff412635"
+    },
+    {
+      "name": "wallpaper10",
       "path": "assets/images/backgrounds/newbg/wallpaper10.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper10.webp",
       "category": "backgrounds",
@@ -5091,6 +8921,16 @@
       "kind": "image",
       "size": 22224,
       "hash": "0db50ce6"
+    },
+    {
+      "name": "wallpaper11",
+      "path": "assets/images/backgrounds/newbg/wallpaper11.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper11.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 78442,
+      "hash": "d743e369"
     },
     {
       "name": "wallpaper11",
@@ -5104,6 +8944,16 @@
     },
     {
       "name": "wallpaper12",
+      "path": "assets/images/backgrounds/newbg/wallpaper12.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper12.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 62613,
+      "hash": "6ad0fff3"
+    },
+    {
+      "name": "wallpaper12",
       "path": "assets/images/backgrounds/newbg/wallpaper12.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper12.webp",
       "category": "backgrounds",
@@ -5111,6 +8961,16 @@
       "kind": "image",
       "size": 16752,
       "hash": "8fd58e4f"
+    },
+    {
+      "name": "wallpaper13",
+      "path": "assets/images/backgrounds/newbg/wallpaper13.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper13.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 35553,
+      "hash": "eb6f064d"
     },
     {
       "name": "wallpaper13",
@@ -5124,6 +8984,16 @@
     },
     {
       "name": "wallpaper14",
+      "path": "assets/images/backgrounds/newbg/wallpaper14.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper14.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 68528,
+      "hash": "d457768a"
+    },
+    {
+      "name": "wallpaper14",
       "path": "assets/images/backgrounds/newbg/wallpaper14.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper14.webp",
       "category": "backgrounds",
@@ -5131,6 +9001,16 @@
       "kind": "image",
       "size": 15548,
       "hash": "2293288f"
+    },
+    {
+      "name": "wallpaper15",
+      "path": "assets/images/backgrounds/newbg/wallpaper15.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper15.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 37949,
+      "hash": "918dfc8e"
     },
     {
       "name": "wallpaper15",
@@ -5144,6 +9024,16 @@
     },
     {
       "name": "wallpaper16",
+      "path": "assets/images/backgrounds/newbg/wallpaper16.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper16.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 74725,
+      "hash": "abd932c7"
+    },
+    {
+      "name": "wallpaper16",
       "path": "assets/images/backgrounds/newbg/wallpaper16.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper16.webp",
       "category": "backgrounds",
@@ -5151,6 +9041,16 @@
       "kind": "image",
       "size": 24448,
       "hash": "bd14e3d3"
+    },
+    {
+      "name": "wallpaper17",
+      "path": "assets/images/backgrounds/newbg/wallpaper17.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper17.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 58850,
+      "hash": "7a2674d4"
     },
     {
       "name": "wallpaper17",
@@ -5164,6 +9064,16 @@
     },
     {
       "name": "wallpaper18",
+      "path": "assets/images/backgrounds/newbg/wallpaper18.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper18.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 41530,
+      "hash": "8ba32969"
+    },
+    {
+      "name": "wallpaper18",
       "path": "assets/images/backgrounds/newbg/wallpaper18.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper18.webp",
       "category": "backgrounds",
@@ -5171,6 +9081,16 @@
       "kind": "image",
       "size": 13018,
       "hash": "6ffcea60"
+    },
+    {
+      "name": "wallpaper19",
+      "path": "assets/images/backgrounds/newbg/wallpaper19.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper19.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 76242,
+      "hash": "b09113aa"
     },
     {
       "name": "wallpaper19",
@@ -5184,6 +9104,16 @@
     },
     {
       "name": "wallpaper2",
+      "path": "assets/images/backgrounds/newbg/wallpaper2.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 85106,
+      "hash": "ba9434e1"
+    },
+    {
+      "name": "wallpaper2",
       "path": "assets/images/backgrounds/newbg/wallpaper2.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper2.webp",
       "category": "backgrounds",
@@ -5191,6 +9121,16 @@
       "kind": "image",
       "size": 31122,
       "hash": "4b870512"
+    },
+    {
+      "name": "wallpaper20",
+      "path": "assets/images/backgrounds/newbg/wallpaper20.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper20.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 36345,
+      "hash": "8e7add3d"
     },
     {
       "name": "wallpaper20",
@@ -5204,6 +9144,16 @@
     },
     {
       "name": "wallpaper21",
+      "path": "assets/images/backgrounds/newbg/wallpaper21.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper21.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 39638,
+      "hash": "39840604"
+    },
+    {
+      "name": "wallpaper21",
       "path": "assets/images/backgrounds/newbg/wallpaper21.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper21.webp",
       "category": "backgrounds",
@@ -5211,6 +9161,16 @@
       "kind": "image",
       "size": 11186,
       "hash": "6cee0162"
+    },
+    {
+      "name": "wallpaper3",
+      "path": "assets/images/backgrounds/newbg/wallpaper3.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper3.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 45425,
+      "hash": "33d9530d"
     },
     {
       "name": "wallpaper3",
@@ -5224,6 +9184,16 @@
     },
     {
       "name": "wallpaper4",
+      "path": "assets/images/backgrounds/newbg/wallpaper4.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper4.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 45591,
+      "hash": "51a068a7"
+    },
+    {
+      "name": "wallpaper4",
       "path": "assets/images/backgrounds/newbg/wallpaper4.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper4.webp",
       "category": "backgrounds",
@@ -5231,6 +9201,16 @@
       "kind": "image",
       "size": 13326,
       "hash": "c5e8e69e"
+    },
+    {
+      "name": "wallpaper5",
+      "path": "assets/images/backgrounds/newbg/wallpaper5.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper5.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 89829,
+      "hash": "29a1acc0"
     },
     {
       "name": "wallpaper5",
@@ -5244,6 +9224,16 @@
     },
     {
       "name": "wallpaper6",
+      "path": "assets/images/backgrounds/newbg/wallpaper6.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper6.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 94431,
+      "hash": "668a16cf"
+    },
+    {
+      "name": "wallpaper6",
       "path": "assets/images/backgrounds/newbg/wallpaper6.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper6.webp",
       "category": "backgrounds",
@@ -5251,6 +9241,16 @@
       "kind": "image",
       "size": 28178,
       "hash": "328a6266"
+    },
+    {
+      "name": "wallpaper7",
+      "path": "assets/images/backgrounds/newbg/wallpaper7.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper7.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 88573,
+      "hash": "30ea3158"
     },
     {
       "name": "wallpaper7",
@@ -5264,6 +9264,16 @@
     },
     {
       "name": "wallpaper8",
+      "path": "assets/images/backgrounds/newbg/wallpaper8.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper8.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 137432,
+      "hash": "1a933ba7"
+    },
+    {
+      "name": "wallpaper8",
       "path": "assets/images/backgrounds/newbg/wallpaper8.webp",
       "sourcePath": "images/backgrounds/newbg/wallpaper8.webp",
       "category": "backgrounds",
@@ -5271,6 +9281,16 @@
       "kind": "image",
       "size": 38382,
       "hash": "77fc6de5"
+    },
+    {
+      "name": "wallpaper9",
+      "path": "assets/images/backgrounds/newbg/wallpaper9.jpg",
+      "sourcePath": "images/backgrounds/newbg/wallpaper9.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 84164,
+      "hash": "18d4a195"
     },
     {
       "name": "wallpaper9",
@@ -5284,6 +9304,16 @@
     },
     {
       "name": "water",
+      "path": "assets/images/img/ubereats/water.png",
+      "sourcePath": "images/img/ubereats/water.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9846,
+      "hash": "1bafc911"
+    },
+    {
+      "name": "water",
       "path": "assets/images/img/ubereats/water.webp",
       "sourcePath": "images/img/ubereats/water.webp",
       "category": "images",
@@ -5291,6 +9321,16 @@
       "kind": "image",
       "size": 2208,
       "hash": "100e117c"
+    },
+    {
+      "name": "weather",
+      "path": "assets/images/icons/weather.png",
+      "sourcePath": "images/icons/weather.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 4385,
+      "hash": "7640d258"
     },
     {
       "name": "weather",
@@ -5304,6 +9344,16 @@
     },
     {
       "name": "weather",
+      "path": "assets/images/img/appstore/weather.jpg",
+      "sourcePath": "images/img/appstore/weather.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 273511,
+      "hash": "16e488ab"
+    },
+    {
+      "name": "weather",
       "path": "assets/images/img/appstore/weather.webp",
       "sourcePath": "images/img/appstore/weather.webp",
       "category": "images",
@@ -5311,6 +9361,16 @@
       "kind": "image",
       "size": 121110,
       "hash": "f1273c77"
+    },
+    {
+      "name": "whatsapp",
+      "path": "assets/images/icons/whatsapp.png",
+      "sourcePath": "images/icons/whatsapp.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 11445,
+      "hash": "9d4e7419"
     },
     {
       "name": "whatsapp",
@@ -5324,6 +9384,16 @@
     },
     {
       "name": "whatsapp",
+      "path": "assets/images/img/apps/whatsapp.png",
+      "sourcePath": "images/img/apps/whatsapp.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 2297,
+      "hash": "88127032"
+    },
+    {
+      "name": "whatsapp",
       "path": "assets/images/img/apps/whatsapp.webp",
       "sourcePath": "images/img/apps/whatsapp.webp",
       "category": "images",
@@ -5331,6 +9401,16 @@
       "kind": "image",
       "size": 1596,
       "hash": "610687a2"
+    },
+    {
+      "name": "whatsapp",
+      "path": "assets/images/img/appstore/whatsapp.jpg",
+      "sourcePath": "images/img/appstore/whatsapp.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 23947,
+      "hash": "4185246b"
     },
     {
       "name": "whatsapp",
@@ -5344,6 +9424,16 @@
     },
     {
       "name": "whatsapp-chat",
+      "path": "assets/images/backgrounds/whatsapp-chat.png",
+      "sourcePath": "images/backgrounds/whatsapp-chat.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 698653,
+      "hash": "18d3f609"
+    },
+    {
+      "name": "whatsapp-chat",
       "path": "assets/images/backgrounds/whatsapp-chat.webp",
       "sourcePath": "images/backgrounds/whatsapp-chat.webp",
       "category": "backgrounds",
@@ -5351,6 +9441,16 @@
       "kind": "image",
       "size": 26116,
       "hash": "b9dbd791"
+    },
+    {
+      "name": "whatsapp-chat",
+      "path": "assets/images/img/whatsapp/whatsapp-chat.png",
+      "sourcePath": "images/img/whatsapp/whatsapp-chat.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 237102,
+      "hash": "fe98e6a7"
     },
     {
       "name": "whatsapp-chat",
@@ -5364,6 +9464,16 @@
     },
     {
       "name": "whatsapp-chat-dark",
+      "path": "assets/images/backgrounds/whatsapp-chat-dark.png",
+      "sourcePath": "images/backgrounds/whatsapp-chat-dark.png",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 281675,
+      "hash": "f270bd22"
+    },
+    {
+      "name": "whatsapp-chat-dark",
       "path": "assets/images/backgrounds/whatsapp-chat-dark.webp",
       "sourcePath": "images/backgrounds/whatsapp-chat-dark.webp",
       "category": "backgrounds",
@@ -5371,6 +9481,16 @@
       "kind": "image",
       "size": 46888,
       "hash": "ce64096e"
+    },
+    {
+      "name": "whatsapp-chatlight",
+      "path": "assets/images/img/whatsapp/whatsapp-chatlight.png",
+      "sourcePath": "images/img/whatsapp/whatsapp-chatlight.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 698653,
+      "hash": "006b0050"
     },
     {
       "name": "whatsapp-chatlight",
@@ -5384,6 +9504,16 @@
     },
     {
       "name": "Wheel",
+      "path": "assets/images/backgrounds/newbg/Wheel.jpg",
+      "sourcePath": "images/backgrounds/newbg/Wheel.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 125496,
+      "hash": "66ddcd37"
+    },
+    {
+      "name": "Wheel",
       "path": "assets/images/backgrounds/newbg/Wheel.webp",
       "sourcePath": "images/backgrounds/newbg/Wheel.webp",
       "category": "backgrounds",
@@ -5391,6 +9521,16 @@
       "kind": "image",
       "size": 53964,
       "hash": "7932dc68"
+    },
+    {
+      "name": "wheel2",
+      "path": "assets/images/backgrounds/newbg/wheel2.jpg",
+      "sourcePath": "images/backgrounds/newbg/wheel2.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 147158,
+      "hash": "f25069d4"
     },
     {
       "name": "wheel2",
@@ -5404,6 +9544,16 @@
     },
     {
       "name": "white_frame",
+      "path": "assets/images/cases/white_frame.png",
+      "sourcePath": "images/cases/white_frame.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 193518,
+      "hash": "62f65c2b"
+    },
+    {
+      "name": "white_frame",
       "path": "assets/images/cases/white_frame.webp",
       "sourcePath": "images/cases/white_frame.webp",
       "category": "images",
@@ -5414,6 +9564,16 @@
     },
     {
       "name": "widget1",
+      "path": "assets/images/img/definicoes/widget1.png",
+      "sourcePath": "images/img/definicoes/widget1.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 47897,
+      "hash": "47d83ae7"
+    },
+    {
+      "name": "widget1",
       "path": "assets/images/img/definicoes/widget1.webp",
       "sourcePath": "images/img/definicoes/widget1.webp",
       "category": "images",
@@ -5421,6 +9581,16 @@
       "kind": "image",
       "size": 5722,
       "hash": "b416c010"
+    },
+    {
+      "name": "widgets",
+      "path": "assets/images/img/definicoes/widgets.png",
+      "sourcePath": "images/img/definicoes/widgets.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 5812,
+      "hash": "2b5c6124"
     },
     {
       "name": "widgets",
@@ -5444,6 +9614,16 @@
     },
     {
       "name": "wifi",
+      "path": "assets/images/img/definicoes/wifi.png",
+      "sourcePath": "images/img/definicoes/wifi.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 9232,
+      "hash": "542e694c"
+    },
+    {
+      "name": "wifi",
       "path": "assets/images/img/definicoes/wifi.webp",
       "sourcePath": "images/img/definicoes/wifi.webp",
       "category": "images",
@@ -5451,6 +9631,16 @@
       "kind": "image",
       "size": 1834,
       "hash": "afed8e50"
+    },
+    {
+      "name": "workspace",
+      "path": "assets/images/icons/workspace.png",
+      "sourcePath": "images/icons/workspace.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 27159,
+      "hash": "d6eab0e2"
     },
     {
       "name": "workspace",
@@ -5474,6 +9664,16 @@
     },
     {
       "name": "yacht",
+      "path": "assets/images/backgrounds/newbg/yacht.jpg",
+      "sourcePath": "images/backgrounds/newbg/yacht.jpg",
+      "category": "backgrounds",
+      "group": "images",
+      "kind": "image",
+      "size": 309857,
+      "hash": "6ca94f6d"
+    },
+    {
+      "name": "yacht",
       "path": "assets/images/backgrounds/newbg/yacht.webp",
       "sourcePath": "images/backgrounds/newbg/yacht.webp",
       "category": "backgrounds",
@@ -5481,6 +9681,16 @@
       "kind": "image",
       "size": 185918,
       "hash": "dc1701ec"
+    },
+    {
+      "name": "yellowPages",
+      "path": "assets/images/icons/yellowPages.png",
+      "sourcePath": "images/icons/yellowPages.png",
+      "category": "icons",
+      "group": "images",
+      "kind": "image",
+      "size": 23277,
+      "hash": "5c11d048"
     },
     {
       "name": "yellowPages",
@@ -5494,6 +9704,16 @@
     },
     {
       "name": "youtube",
+      "path": "assets/images/img/apps/youtube.png",
+      "sourcePath": "images/img/apps/youtube.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 1211,
+      "hash": "42c4b9dc"
+    },
+    {
+      "name": "youtube",
       "path": "assets/images/img/apps/youtube.webp",
       "sourcePath": "images/img/apps/youtube.webp",
       "category": "images",
@@ -5501,6 +9721,16 @@
       "kind": "image",
       "size": 1080,
       "hash": "3ebb2001"
+    },
+    {
+      "name": "youtube",
+      "path": "assets/images/img/appstore/youtube.jpg",
+      "sourcePath": "images/img/appstore/youtube.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 46476,
+      "hash": "90c70320"
     },
     {
       "name": "youtube",
@@ -5514,6 +9744,16 @@
     },
     {
       "name": "youtubelogo",
+      "path": "assets/images/img/safari/youtubelogo.png",
+      "sourcePath": "images/img/safari/youtubelogo.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 50803,
+      "hash": "3bbae613"
+    },
+    {
+      "name": "youtubelogo",
       "path": "assets/images/img/safari/youtubelogo.webp",
       "sourcePath": "images/img/safari/youtubelogo.webp",
       "category": "images",
@@ -5524,6 +9764,16 @@
     },
     {
       "name": "zombieshooter",
+      "path": "assets/images/img/apps/zombieshooter.png",
+      "sourcePath": "images/img/apps/zombieshooter.png",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 333219,
+      "hash": "abaab2d6"
+    },
+    {
+      "name": "zombieshooter",
       "path": "assets/images/img/apps/zombieshooter.webp",
       "sourcePath": "images/img/apps/zombieshooter.webp",
       "category": "images",
@@ -5531,6 +9781,16 @@
       "kind": "image",
       "size": 29460,
       "hash": "02821cbb"
+    },
+    {
+      "name": "zombieshooter",
+      "path": "assets/images/img/appstore/zombieshooter.jpg",
+      "sourcePath": "images/img/appstore/zombieshooter.jpg",
+      "category": "images",
+      "group": "images",
+      "kind": "image",
+      "size": 68365,
+      "hash": "fff1cdde"
     },
     {
       "name": "zombieshooter",
