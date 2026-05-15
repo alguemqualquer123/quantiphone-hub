@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T20:01:55.356Z",
-  "totalAssets": 553,
+  "generatedAt": "2026-05-15T20:57:18.586Z",
+  "totalAssets": 554,
   "items": [
     {
       "name": "001",
@@ -3541,6 +3541,16 @@
       "kind": "audio",
       "size": 365340,
       "hash": "135d330d"
+    },
+    {
+      "name": "radios",
+      "path": "assets/radio/radios.json",
+      "sourcePath": "radio/radios.json",
+      "category": "audio",
+      "group": "radio",
+      "kind": "file",
+      "size": 7401,
+      "hash": "1833191b"
     },
     {
       "name": "record",
